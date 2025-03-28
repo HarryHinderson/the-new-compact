@@ -153,7 +153,7 @@ html_template = """<!DOCTYPE html>
     
     <footer>
         © 2025 Harry Hinderson. This work is openly licensed via CC BY-NC-SA 4.0.<br>
-        Contact: <a href="mailto:contact@newcompact.org" style="color: white;">contact@newcompact.org</a>
+        Contact: <a href="mailto:thedankmlgmemes@gmail.com" style="color: white;">thedankmlgmemes@gmail.com</a>
     </footer>
     <script>
         window.addEventListener('scroll', function() {{
