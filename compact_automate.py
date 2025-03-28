@@ -133,10 +133,10 @@ html_template = """<!DOCTYPE html>
         <h1>The New Compact - Amendments</h1>
     </header>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="amendments.html">Amendments</a>
-        <a href="faq.html">FAQ</a>
-        <a href="implementation.html">Implementation</a>
+        <a href="/">Home</a>
+        <a href="/amendments">Amendments</a>
+        <a href="/faq">FAQ</a>
+        <a href="/implementation">Implementation</a>
     </nav>
     
     <div class="container">
