@@ -32,7 +32,7 @@ Section 6. This amendment shall take effect immediately upon its ratification an
 
 
 4. Economic Security Amendment
-Purpose: To establish governmental powers to ensure access to essential economic services, including healthcare, education, and basic social support, while clarifying the roles of the United States and the states in promoting the general welfare.
+Purpose: Establishes governmental powers to ensure access to essential economic services, including healthcare, education, and basic social support, while clarifying the roles of the United States and the states in promoting the general welfare.
 Section 1. Congress shall have the power to establish uniform standards to promote economic security and general welfare, which may include but are not limited to:
 (a) Healthcare, including preventive, primary, hospital, and emergency services;
 (b) Free public education through secondary school and affordable higher education;(c) Pensions sufficient for a decent standard of living in retirement;(d) Unemployment insurance adequate to meet basic needs during periods of involuntary unemployment;(e) Nutrition, housing, and childcare assistance sufficient to support economic stability.
@@ -133,7 +133,7 @@ Section 5. This amendment shall take effect one year after its ratification.
 
 
 10. Fiscal Responsibility Amendment
-Purpose: To ensure fiscal responsibility, transparency in legislation, and a streamlined budget process by establishing a single presidential budget proposal, a consolidated Appropriation Act, and mechanisms to prevent legislative gridlock, while maintaining congressional authority over the federal budget.
+Purpose: Ensures fiscal responsibility, transparency in legislation, requiring single subject bills and one yearly taxation and appropriation bill, while including mechanisms to defend against gridlock and ensure governmental continuity.
 Section 1. Each bill, order, resolution, or vote submitted to the President under Article I, Section 7 of this Constitution shall embrace no more than one subject, which shall be clearly and descriptively expressed in its title.
 Section 2. The President shall not have the power to approve or disapprove of specific provisions within a bill presented for signature. The President must approve or veto the bill in its entirety, in accordance with Article I, Section 7 of this Constitution.
 Section 3.
@@ -217,7 +217,7 @@ Section 6. This amendment takes effect immediately upon ratification, with initi
 
 
 15. Federal Bureaucracy Amendment
-Purpose: To establish the federal bureaucracy as an institution, clarify Congress’s regulatory and delegation powers, and protect against executive overreach and politicization.
+Purpose: Clarifies Congress’s regulatory and delegatory powers, and their power to insulate Federal institutions against executive overreach.
 Section 1. The federal bureaucracy, consisting of executive departments, independent agencies, and other administrative bodies, is hereby established as a permanent institution within the federal government, overseen by the President. Its purpose shall be to implement and enforce the laws of the United States, administer public programs, and provide expertise and continuity in governance.
 Section 2. The federal bureaucracy shall operate under the following principles:
 (a) Independence: Agencies shall exercise their authority free from undue political interference, subject to oversight by Congress and the judiciary.
@@ -258,7 +258,7 @@ Section 4. This amendment shall take effect immediately upon its ratification.
 
 
 18. Advisory Senate Amendment
-Purpose: Repeals the Seventeenth Amendment and reforms the Senate into a nonpartisan, advisory body of elder statesmen, including former Presidents, selected by states, with selective bill review and retained powers to provide sobered counsel and elevate the Presidency’s long-term stakes.
+Purpose: Repeals the Seventeenth Amendment and reforms the Senate into a nonpartisan, advisory body of elder statesmen, including former Presidents, selected by states, with several selectively retained powers to provide a sobered check on the House and the Executive.
 Section 1. The Seventeenth Amendment is hereby repealed. The Senate shall be composed of two Senators from each State, selected by a method determined by the State legislature, subject to the following: candidates must have resided in the State for ten years, be at least forty years of age, and have held no partisan office for at least seven years prior to selection. Former Presidents of the United States shall automatically become Senators for life upon leaving office, representing their State of residence at the time of their presidency, in addition to the two selected Senators. Congress may establish additional qualifications by law, and States shall ensure a transparent, nonpartisan process.
 Section 2. The Senate shall not originate bills or resolutions. Upon receiving a bill passed by the House of Representatives, the Senate may, by majority vote, choose to review the bill. If rejected, it shall be sent back to the house with recommendations. The house may then pass the bill again by simple majority. The Senate shall have the power to review a bill twice, before passage by the House shall send the bill for Presidential approval without further Senate action.
 Section 3. State-selected Senators shall serve six-year terms, renewable at the discretion of their State’s selection process. Former Presidents shall serve as Senators for life, removable only by Senate impeachment under its own statutes. Presidents serving as Senators for life shall not count towards the quorum of the Senate, nor shall they raise the amount required for meeting a quorum.
@@ -295,7 +295,7 @@ Section 11. This amendment shall take effect one year after its ratification, wi
 
 
 20. Score Voting Amendment
-Purpose: Replaces the Electoral College with a score voting system for presidential elections.
+Purpose: Establishes a score voting system for presidential elections, and a new framework for the certification of presidential elections.
 Section 1. The President and Vice President shall be elected by the people of the United States through a score voting system. Each voter shall assign a score to each presidential ticket on a scale of zero to ten, inclusive, with zero indicating the lowest preference and ten indicating the highest preference. Voters may assign the same score to multiple tickets if they have no preference between them.
 Section 2. The presidential ticket with the highest total score shall be elected. In the event of a tie for the highest total score, the President and Vice President shall be chosen by a joint session of both houses of Congress.
 Section 3. The Electoral College, as established by Article II, Section 1, Clause 2 and modified by the Twelfth Amendment, shall hereafter certify the results of the Presidential election, after having been adjudicated by the Electoral Court, if established by the Judicial System Amendment (Amendment 7), and before having been certified by a joint session of Congress presided over by the Vice President or Secretary of State as established by the Executive Secretaries Amendment (Amendment 37).
@@ -304,8 +304,8 @@ Section 5. This amendment shall take effect for the first federal election occur
 
 
 21. Parliamentary Amendment
-Purpose: Makes the Speaker of the House the First Secretary who heads the Presidential cabinet within the Executive Office of the President and presides over the House.
-Section 1. First Secretary, who shall serve as the head of the Presidential cabinet within the Executive Office of the President, the principal advisor to the President of the United States, and the presiding officer of the House of Representatives.
+Purpose: Makes the Speaker of the House the First Secretary, who heads the Presidential cabinet within the Executive Office of the President, presides over the House, and is delegated authority over the day-to-day administration of the state.
+Section 1. Article I, Section 2, Clause 5 of this Constitution is amended to read as follows: "The House of Representatives shall have the sole power of Impeachment." The Speaker of the House of Representatives shall be the First Secretary, who shall be appointed by the President with the advice and consent of the House of Representatives. The First Secretary shall serve as the head of the Presidential cabinet within the Executive Office of the President, the principal advisor to the President of the United States, and the presiding officer of the House of Representatives.
 Section 2. The Executive Office of the President is hereby established as a permanent institution under the direction of the President. The EOP shall consist of the Presidential cabinet and such other officers Congress may designate to assist in the faithful execution of the laws. The President shall oversee the EOP and ensure its alignment with the policies and priorities of the United States. The President may create, reorganize, or abolish offices or councils within the Executive Office of the President to assist in their duties, provided such actions do not infringe on powers or independence established by this Constitution or law.
 Section 3. The First Secretary shall be appointed by the President, with the advice and consent of the House of Representatives, at the beginning of each Congress and shall serve for the duration of that Congress, unless removed as provided herein. The First Secretary must be a member of the House of Representatives at the time of appointment.
 Section 4. The President shall retain all executive authority vested in the office by this Constitution but shall delegate to the First Secretary the day-to-day administration of affairs through the Presidential cabinet. Upon the appointment of the first First Secretary, and unless otherwise limited by subsequent presidential directive, the First Secretary shall be delegated the full scope of delegable day-to-day administrative powers over policy, including but not limited to:
@@ -315,17 +315,17 @@ Section 4. The President shall retain all executive authority vested in the offi
 (d) Management of federal personnel and resources, except during budget impasses, emergencies, or military engagements, where the President retains authority as provided by the Budget Continuity, Emergency Powers, and War Powers Amendments.
 Powers delegated to Executive Secretaries by the Executive Secretaries Amendment shall not be, and cannot be, delegated to the First Secretary.
 Section 5. The Presidential cabinet shall consist of the principal officers of the executive departments, and such other officers as Congress may by law designate as cabinet officials. The President shall nominate cabinet officials, subject to the advice and consent of the Senate and the First Secretary. The cabinet shall assist the First Secretary in administering affairs, including the leadership of the federal bureaucracy as provided in Amendment 21. Cabinet officials shall serve at the pleasure of the First Secretary, subject to Presidential oversight as defined in Section 4, and may be removed by the First Secretary or by the President with the consent of the Senate.
-Section 6. The First Secretary may be removed by the House of Representatives through a motion to vacate, which shall require:
+Section 6. The House of Representatives may revoke their consent of the First Secretary through a motion to vacate, thereby requiring the First Secretary to resign. A motion to vacate shall require:
 (a) A petition signed by at least one-third of the members of the House to initiate the motion;
 (b) A majority vote of the House to approve the motion, conducted no sooner than 30 days after the petition is filed, unless an emergency is declared by a two-thirds vote.
-Upon removal, the House shall consent to a new First Secretary within 60 days, during which the President shall resume direct administration, assisted by an interim cabinet of deputy secretaries or senior civil servants from existing departments, selected by the President based on merit and expertise, as defined by law. If a vacancy persists for 6 months after its occurrence, a special election shall be held to elect a new House of Representatives, which shall consent to a new First Secretary within 30 days of convening. If this vacancy persists for 30 days after its occurrence, the deputy with the longest tenure shall become the First Secretary until the next general election.
+Upon the resignation of the First Secretary, through a motion to vacate or by other means, the House shall consent to a new First Secretary within 60 days, during which the President shall resume direct administration, assisted by an interim cabinet of deputy secretaries or senior civil servants from existing departments, selected by the President based on merit and expertise, as defined by law. If a vacancy persists for 6 months after its occurrence, a special election shall be held to elect a new House of Representatives, which shall consent to a new First Secretary within 30 days of convening. If this vacancy persists for 30 days after its occurrence, the deputy with the longest tenure shall become the First Secretary until the next general election.
 Section 7. The President shall retain the authority to:
 (a) Nominate ambassadors, public ministers, consuls, and judges, subject to the advice and consent of the Senate, and, where applicable, the First Secretary;
 (b) Grant pardons and reprieves;
 (c) Veto legislation;
 (d) Command the armed forces as Commander in Chief, including the introduction of forces into hostilities as provided by the War Powers Amendment;
 (e) Declare and manage states of emergency under the Emergency Powers Amendment, adjust budgets during impasses as sanctioned under the Budget Continuity Amendment, and suspend labor rights in national security emergencies under the Collective Bargaining Amendment.
-These powers shall not be delegable to the First Secretary unless expressly authorized by law.
+These powers shall not be delegable to the First Secretary.
 Section 8. In the event of a conflict between the President and the First Secretary regarding delegated domestic authority, the matter shall be resolved by a joint committee of Congress, composed of five members of the House and five members of the Senate, appointed by their respective chambers. The committee’s decision, reached by a majority vote, shall be binding unless overridden by a two-thirds vote of both Houses.
 Section 9. As presiding officer, the First Secretary shall have the authority to:
 (a) Preside over all sessions of the House of Representatives, maintaining order and decorum;
@@ -366,7 +366,7 @@ Section 7. This amendment shall take effect one year post-ratification, transiti
 
 
 24. Privacy Amendment
-Purpose: To affirm and protect the right of individuals to privacy in their personal lives and data, ensuring security against unreasonable intrusion by government or private entities, with limited exceptions for public safety and national security.
+Purpose: Affirms and protects the right of individuals to privacy in their personal lives and data, ensuring security against unreasonable intrusion by government or private entities, with limited exceptions for public safety and national security.
 Section 1. The right of the people to privacy in their persons, homes, papers, electronic data, communications, and effects shall not be violated by unreasonable intrusion, surveillance, or disclosure by the United States, any State, or private entities. This right includes autonomy over personal decisions regarding family, health, and information, free from undue interference.
 Section 2. No law, regulation, or action shall infringe upon this right except when necessary to address a national security emergency or imminent threat to public safety, as explicitly authorized by law. Any such exception must:
 (a) Be supported by credible evidence of a specific and immediate danger;
@@ -387,7 +387,7 @@ Section 6. This amendment shall take effect one year after its ratification, all
 
 
 25. War Powers Amendment
-Purpose: Clarifies the authority of the President and Congress in matters of war and military engagements, ensuring democratic accountability through Congressional oversight, preserving the First Secretary’s administration of foreign and domestic policy, and enabling the President to respond decisively to attacks or imminent threats while limiting executive power to emergency actions consistent with a representational role.
+Purpose: Clarifies the authority of the President and Congress in matters of war and military engagements, ensuring democratic accountability through Congressional oversight while enabling the President to respond decisively to attacks or imminent threats while limiting executive power to emergency actions consistent with a representational role.
 Section 1. The Congress shall have the power to declare war, and no offensive military engagement by the United States shall commence without a formal declaration of war or specific statutory authorization by Congress, except in cases of a national emergency created by an attack or imminent threat to the United States, its territories or possessions, or its armed forces.
 Section 2. In the absence of a declaration of war, the President may introduce the Armed Forces of the United States into hostilities or situations where imminent involvement in hostilities is clearly indicated by the circumstances only pursuant to:
 (a) A specific statutory authorization enacted by Congress; or
@@ -410,23 +410,24 @@ Section 9. This article shall take effect one year after the date of its ratific
 
 
 26. Constitutional Review Amendment
-Purpose: To create a mechanism for periodic review of the Constitution, with any proposed amendments subject to the updated amendment process in Article V as modified by the Amendment Amendment.
+Purpose: Creates a mechanism for periodic review of the Constitution.
 Section 1. Every 30 years, a Constitutional Review Commission shall convene to assess the Constitution’s effectiveness and propose amendments as needed. The first review shall occur 30 years after this amendment’s ratification.
 Section 2. The Commission shall include legal scholars, historians, representatives from each branch of the federal government, and public members chosen through a nonpartisan process.
 Section 3. The Commission shall conduct public hearings and gather input from citizens to ensure transparency and broad participation. All proposed amendments shall be submitted to Congress for review.
-Section 4. Any amendments proposed by the Commission must be approved by a two-thirds vote of each House of Congress. If approved, they shall be submitted to a nationwide referendum for ratification, following the process outlined in the Amendment Amendment.
+Section 4. Any amendments proposed by the Commission must be approved by the process outlined in this Constitution.
 Section 5. Congress shall enact legislation to enforce this amendment, including laws to define the Commission’s composition, procedures, and funding, and to ensure public access to its work.
 Section 6. This amendment shall take effect immediately upon ratification.
 
 
 27. House of Representatives Amendment
-Section 1. Article 1, Section 2, Clause 3 of this Constitution is hereby repealed. Representatives shall be apportioned among the several states shall be determined by applying the cube root of the total population of the United States, as ascertained by the most recent decennial census, rounded to the nearest whole number, with the enumerations happening within three years of every cen. Each State shall be apportioned its share of Representatives according to its population, using the method of equal proportions as Congress shall by law direct. Each state shall have at least one representative, and for every state that is granted one representative where they would otherwise have none, one representative shall be subtracted from the total number of seats when apportioning representatives by equal proportions.
+Purpose: Reapportions representatives by the cube root law to ensure adequate representation, and establishes Instant Runoff Voting as the electoral mechanism for congressional districts.
+Section 1. Article 1, Section 2, Clause 3 of this Constitution is hereby repealed. Representatives shall be apportioned among the several states shall be determined by applying the cube root of the total population of the United States, as ascertained by the most recent decennial census, rounded to the nearest whole number, with the enumerations happening within the first three years of every decade. Each State shall be apportioned its share of Representatives according to its population, using the method of equal proportions as Congress shall by law direct. Each state shall have at least one representative, and for every state that is granted one representative where they would otherwise have none, one representative shall be subtracted from the total number of seats when apportioning representatives by equal proportions.
 Section 2. The Electors in each congressional district shall elect one singular Representative by the method of Instant Runoff Voting, whereby each Elector shall rank the candidates in order of preference. If no candidate shall attain a majority of first-preference votes, the candidate with the fewest such votes shall be eliminated, and the votes cast for that candidate shall be redistributed according to the next preference indicated on each ballot. This process shall continue until one candidate shall have secured a majority of the votes then remaining.
 Section 3. The determination of the number of Representatives as provided in Section 1 shall take effect for the first Congress chosen following the next decennial census conducted after the ratification of this article. The method of election by Instant Runoff Voting shall be implemented in all States for the first election of Representatives following such ratification. Congress shall have power to enforce this article by appropriate legislation, including the establishment of uniform procedures for the conduct of such elections and the provision of necessary resources to the States for the adoption thereof. All provisions of this Constitution or laws of the United States inconsistent with this article are hereby amended to the extent necessary to give effect to these requirements.
 
 
 28. Emergency Powers Amendment
-Purpose: To define and limit the executive’s emergency powers, ensuring accountability and preventing abuse.
+Purpose: Defines and limits the executive’s emergency powers, ensuring accountability and preventing abuse.
 Section 1. The President may declare a state of emergency only in response to a national crisis, such as a natural disaster, pandemic, or attack on the United States, its territories, or its armed forces, except in cases of military engagements, which shall be governed by the War Powers Amendment. Such declarations must be specific in scope and duration.
 Section 2. Any emergency declaration must be submitted to Congress within 48 hours. Congress shall have the power to approve, modify, or terminate the declaration by a majority vote of the House of Representatives, following the Senate’s advisory review as provided by the Advisory Senate Amendment, within 30 days.
 Section 3. Emergency powers shall be limited to actions necessary and proportional to the crisis. No emergency measure shall suspend constitutional rights or freedoms, except as provided by law and subject to judicial review.
@@ -442,7 +443,7 @@ Section 8. This amendment shall take effect immediately upon its ratification, w
 
 
 29. Citizenship and Residency Amendment
-Purpose: To clarify the rights and responsibilities of lawful permanent residents and temporary residents, the exclusive rights and privileges of citizens, and the responsibilities of citizens, while preserving equal protection under the law for all persons.
+Purpose: Clarifies the rights and responsibilities of lawful permanent residents and temporary residents, the exclusive rights and privileges of citizens, and the responsibilities of citizens, while preserving equal protection under the law for all persons.
 Section 1. Lawful permanent residents, legally admitted to reside permanently, and temporary residents, legally admitted to reside for a defined period under federal law, shall have rights to reside, work, own property, and access due process, subject to law. Their status may be revoked only by judicial process for cause, consistent with their respective admission terms.
 Section 2. Citizens alone shall have exclusive rights to vote in federal elections, hold federal office, serve on federal juries, and receive consular protection abroad, with responsibilities to pay taxes and serve in drafts as required by law.
 Section 3. The right to equitable access to economic support programs established by law shall extend only to citizens and lawful permanent residents. 
@@ -452,7 +453,7 @@ Section 6. This amendment shall take effect immediately upon its ratification.
 
 
 30. Property Rights Amendment
-Purpose: To affirm and protect the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference while balancing public needs.
+Purpose: Affirms and protects the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference while balancing public needs.
 Section 1. Every natural person within the jurisdiction of the United States shall have the right to acquire, own, use, and dispose of private property, including real and personal property, as a fundamental aspect of liberty and economic security.
 Section 2. No person shall be deprived of their property by the United States or the states without due process of law. Private property shall not be taken for public use by the government without just compensation. These protections shall not be abridged except by laws necessary to protect public health, safety, or welfare, and such laws must be narrowly tailored to achieve their purpose.
 Section 3. The United States and the states shall not impose unreasonable restrictions on the ownership or use of property, including excessive taxation, arbitrary zoning, or discriminatory regulations, that undermine the exercise of this right.
@@ -463,7 +464,7 @@ Section 7. This amendment shall take effect immediately upon its ratification.
 
 
 31. Sovereign Accountability Amendment 
-Purpose: To limit sovereign immunity, ensure accountability of the United States and its officers for violations of rights, duties, and torts, and regulate Presidential pardons, enhancing justice and transparency.
+Purpose: Limits sovereign immunity, ensures accountability of the United States and its officers for violations of rights, duties, and torts, and regulates Presidential pardons, enhancing justice and transparency.
 Section 1. The United States and its agencies shall not enjoy absolute immunity from suit in federal or state courts. Sovereign immunity is hereby waived for:
 (a) Violations of rights guaranteed by this Constitution or its amendments;
 (b) Breaches of statutory duties imposed by federal law;
@@ -497,12 +498,13 @@ Section 4. This amendment shall take effect one year after its ratification, all
 
 33. Succession Clarity Amendment
 Purpose: Resolves ambiguities in the presidential line of succession beyond the Vice President, ensuring a clear chain of command without gaps.
-Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the First Secretary, if established under the Parliamentary Amendment, shall serve as Acting President. If no First Secretary exists or if the Parliamentary Amendment has not yet taken effect, the Speaker of the House, or if that office is abolished and no replacement appointed, the President pro tempore of the Senate, shall serve as Acting President.
-Section 2. Upon assuming the role of Acting President, the First Secretary, Speaker of the House, or President pro tempore shall vacate their prior office. 
+Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the Speaker of the House shall serve as acting President. In case of the vacancy or inability of the Speaker of the House, the President pro tempore of the Senate shall serve as Acting President.
+Section 2. Upon assuming the role of Acting President, the Speaker of the House or President pro tempore shall vacate their prior office. 
 Section 3. Congress shall by law designate the order of other officials in the line of succession to serve as Acting President if the above officers are unavailable, ensuring continuity of executive authority. Congress may revise this order as needed, reflecting national priorities and departmental roles. Any such officer shall vacate their cabinet position upon assuming the role of Acting President, with the vacancy filled as provided by law.
 Section 4. Any officer serving as Acting President under this article shall exercise the powers and duties of the President but shall not assume the office of President or Vice President. Their service shall continue only until a President or Vice President is elected by special election, as provided by law, or the disability of either is removed, as provided by the Twenty-Fifth Amendment.
 Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance.
 Section 6. This amendment shall take effect one year after its ratification, with succession laws updated within six months.
+
 34. Treaty Enforcement Amendment
 Purpose: Clarifies the status and enforcement of treaties, ensuring consistency with domestic law and tribal obligations under the Indian Amendment.
 Section 1. All treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land, equal in force to this Constitution and federal statutes, and shall be binding on the United States and the several states.
@@ -513,7 +515,7 @@ Section 5. This amendment shall take effect one year after its ratification, wit
 
 
 35. Municipalization Amendment
-Purpose: To empower municipalities to own, operate, and manage public services, ensuring democratic control, affordability, and equitable access to essential utilities and infrastructure, while balancing federal and state oversight to protect the public interest.
+Purpose: Empowers municipalities to own, operate, and manage public services, ensuring democratic control, affordability, and equitable access to essential utilities and infrastructure, while balancing federal and state oversight to protect the public interest.
 Section 1. The United States and the several States shall recognize the right of municipalities to establish, acquire, own, operate, and manage public services, including but not limited to water, electricity, natural gas, public transportation, broadband internet, and waste management, as a means of promoting the general welfare, economic security, and democratic governance within their jurisdictions.
 Section 2. Municipalities may exercise the authority granted under Section 1 through democratic processes, including voter referendums or resolutions by duly elected local governing bodies, provided that such actions:
 (a) Ensure affordability, accessibility, reliability, and quality of service for all residents, without discrimination on any basis outlined in the Voting Rights and Civil Rights Amendment;
@@ -536,7 +538,7 @@ Section 9. This amendment shall take effect one year after its ratification, all
 
 
 36. Firearm Amendment
-Purpose: To clarify the respective roles of the United States and the several states in regulating firearms, affirming that gun control is primarily a state issue with limited federal authority, while ensuring the Second Amendment rights of individuals are protected and balanced with public safety.
+Purpose: Clarifies the respective roles of the United States and the several states in regulating firearms, affirming that gun control is primarily a state issue with limited federal authority, while ensuring the Second Amendment rights of individuals are protected.
 Section 1. The several states shall have the primary authority to regulate the manufacture, sale, purchase, possession, transfer, and use of firearms and ammunition within their jurisdictions, consistent with the Second Amendment to this Constitution. Such regulations may include, but are not limited to:
 (a) Background checks, waiting periods, and licensing requirements for firearm purchases;
 (b) Restrictions on the types of firearms or ammunition available for civilian use;
@@ -560,7 +562,7 @@ Section 8. This amendment shall take effect one year after its ratification, all
 
 
 37. Executive Secretaries Amendment
-Purpose: To establish key federal positions as executive secretaries by the provisions of this constitution.
+Purpose: Establishes key federal positions as executive secretaries, independent positions directly accountable to the Senate and delegated exclusive executive powers.
 Section 1. 
 (a) An Executive Secretary is a senior federal officer within the Executive Office of the President, part of the federal bureaucracy under the Federal Bureaucracy Amendment (Amendment 15), delegated with exclusive administrative powers, such as cross-branch coordination and emergency directives within their designated domains, beyond the delegated authority of independent agencies under Amendment 15, insulated from direct executive or partisan interference, and accountable directly to the Senate and the President. The First Secretary, if established, shall nominally be an executive secretary, but their title shall not be defined by the terms of this amendment, being unique in purpose and function.
 (b) The following offices are hereby established as Executive Secretaries within the Executive Office of the President:

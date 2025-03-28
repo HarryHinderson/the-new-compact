@@ -27,6 +27,10 @@ for block in amendment_blocks:
     number = title_match.group(1)
     title = title_match.group(2).strip()
     
+    # Extract Purpose
+    purpose_match = re.search(r'Purpose:\s*(.+?)(?=\nSection \d+\.|$)', block, re.DOTALL)
+    purpose = purpose_match.group(1).strip().replace('\n', ' ') if purpose_match else "No purpose specified."
+    
     # Extract sections
     section_pattern = r'Section (\d+)\.\s+(.+?)(?=\nSection \d+\.|$|\nPurpose:|\n\d+\.\s+)'
     sections = []
@@ -36,30 +40,26 @@ for block in amendment_blocks:
         section_num = match.group(1)
         section_text = match.group(2).strip()
         
-        # Step 1: Break between subpoints in a list
+        # Break between subpoints
         section_text = re.sub(r'([.:;\s])\s*(\([a-z]+\)|\([ivxlcdm]+\))\s+', r'\1<br>\2 ', section_text)
-        
-        # Step 2: Break after a subpoint list only if followed by a sentence
-        # Look for last subpoint in a sequence, followed by a period and more text
+        # Break after subpoint list before continuation
         section_text = re.sub(r'(\([a-z]+\)|\([ivxlcdm]+\))\s*\.\s*([A-Z][^\(]*)$', r'\1<br>.\2', section_text)
-        
-        # Step 3: Remove <br> if it's the first thing
+        # Remove leading <br>
         if section_text.startswith('<br>'):
             section_text = section_text[4:]
         
-        # Clean up: flatten remaining newlines
         section_text = section_text.replace('\n', ' ').strip()
         sections.append((section_num, section_text))
     
     if sections:
-        amendment_data.append((number, title, sections))
-        print(f"Amendment {number}: {title} - {len(sections)} sections")
+        amendment_data.append((number, title, purpose, sections))
+        print(f"Amendment {number}: {title} - Purpose: {purpose[:50]}... - {len(sections)} sections")
     else:
         print(f"No sections found for Amendment {number}: {title} - Block: {repr(block[:200])}...")
 
 print(f"Total amendments parsed: {len(amendment_data)}")
 
-# HTML template (unchanged)
+# HTML template with Purpose
 html_template = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -115,7 +115,7 @@ html_template = """<!DOCTYPE html>
 toc_entries = []
 main_entries = []
 
-for number, title, sections in amendment_data:
+for number, title, purpose, sections in amendment_data:
     toc_subsections = '\n'.join(
         f'                        <li class="toc-subsection"><a href="#amendment{number}-section{s_num}">Section {s_num}</a></li>'
         for s_num, _ in sections
@@ -137,6 +137,7 @@ for number, title, sections in amendment_data:
         for s_num, s_text in sections
     )
     main_entry = f"""        <h2 class="amendment" id="amendment{number}">{number}. {title}</h2>
+        <p class="purpose">{purpose}</p>
 {main_sections}
         <a href="#top" class="back-to-top">Back to Top</a>"""
     main_entries.append(main_entry)

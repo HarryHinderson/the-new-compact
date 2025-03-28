@@ -132,6 +132,13 @@ footer {
     border-bottom: 2px solid #ba3232;
     padding-bottom: 10px;
 }
+.purpose {
+    font-size: 0.9em; /* Smaller than default p */
+    color: #7a1e1e; /* Darker red, optional */
+    margin: 0.5em 0 1em 0; /* Spacing above/below */
+    line-height: 1.4; /* Slightly tighter than p’s 1.6 */
+    font-style: italic;
+}
 h3 {
     color: #9b2929;
     margin-top: 20px;
