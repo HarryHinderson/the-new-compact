@@ -74,8 +74,8 @@ html_template = """<!DOCTYPE html>
     </header>
     <nav>
         <a href="index.html">Home</a>
-        <a href="faq.html">FAQ</a>
         <a href="amendments.html">Amendments</a>
+        <a href="faq.html">FAQ</a>
         <a href="implementation.html">Implementation</a>
     </nav>
     
