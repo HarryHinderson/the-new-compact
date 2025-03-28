@@ -1,0 +1,606 @@
+﻿1. The Amendment Amendment
+Purpose: Establishes a new process for amending the Constitution, requiring a nationwide referendum.
+Section 1. No amendment to this Constitution shall become valid unless it is approved by a vote of two-thirds of each House of Congress and ratified by a majority of the votes cast in a nationwide referendum, except as provided in Section 3.
+Section 2. The referendum required for ratification shall occur at intervals of two years, coinciding with the general election for Members of the House of Representatives. The text of the proposed amendment shall be made available to the electorate in a clear and accessible manner no less than ninety days prior to such referendum. The referendum shall require a majority of votes cast, reflecting at least 30% of eligible voters. Ties shall result in failure unless Congress passes a joint resolution with a two-thirds majority. Congress shall fund and oversee a national education campaign for each referendum, ensuring accessible materials and public forums at least 120 days prior.
+Section 3. In cases of urgent national need, Congress may bypass the referendum requirement with a three-fourths majority vote in both Houses, subject to review by the Constitutional Court, if established, or Supreme Court within 60 days.
+Section 4. This amendment shall modify the process for amending this Constitution as outlined in Article V, which is hereby amended to the extent necessary to give effect to this provision. No other part of Article V shall be construed to conflict with the requirements set forth herein.
+Section 5. This amendment shall not affect the validity of amendments ratified prior to its adoption.
+Section 6. Congress shall have the power to enforce this article by appropriate legislation.
+Section 7. This amendment takes effect immediately and governs all subsequent ratifications.
+
+
+2. Voting Rights and Civil Rights Amendment
+Purpose: Guarantees equality under the law and protects voting rights for all citizens, consolidating non-discrimination and electoral access into a comprehensive rights framework.
+Section 1. Equality of rights under the law shall not be denied or abridged by the United States or any State on account of sex, sexual orientation, gender identity, race, color, ethnicity, national origin, religion, age, disability, or any arbitrary basis. This protection extends to all persons within U.S. jurisdiction, including equitable access to public services and economic support programs established by law.
+Section 2. The right of citizens to vote in any federal, state, or local election shall not be denied or abridged on any basis listed in Section 1 or any other status. No law shall have the purpose or effect of denying or abridging voting rights, and any infringement shall be subject to strict judicial scrutiny.
+Section 3. The United States and every State shall ensure public services and voting access are accessible and free from discrimination, as defined by Congress and the States through legislation.
+Section 4. Congress shall have the power to enforce this article by appropriate legislation, including laws to prohibit discrimination, protect voting rights, ensure equitable access, and provide remedies for violations.
+Section 5. This amendment shall take effect immediately upon ratification.
+
+
+3. Gerrymandering Amendment
+Purpose: Prohibits partisan gerrymandering and establishes independent redistricting commissions.
+Section 1. The drawing of congressional and state legislative districts shall be conducted in a manner that ensures fairness, neutrality, and equal representation for all citizens. Partisan gerrymandering, defined as the manipulation of district boundaries to favor one political party or group over others, is hereby prohibited.
+Section 2. Districts shall be drawn to comply with the following principles:
+(a) Districts shall be compact and composed of contiguous territory.
+(b) Districts shall minimize division of political subdivisions unless necessary for equal population or compactness.
+(c) Districts shall not be drawn with the intent or effect of diluting the voting strength of any group of voters based on race, ethnicity, language, or political affiliation.
+Section 3. An independent redistricting commission shall be established in each State to oversee the drawing of districts. Commissioners shall be appointed in a sufficiently nonpartisan manner. No commissioner shall have held elective office, served as an officer of a political party, or been a candidate for federal or state office within the previous five years.
+Section 4. The redistricting process shall be transparent, with opportunities for public input and review. Proposed district maps, along with the data and criteria used to create them, shall be made available to the public for comment at least 3 months before final adoption.
+Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish standards for redistricting, ensure the independence of redistricting commissions, and provide remedies for violations of this article.
+Section 6. This amendment shall take effect immediately upon its ratification and shall apply to all redistricting processes occurring after its ratification.
+
+
+4. Economic Security Amendment
+Purpose: To establish governmental powers to ensure access to essential economic services, including healthcare, education, and basic social support, while clarifying the roles of the United States and the states in promoting the general welfare.
+Section 1. Congress shall have the power to establish uniform standards to promote economic security and general welfare, which may include but are not limited to:
+(a) Healthcare, including preventive, primary, hospital, and emergency services;
+(b) Free public education through secondary school and affordable higher education;(c) Pensions sufficient for a decent standard of living in retirement;(d) Unemployment insurance adequate to meet basic needs during periods of involuntary unemployment;(e) Nutrition, housing, and childcare assistance sufficient to support economic stability.
+Section 2. The several States shall implement these duties within their jurisdictions in conformity with the standards established by Congress, with the flexibility to exceed such standards as they deem appropriate. Congress shall provide assistance to the States to fulfill these duties and may enforce compliance through appropriate measures, including funding incentives or penalties. Notwithstanding the foregoing, the United States may directly administer programs providing healthcare, pensions, and related services to the armed forces, veterans of the armed forces, their dependents, or survivors, as established by law.
+Section 3. Congress shall have the power to levy taxes and appropriate funds to fulfill these duties, ensuring that access is provided in a manner consistent with fiscal responsibility and the needs of the populace.
+Section 4. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish programs, set funding mechanisms, and ensure effective administration of these duties. Individuals denied access due to governmental failure may seek remedy in the courts of the United States, subject to standards defined by law.
+Section 5. This amendment shall take effect ten years after its ratification, allowing time for Congress and the States to enact necessary legislation and secure funding. Congress shall initiate pilot programs in select states or regions within three years of ratification to test implementation of healthcare and education provisions, with results informing nationwide rollout. Existing state and federal programs, including but not limited to Social Security, Medicare, Medicaid, and SNAP, shall be brought into compliance with this amendment within the ten-year period.
+
+
+5. Internal Improvements Amendment
+Purpose: Clarifies Congress's power to fund and regulate internal improvements.
+Section 1. The Congress shall have the power to lay and collect taxes, duties, imposts, and excises to provide for internal improvements, including but not limited to the construction and maintenance of roads, bridges, canals, railways, ports, airports, and other infrastructure projects that promote interstate commerce, national security, and the general welfare.
+Section 2. The federal government shall have the authority to plan, construct, and administer internal improvements, either directly or in cooperation with the states, territories, or private entities under competitive and transparent terms, with the consent of the affected State unless interstate commerce or national security necessitates otherwise, provided that such projects comply with laws enacted by Congress.
+Section 3. This amendment shall take effect immediately upon its ratification.
+
+
+6. Code of Conduct Amendment
+Purpose: Establishes a federal code of conduct for lawmakers and judges, overseen by an Ethics Commission composed of existing Executive Secretaries, to ensure ethical governance and accountability with clear judicial self-governance.
+Section 1.
+(a) The Ethics Commission, composed of the Attorney General, Inspector General, Secretary of State, and Comptroller General as established under the Executive Secretaries Amendment, shall oversee the development and enforcement of a federal code of conduct for all members of Congress, federal judges, and federal employees. The Inspector General shall chair the Commission. The code shall address conflicts of interest, financial disclosure, abuse of power, and other ethical standards necessary to maintain public trust and constitutionality, as prescribed by law.
+(b) Congress shall enact legislation within one year of this amendment’s ratification to establish the code, in consultation with the Ethics Commission, ensuring it is transparent, enforceable, and accessible to the public.
+Section 2.
+(a) The Ethics Commission shall investigate alleged violations of the code by members of Congress and federal judges, upon complaint or by its own initiative. Investigations shall be conducted impartially, with subpoena power granted by law, and findings shall be reported to Congress, the judiciary, and the public within 90 days of initiation, unless extended by judicial order.
+(b) Recommendations for expulsion of lawmakers or discipline/removal of judges shall be submitted to the appropriate body (Congress or judiciary) within 60 days of an investigation’s conclusion. Congress or the Judicial Conference shall act within 90 days, or the matter may be referred to the Constitutional Court or Supreme Court for resolution.
+(c) If a Commission member’s office is implicated in an investigation, they shall recuse, and the Constitutional Court if existent, or Supreme Court otherwise, shall appoint a temporary substitute from senior civil servants within 15 days, ensuring impartiality.
+Section 3.
+(a) Congress may expel a member by a three-fifths vote of the respective chamber upon the recommendation of the Ethics Commission for violating the federal code of conduct.
+(b) The federal judiciary may discipline or remove judges following the Ethics Commission’s findings of code violations, as follows:
+(i) The Chief Judge of the affected court (district, circuit, Supreme, Constitutional, or Electoral) shall convene a panel of three active judges from that court to review the recommendation within 30 days.
+(ii) If the panel finds cause, the Judicial Conference of the United States, as established under the Judicial System Amendment, shall vote on removal by a majority of its members within 60 days.
+(iii) Decisions are subject to review by the Constitutional Court if established, or otherwise the Supreme Court, upon appeal within 30 days.
+Section 4. Congress shall have the power to enforce this article by appropriate legislation, including laws to:
+(a) Define the scope and penalties of the code of conduct;
+(b) Establish procedures for Ethics Commission investigations and recommendations;
+(c) Provide resources and support for the Commission’s operations;
+(d) Ensure judicial self-governance processes align with this amendment.
+Section 5.This amendment shall take effect one year after its ratification, aligning with the operational framework of the Executive Secretaries Amendment. Existing ethics bodies shall transition their functions to the Ethics Commission within this period, as directed by Congress
+
+
+7. Judicial System Amendment
+Purpose: Reforms the federal judiciary by establishing a Supreme Court, a Constitutional Court, and an Electoral Court with defined jurisdictions, and creates a permanent United States Marshals Service within the judicial branch to protect courts, enforce orders, and ensure judicial integrity, enhancing efficiency, independence, and accountability.
+Section 1. Article 3, Section 1, Clause 1 of this Constitution shall be amended to read as follows: “The judicial power of the United States shall be vested in one Supreme Court, a Constitutional Court, an Electoral Court, and such district and inferior courts as Congress may from time to time ordain and establish.” The structure and jurisdiction of the federal judiciary, as it exists at the time of this amendment’s ratification, are affirmed, subject to congressional authority to modify the number, composition, and jurisdiction of district and inferior courts as necessary to administer justice effectively.
+Section 2. The Supreme Court shall consist of nine Justices, appointed by the President with the advice and consent of two-thirds of the Senate. If a nominee is rejected, the President may resubmit the same nominee, requiring three-fourths Senate consent for confirmation. This number of Justices shall not be altered except by subsequent constitutional amendment. The Supreme Court shall retain jurisdiction over all cases and controversies arising under Article III of this Constitution, except those delegated to the Constitutional Court or Electoral Court under this article, as provided by law.
+Section 3. If a Supreme Court vacancy remains unfilled for 180 days after its occurrence, the sitting Justices may, by unanimous vote, appoint a qualified interim Justice from among active federal judges to serve until a permanent replacement is confirmed by the process in Section 2, or for a maximum of one year, whichever occurs first. 
+Section 4. The Constitutional Court is hereby established with jurisdiction over:(a) Challenges to the constitutionality of federal laws, regulations, statutes, and executive actions;(b) Disputes between the federal government and the several States regarding constitutional authority;(c) Constitutional questions referred by the Supreme Court, Electoral Court, Congress, or the President by formal request.
+Congress may by law delegate these matters to be original or appellate jurisdiction. Decisions of the Constitutional Court on questions of constitutionality shall be binding on all federal and state courts, and Congress may not override such decisions except by constitutional amendment.
+Section 5. The Constitutional Court shall consist of one judge per federal judicial circuit, as defined by Congress at the time of appointment. Judges shall be appointed by a vote of the active circuit and district judges within each circuit. Judges shall serve staggered 12-year terms, with initial appointments post-ratification as follows: one-third for 4 years, one-third for 8 years, and one-third for 12 years, determined by lot. Subsequent terms shall be 12 years, ensuring one-third of terms expire every 4 years. No judge may serve beyond the age of 75 unless their term extends past that age, in which case they may complete it. If a vacancy persists for 90 days after its occurrence, the presiding judge shall appoint an interim from active circuit judges in the affected circuit, who shall serve until a permanent replacement is chosen by the circuit or for a maximum of one year, whichever occurs first.
+Section 6. The Electoral Court of the United States is hereby established as an independent judicial body with exclusive jurisdiction over disputes arising from federal elections, including:(a) Adjudication of election results for the President, Vice President, and members of Congress;(b) Claims of voter suppression, fraud, or irregularities in federal elections;(c) Challenges to the constitutionality of state or federal laws governing federal elections;(d) Violations of federal election laws, including but not limited to campaign finance, voter fraud, and electoral misconduct, as prosecuted by the Attorney General or other authorized officers.
+The results of all Presidential elections shall be adjudicated by the Electoral Court, before being sent for certification. The Electoral Court’s decisions shall be final and binding, subject only to review by the Constitutional Court if a substantial constitutional question arises, as determined by a majority vote of the Constitutional Court within 30 days of an appeal. The Electoral Court’s jurisdiction shall not extend beyond election-related matters.
+Section 7. The Electoral Court shall consist of seven judges, appointed by the Judicial Conference of the United States (Amendment 7, Section 10) with the consent of the Secretary of State (Amendment 37, Section 5(e)), by a two-thirds vote within 90 days of a vacancy. If a vacancy persists for 90 days after its occurrence, the presiding judge shall appoint an interim from active judges with experience in election law, who shall serve until a permanent replacement is chosen or for a maximum of one year, whichever occurs first.
+Section 8. Judges on the electoral court shall serve staggered 9-year terms, with initial appointments post-ratification as follows: two for 3 years, two for 6 years, and three for 9 years, determined by lot. Subsequent terms shall be 9 years, ensuring staggered expirations. Judges shall be selected from individuals with demonstrated expertise in election law or constitutional law and shall not have held elective office, served as a political party officer, or engaged in partisan activity for at least five years prior to appointment.
+Section 9. The Supreme Court shall not hear cases within the jurisdiction of the Constitutional Court or the Electoral Court.
+Section 10. The United States Marshals Service is hereby established as a permanent institution within the judicial branch, responsible for protecting the federal judiciary, enforcing court orders, apprehending fugitives, and maintaining security in federal court proceedings. The Marshals Service shall be organized into three Divisions:
+(a) District Marshal Divisions, each led by a Chief District Marshal, appointed by the Chief District Judge of each judicial district with the consent of a majority of active district judges, to protect district courts, their judges, and enforce their orders within the district;
+(b) Circuit Marshal Divisions, each led by a Chief Circuit Marshal, appointed by the Chief Circuit Judge of each judicial circuit with the consent of a majority of active circuit judges, to protect appellate courts, their judges, and enforce their orders within the circuit;
+(c) High Court Marshal Division, led by a Grand Marshal of the High Courts, appointed by the Chief Justice of the Supreme Court with the consent of a majority of the Justices and the presiding judges of the Constitutional and Electoral Courts, to protect the Supreme Court, Constitutional Court, and Electoral Court, their Justices and judges, and enforce their orders nationwide.
+Chief District Marshals, Chief Circuit Marshals, and the Grand Marshal shall serve six-year terms and may be removed by a two-thirds vote of their appointing body for cause. Division staff shall be designated as marshals (e.g., district marshals, circuit marshals, high court marshals) and shall operate under the direction of their respective Chief Marshal. If a vacancy of one of the leading offices persists for 60 days after its occurrence, the appointing court’s seniormost judge shall appoint an interim, who shall serve until a replacement is chosen or for a maximum of one year, whichever occurs first. 
+Section 11. The Marshals Service shall have a Coordinating Director, appointed by the Judicial Conference of the United States, to oversee national standards, training, budgeting, and coordination across Divisions. The Coordinating Director may direct joint operations in emergencies or when Divisions’ jurisdictions overlap, ensuring collaboration without infringing on the autonomy of each Division’s court-specific duties. The Coordinating Director shall serve a six-year term and may be removed by a majority vote of the Judicial Conference for cause.
+Section 12. 
+(a) The Judicial Conference of the United States is hereby established as a permanent constitutional body within the judicial branch, composed of the Chief Justice of the Supreme Court (who shall serve as its presiding officer), the presiding judges of the Constitutional Court and Electoral Court, the Chief Judge of each federal judicial circuit, and one district judge from each circuit elected by their peers every three years. If a presiding judge is vacant, the seniormost judge of that court acts until filled. The Conference shall meet at least annually to oversee the administration and self-governance of the federal judiciary.
+(b) The Judicial Conference shall have the power to:
+(i) Establish policies and standards for the operation of federal courts, including judicial ethics, subject to this Constitution and federal law;
+(ii) Discipline or remove federal judges, other than Supreme Court Justices, for violations of the federal code of conduct, as provided by the Code of Conduct Amendment, by a majority vote of its members;
+(iii) Resolve disputes between Divisions of the United States Marshals Service and set national standards for its operations;
+(iv) Recommend legislative or administrative changes to Congress or the President to improve the judiciary;
+(v) Appoint the Coordinating Director of the Marshals Service and oversee its budget and performance;
+(vi) Recommend the impeachment of judges to Congress;
+(c) All actions of the Judicial Conference, including disciplinary decisions, shall be subject to review by the Constitutional Court, if established, or otherwise the Supreme Court, upon appeal within 30 days.
+Section 13. Each Division of the Marshals Service shall recruit, train, and manage its marshals under national standards set by the Judicial Conference and regulations promulgated by their supervising court (district courts for District Divisions, circuit courts for Circuit Divisions, and the Supreme, Constitutional, and Electoral Courts for the High Court Division). Divisions may deputize individuals with the approval of their supervising court, granting such deputies the same powers and responsibilities as marshals while acting in an official capacity.
+Section 14. The Judicial Conference of the United States shall resolve disputes between Divisions of the Marshals Service and shall submit an annual report to Congress, the Supreme Court, the Constitutional Court, and the Electoral Court on the Marshals Service’s operations, funding needs, and performance.
+Section 15. Congress shall have the power to enforce this article by appropriate legislation, including laws to:
+(a) Define procedures for judicial appointments, term transitions, and the nonpartisan selection process for Constitutional Court judges;
+(b) Ensure the independence of the Supreme Court, Constitutional Court, and Electoral Court from undue political influence;
+(c) Provide funding and administrative support for the Supreme Court, Constitutional Court, Electoral Court, and the United States Marshals Service;
+(d) Establish uniform standards and regulations for the recruitment, training, and operation of the Marshals Service;
+(e) Regulate the transition of existing judicial and Marshal personnel into the structure established by this amendment.
+Section 16. This amendment shall take effect three years after its ratification, allowing time for Congress to enact necessary legislation, establish the Constitutional Court and Electoral Court, and transition the existing United States Marshals Service into the Divisions herein described. All personnel of the existing Marshals Service shall be reassigned to the appropriate Division based on the needs of the federal judiciary, as determined by the Judicial Conference.
+
+
+8. Citizen Initiative Amendment
+Purpose: Empowers citizens to propose and enact laws directly, enhancing democratic participation.
+Section 1. Article 1, Section 1 of this Constitution shall be amended to read as follows: “All legislative Powers herein granted shall be vested in the people and in a Congress of the United States, which shall consist of a Senate and House of Representatives.”
+Section 2. The people shall have the power to propose laws and amendments to this Constitution by petition, and to enact or reject them by vote, independent of the Congress and the President, subject to the provisions of this article.
+Section 3. A petition bearing the signatures of at least seven percent of the voters in the last general election, with at least one-tenth of one percent of that total collected from each of at least half the States, shall qualify a proposal for a national ballot. The Secretary of State shall administer the petition process, including the collection, verification, and certification of signatures, in accordance with standards prescribed by Congress. Congress shall by law establish the time, manner, and procedures for such petitions, and may review and refine proposals for clarity and legality before ballot placement, with assistance from the Secretary of State.
+Section 4. Proposals approved by a majority of voters in a national election, held concurrently with general elections, shall become law or take effect as amendments, provided they do not violate the rights guaranteed by this Constitution, as determined by the Constitutional Court. The Secretary of State shall oversee the inclusion of qualified proposals on the national ballot, ensure their fair presentation to voters, and certify the results in coordination with the Electoral Court, if created.
+Section 5. If the Secretary of State as described by the Independent Officers Amendment does not exist, Congress shall instead create a Citizen Initiative Administration to perform the duties described in this amendment apart from certification.
+Section 6. Congress shall have the power to enforce this article by appropriate legislation.
+
+
+9. Recall Amendment
+Purpose: Allows recall of Representatives by voters and Senators by state legislatures, with a voter petition option for Senators, before their terms end.
+Section 1. The voters of any congressional district shall have the power to recall their Representative in Congress before the expiration of their term. Such recall shall be initiated by a petition signed by a number of registered voters equal to at least twenty percent of the votes cast in the most recent election for that congressional district. The legislature of any State shall have the power to recall a Senator selected by its method, initiated by a two-thirds vote of its members for cause. A legislative review shall be automatically triggered by a petition signed by twenty-five percent of registered voters from the most recent gubernatorial election.
+Section 2. Upon certification of a voter petition for a Representative by the appropriate federal authority, a recall election shall be held within ninety days, unless it coincides with a scheduled special election. The Representative shall be removed if a majority of voters in the recall election vote in favor of removal. For a Senator, upon a two-thirds vote by the State legislature or certification of a voter petition followed by legislative review within sixty days, the legislature shall hold a recall vote within ninety days, removing the Senator by a two-thirds vote for cause. Special elections to fill vacancies shall be held thereafter, in accordance with the provisions of this Constitution for Representatives and State law for Senators. If the Advisory Senate Amendment has been enacted, former Presidents serving as Senators shall not be subject to recall, only Senate impeachment.
+Section 3. No recall petition or legislative action may be initiated against a Representative or Senator during the first three months of their term, or within three years of a previous recall attempt.
+Section 4. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish uniform procedures for the initiation, certification, and conduct of recall elections and legislative reviews.
+Section 5. This amendment shall take effect one year after its ratification.
+
+
+10. Fiscal Responsibility Amendment
+Purpose: To ensure fiscal responsibility, transparency in legislation, and a streamlined budget process by establishing a single presidential budget proposal, a consolidated Appropriation Act, and mechanisms to prevent legislative gridlock, while maintaining congressional authority over the federal budget.
+Section 1. Each bill, order, resolution, or vote submitted to the President under Article I, Section 7 of this Constitution shall embrace no more than one subject, which shall be clearly and descriptively expressed in its title.
+Section 2. The President shall not have the power to approve or disapprove of specific provisions within a bill presented for signature. The President must approve or veto the bill in its entirety, in accordance with Article I, Section 7 of this Constitution.
+Section 3.
+(a) The fiscal year of the United States shall begin on October 1 and end on September 30 of the following year.
+(b) The President, with counsel from their Cabinet and Treasurer, shall prepare a single, comprehensive budget proposal required to faithfully execute the functions of government, and present it to Congress no later than the first Monday in February each year, outlining all proposed expenditures, revenues, and economic policies for the upcoming fiscal year. 
+(c) Congress shall examine the President’s budget proposal in any manner it deems appropriate, ensuring transparency and public input through processes established by law or congressional rules.
+Section 4.
+(a) Congress shall pass a single Appropriations Act each fiscal year, allocating funds across all government functions, including both discretionary and mandatory spending pre-authorized by permanent law.
+(b) Congress shall pass an annual Taxation Authorization Act each fiscal year, authorizing all federal taxes, duties, and imposts for the upcoming fiscal year.
+(c) Both Acts must be passed by a majority vote of both Houses and presented to the President for approval no later than September 1. If either Act is not passed by this date, Congress may pass it thereafter with a majority vote, subject to the continuity provisions in Section 4.
+Section 5.
+(a) If the Appropriations Act required by Section 3(a) is not passed by the start of the fiscal year, the government shall operate under the last enacted appropriations, adjusted for inflation by the President.
+(b) If the Taxation Authorization Act required by Section 3(b) is not passed by the start of the fiscal year, the government shall operate under the existing tax policy, adjusted for inflation by the President.
+(c) Congress may override the President’s inflation adjustments under subsections a or b with a three-fifths majority vote of both Houses.
+Section 6.
+(a) All appropriations not included in the annual Appropriations Act, classified as emergency appropriations, shall require a three-fifths majority vote of the House of Representatives to pass.
+(b) All changes to tax policy not included in the annual Taxation Authorization Act, classified as supplemental taxes, shall require a three-fifths majority vote of the House of Representatives to pass.
+(c) Pre-appropriations that take effect in a future fiscal year and are not intended for expenditure in the current fiscal year may be passed with a majority vote of both Houses, provided they comply with the single-subject requirement of Section 1.
+(d) Pre-taxes that take effect in a future fiscal year, at least two fiscal years after the current fiscal year, and are not intended to generate revenue in the current or next fiscal year, may be passed with a majority vote of both Houses, provided they comply with the single-subject requirement of Section 1.
+Section 7. No funds appropriated by Congress shall be impounded, withheld, or delayed by the President or executive branch, except as expressly authorized by law or necessary for efficient, lawful administration. The President may propose deferral or rescission of funds for fiscal responsibility or changed circumstances, effective only with majority approval of the House of Representatives within 60 days.
+Section 8. Congress shall have the power to enforce this article by appropriate legislation, including laws to monitor fund expenditure, define procedures for budget examination, and ensure compliance with the single-subject requirement.
+Section 9. This amendment shall take effect one year after its ratification, allowing Congress to enact necessary legislation and prepare for the implementation of this budget process in the first fiscal year following the effective date.
+
+
+11. Environmental Rights Amendment
+Purpose: Establishes environmental rights and protections.
+Section 1. The people shall have the right to roam responsibly on federal and state-owned public lands, waterways, and other natural spaces, excluding private property and ecologically sensitive areas as designated by law, for the purposes of recreation, education, and cultural enrichment, provided that such activity does not harm the environment or interfere with the rights of others.
+Section 2. The United States, and every State, shall have a duty to protect, preserve, and restore the natural environment, including its air, water, land, ecosystems, and biodiversity, for the benefit of present and future generations. This duty shall include the responsibility to mitigate climate change, reduce pollution, and promote sustainable development.
+Section 3. Congress and the States shall have the power to enact laws and regulations to implement and enforce this article, including the establishment of standards for environmental protection, the management of public lands, and the regulation of activities that may impact the environment or the right to roam.
+Section 4. The right to roam and the duty to protect the environment shall not be construed to deny or disparage other rights retained by the people, as recognized by the Constitution or its amendments.
+Section 5. This amendment shall take effect immediately upon its ratification.
+
+
+12. Indian Amendment
+Purpose: Clarifies the relationship between the United States and sovereign Indian tribes.
+Section 1. The inherent sovereignty of federally recognized Indian tribes is hereby affirmed. The United States recognizes the right of tribes to self-governance, including the power to establish their own forms of government, define citizenship, administer justice, manage resources, and preserve cultural, spiritual, and linguistic traditions, subject to the plenary authority of Congress as established under this Constitution.
+Section 2. The United States reaffirms its trust responsibility to federally recognized Indian tribes. This responsibility includes the protection of tribal lands, resources, and treaty rights, as well as the provision of services and programs necessary to promote the health, safety, and welfare of tribal members. Congress shall have the power to enact laws to fulfill this trust responsibility.
+Section 3. The territorial integrity of Indian reservations, as established by treaty, statute, or executive order, shall be preserved. No diminishment or termination of reservation boundaries shall occur without the consent of the affected tribe and the approval of Congress. Tribal jurisdiction over reservation lands, including civil and criminal jurisdiction over both tribal members and non-members, shall be recognized as concurrent with federal authority where applicable, subject to limitations imposed by federal law.
+Section 4. All treaties made, or which shall be made, between the United States and Indian tribes shall be regarded as the supreme law of the land, and shall be faithfully enforced. Any abrogation or modification of treaty rights shall require the consent of the affected tribe and the approval of Congress.
+Section 5. The United States shall engage in meaningful consultation with federally recognized Indian tribes in the development and implementation of policies that affect tribal interests. No federal action that significantly impacts tribal lands, resources, or rights shall be taken without the free, prior, and informed consent of the affected tribe.
+Section 6. No state or federal law shall deny to any person within the jurisdiction of the United States the equal protection of the laws, including the rights and privileges of tribal citizenship. Discrimination against tribal members or tribes in the exercise of their rights under this Constitution, federal law, or treaties is prohibited.
+Section 7. Congress shall have the power to enforce this article by appropriate legislation.
+Section 8. This amendment shall take effect one year after ratification.
+
+
+13. Washington D.C. Amendment
+Purpose: Grants self-governance and representation to the District of Columbia.
+Section 1. The District of Columbia, constituting the seat of the Government of the United States, commonly known as Washington, D.C., is hereby recognized as a self-governing entity. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this amendment.
+Section 2. The residents of the District of Columbia shall be represented in Congress by a non-voting delegate, and shall not be represented in the Senate.
+Section 3. Excepting Section 2, the residents of the District of Columbia shall be entitled to all fundamental rights, privileges, and protections guaranteed by this Constitution.
+Section 4. The District of Columbia shall have the authority to govern itself, including the power to:
+(a) Enact laws for the administration of the District.
+(b) Establish and maintain local government institutions, including a mayor and council, to manage the day-to-day affairs of the District.
+(c) Levy taxes, regulate commerce, and exercise all other powers of a State, except as otherwise provided in this article.
+Section 5. Congress shall have the power to admit the District of Columbia as a State, subject to the consent of its residents through a free and fair referendum. Upon admission as a State:
+(a) The new State shall consist of the territory described in Section 1 of this article, except for such areas as Congress may designate to remain under federal jurisdiction as the seat of the Government of the United States.
+(b) The new State shall assume all powers and responsibilities of a State under this Constitution.
+Section 6. No change to the status or boundaries of the District of Columbia shall be made without the consent of its residents, expressed through a free and fair referendum.
+Section 7. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for referenda, define the powers and responsibilities of local government institutions, and ensure compliance with the provisions of this article.
+Section 8. This amendment shall take one year after ratification, with all relevant laws being brought into compliance with this amendment within that time.
+
+
+14. Federal Lands Amendment
+Purpose: Clarifies ownership and management of federal lands within states, distinguishing permanent public lands from disposable holdings, ensuring state collaboration, and balancing conservation with practical use.
+Section 1. Article IV, Section 3, Clause 2 of this Constitution is hereby repealed.
+Section 1. All lands owned by the United States within a state’s boundaries shall remain part of that state’s geographic domain. The federal government shall retain ownership and jurisdiction, subject to this article.
+Section 2. Federal lands shall be:
+(a) Permanent Public Lands, such as national parks, monuments, and wildlife refuges, held for conservation, recreation, defense, or cultural use; or
+(b) Disposable Lands, such as unreserved public domain lands, held for potential transfer, sale, or development.
+Congress shall classify lands by law within three years of ratification and review classifications every ten years, with state and public input.
+Section 3. Congress shall have power to:
+(a) Manage all federal lands, unless disposed of or delegated;
+(b) Sell or transfer disposable lands with consent of the affected state;
+(c) Sell or transfer permanent public lands only with a two-thirds vote of the House of Representatives and consent of the affected state’s legislature;
+(d) Delegate any aspect of management of either class to states by law, retaining federal oversight for interstate or national needs.
+Section 4. States may:
+(a) Propose reclassification of federal lands within their borders to Congress;
+(b) Receive compensation, set by law, for permanent public lands exempt from state taxation.
+Section 5. Congress shall enforce this article by legislation defining classification, disposal procedures, and compensation. The Constitutional Court, if extant, may review disputes over land actions upon state or citizen petition. Otherwise, the Supreme Court shall have this power.
+Section 6. This amendment takes effect immediately upon ratification, with initial classification completed within one year.
+
+
+15. Federal Bureaucracy Amendment
+Purpose: To establish the federal bureaucracy as an institution, clarify Congress’s regulatory and delegation powers, and protect against executive overreach and politicization.
+Section 1. The federal bureaucracy, consisting of executive departments, independent agencies, and other administrative bodies, is hereby established as a permanent institution within the federal government, overseen by the President. Its purpose shall be to implement and enforce the laws of the United States, administer public programs, and provide expertise and continuity in governance.
+Section 2. The federal bureaucracy shall operate under the following principles:
+(a) Independence: Agencies shall exercise their authority free from undue political interference, subject to oversight by Congress and the judiciary.
+(b) Expertise: Agencies shall be staffed by qualified individuals selected on the basis of merit, experience, and competence.
+(c) Transparency: Agencies shall conduct operations openly, providing public access to decisions, policies, and records upon request, except where disclosure would harm their function or national security, with denials subject to judicial review.
+(d) Efficiency: Agencies shall administer programs and enforce laws effectively and responsively.
+Section 3. Congress shall have the power to establish, reorganize, or abolish administrative bodies and define their missions, powers, and responsibilities.
+Section 4. Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States. Such regulation shall:
+(a) Set national standards where interstate or national interests require uniformity, as determined by law;
+(b) Encourage State participation through consultation, concurrent authority, or supplemental regulation, as provided by law;
+(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency, as defined by the Emergency Powers Amendment.
+Section 5. Congress may delegate regulatory power to the federal bureaucracy, including the authority to promulgate rules after public notice and opportunity for comment, enforce laws, and adjudicate disputes with fair hearings, provided such delegation is accompanied by clear standards and guidelines specifying policy objectives, scope of authority, and annual reporting to Congress. 
+Section 6. Independent agencies may be insulated from the control of the First Secretary by being placed within the Executive Office of the President. Such agencies may operate free of the authority of any executive officer, as designated by Congress. This includes, but is not limited to, the offices established by the Independent Officers Amendment.
+Section 7. Congress shall have the power to oversee, modify, or revoke delegated authority, ensuring agencies operate within their mandates and in the public interest.
+Section 8. The Constitutional Court shall have authority to review agency actions for compliance with this Constitution and federal law, granting deference to technical expertise but retaining final interpretation of law.
+Section 9. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish standards for agency operations, protect independence, and ensure accountability.
+Section 10. This amendment shall take effect immediately upon its ratification.
+
+
+16. Collective Bargaining Amendment
+Purpose: Protects the right of the people to freely associate, including the rights of workers to organize, bargain collectively, and strike.
+Section 1. The right of the people to voluntarily associate to express, promote, or pursue common interests shall not be infringed.
+Section 2. The right to associate includes the right of workers to organize, form, join, and assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.
+Section 3. No law, regulation, or action shall interfere with the right of workers to strike, peacefully picket, or otherwise advocate for their rights in the workplace, except as necessary to protect public safety, health, or national security in narrowly defined circumstances.
+Section 4. Employers shall recognize and bargain in good faith with the duly chosen representatives of workers, and shall not discriminate against any worker for exercising their rights under this article.
+Section 5. In cases where national security is at risk, the President may, by executive order and with the approval of Congress, temporarily suspend the rights granted under this article for specific groups of workers or industries, provided that such suspension is limited in scope and duration. This shall be subject to judicial review.
+Section 6. Forced labor, including coerced labor as punishment for a crime, is hereby prohibited. All work performed by individuals under the jurisdiction of the United States, including those incarcerated, shall be voluntary and fairly compensated. Section 5 of this amendment does not have the power to abridge this article.
+Section 7. Congress shall have the power to enforce this article by appropriate legislation, including laws to protect workers from retaliation, ensure fair labor practices, and promote the rights established herein.
+Section 8. This amendment shall take effect immediately upon its ratification.
+
+
+17. VP Loophole Amendment
+Purpose: Prevents individuals who have served two terms as President from holding any office in the presidential line of succession.
+Section 1. No person who has served two terms as President of the United States shall be eligible for election or appointment to any office in the Presidential line of succession.
+Section 2. This prohibition shall apply to the offices of Vice President, Speaker of the House of Representatives, President pro tempore of the Senate, and all other positions in the line of succession to the Presidency.
+Section 3. Congress shall have the power to enforce this article by appropriate legislation, including laws to ensure compliance and to address any ambiguities in the application of this provision.
+Section 4. This amendment shall take effect immediately upon its ratification.
+
+
+18. Advisory Senate Amendment
+Purpose: Repeals the Seventeenth Amendment and reforms the Senate into a nonpartisan, advisory body of elder statesmen, including former Presidents, selected by states, with selective bill review and retained powers to provide sobered counsel and elevate the Presidency’s long-term stakes.
+Section 1. The Seventeenth Amendment is hereby repealed. The Senate shall be composed of two Senators from each State, selected by a method determined by the State legislature, subject to the following: candidates must have resided in the State for ten years, be at least forty years of age, and have held no partisan office for at least seven years prior to selection. Former Presidents of the United States shall automatically become Senators for life upon leaving office, representing their State of residence at the time of their presidency, in addition to the two selected Senators. Congress may establish additional qualifications by law, and States shall ensure a transparent, nonpartisan process.
+Section 2. The Senate shall not originate bills or resolutions. Upon receiving a bill passed by the House of Representatives, the Senate may, by majority vote, choose to review the bill. If rejected, it shall be sent back to the house with recommendations. The house may then pass the bill again by simple majority. The Senate shall have the power to review a bill twice, before passage by the House shall send the bill for Presidential approval without further Senate action.
+Section 3. State-selected Senators shall serve six-year terms, renewable at the discretion of their State’s selection process. Former Presidents shall serve as Senators for life, removable only by Senate impeachment under its own statutes. Presidents serving as Senators for life shall not count towards the quorum of the Senate, nor shall they raise the amount required for meeting a quorum.
+Section 4. The Senate shall be a nonpartisan chamber. Senators shall not affiliate with political parties, campaign for office, or engage in partisan activities during their term, under penalty of removal by Congress or the Constitutional Court. The Senate may establish statutes governing its impeachment proceedings.
+Section 5. Congress shall enforce this article by law, including guidelines for State selection processes and nonpartisan compliance. This amendment shall take effect two years post-ratification, applying to the next Congress.
+Section 6. All provisions of this Constitution that require a 'majority vote of both Houses of Congress,' 'concurrence of the Senate and House of Representatives,' or similar language for the passage of bills, resolutions, or other legislative actions shall be interpreted to mean a majority vote of the House of Representatives alone, following the Senate’s advisory review as provided in this article, unless otherwise specified. The Senate’s role in such processes shall be limited to providing recommendations, except in cases where its voting powers are explicitly retained, such as for advice and consent, impeachment, or other duties outlined in this Constitution.
+Section 7. Article I, Section 7, Clauses 1, 2, and 3 of this Constitution are hereby amended to reflect the Senate’s advisory role as established by this Amendment.
+Section 8. This amendment takes effect three years after ratification, with states piloting selection in Year 2 and full shift by the next Congress.
+
+
+19. Non-State Entities Amendment
+Purpose: Establishes the framework for the governance of U.S. territories and their relationship with the federal government.
+Section 1. The Congress shall have the power to organize and govern territories of the United States, which may be acquired through treaty, conquest, or other lawful means. Territories shall be classified as either incorporated or unincorporated, based on the intent of Congress and the consent of the territory’s residents.
+Section 2. Incorporated territories are those in which the Constitution of the United States applies in full, and whose residents are entitled to all rights, privileges, and protections guaranteed by this Constitution. Incorporated territories shall be governed as integral parts of the United States, with a clear path to statehood, as provided by law.
+Section 3. Unincorporated territories are those in which only the following fundamental rights and protections shall apply: the right to due process of law, the right to equal protection under the law, the right to be free from unreasonable searches and surveillance, the right to freedom of speech, and the right to peaceably assemble. Residents of unincorporated territories shall be entitled to these rights, as provided by law. Congress may by law extend additional constitutional rights to such territories, in whole or in part, as it deems appropriate.
+Section 4. Within five years of this amendment’s ratification, Congress shall review or establish, by law, the fundamental law for each permanently inhabited territory, to be renewed by Congress every twenty years thereafter. Such frameworks shall:
+(a) Classify the territory as incorporated or unincorporated and define the powers and responsibilities of its government accordingly.
+(b) Ensure residents’ rights and protections align with Sections 2 and 3 of this article, with public input from the territory.
+(c) Provide mechanisms for economic and social development, consistent with available federal resources.
+(d) Outline a process, if applicable, for the territory to pursue statehood, independence, or free association, subject to Section 9’s referendum requirement.
+Section 5. Free association shall be defined as a voluntary relationship between a sovereign country and the United States, established by mutual agreement. Under such an agreement:
+(a) The country shall assume full sovereignty over its internal affairs, including the authority to govern itself, enact laws, and manage its economy.
+(b) The country may delegate certain specified powers to the United States, such as defense and foreign relations, as agreed upon by both parties.
+(c) The country shall have access to certain services, programs, and benefits provided by the United States government, as specified in the agreement.
+(d) The terms of free association, including the delegation of powers and access to services, shall be subject to periodic review and renewal by mutual consent.
+Section 6. The residents of each territory shall be entitled to representation in the House of Representatives by a non-voting delegate.
+Section 7. Residents of territories shall not participate in the election of the President and Vice President unless Congress, by law, provides otherwise.
+Section 8. Congress shall have the power to enact laws governing the administration of territories, including laws to:
+(a) Define the powers and responsibilities of territorial governments.
+(b) Provide for the economic and social development of territories.
+(c) Ensure the protection of civil rights and liberties in territories.
+Section 9. Congress shall have the power to determine the political status of each territory, but no territory shall be deprived of its status or rights without the consent of its residents, expressed through a free and fair referendum.
+Section 10. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for referenda, define the rights and responsibilities of territorial governments, and ensure compliance with the provisions of this article.
+Section 11. This amendment shall take effect one year after its ratification, with all relevant laws being brought into compliance within that time.
+
+
+20. Score Voting Amendment
+Purpose: Replaces the Electoral College with a score voting system for presidential elections.
+Section 1. The President and Vice President shall be elected by the people of the United States through a score voting system. Each voter shall assign a score to each presidential ticket on a scale of zero to ten, inclusive, with zero indicating the lowest preference and ten indicating the highest preference. Voters may assign the same score to multiple tickets if they have no preference between them.
+Section 2. The presidential ticket with the highest total score shall be elected. In the event of a tie for the highest total score, the President and Vice President shall be chosen by a joint session of both houses of Congress.
+Section 3. The Electoral College, as established by Article II, Section 1, Clause 2 and modified by the Twelfth Amendment, shall hereafter certify the results of the Presidential election, after having been adjudicated by the Electoral Court, if established by the Judicial System Amendment (Amendment 7), and before having been certified by a joint session of Congress presided over by the Vice President or Secretary of State as established by the Executive Secretaries Amendment (Amendment 37).
+Section 4. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for the score voting system, ensure the integrity of the electoral process, and regulate the duties of the Electoral College. Score voting shall be piloted in federal midterm elections for two cycles prior to implementation in presidential elections.
+Section 5. This amendment shall take effect for the first federal election occurring more than two years after its ratification, with pilots beginning in the first midterm election post-ratification.
+
+
+21. Parliamentary Amendment
+Purpose: Makes the Speaker of the House the First Secretary who heads the Presidential cabinet within the Executive Office of the President and presides over the House.
+Section 1. First Secretary, who shall serve as the head of the Presidential cabinet within the Executive Office of the President, the principal advisor to the President of the United States, and the presiding officer of the House of Representatives.
+Section 2. The Executive Office of the President is hereby established as a permanent institution under the direction of the President. The EOP shall consist of the Presidential cabinet and such other officers Congress may designate to assist in the faithful execution of the laws. The President shall oversee the EOP and ensure its alignment with the policies and priorities of the United States. The President may create, reorganize, or abolish offices or councils within the Executive Office of the President to assist in their duties, provided such actions do not infringe on powers or independence established by this Constitution or law.
+Section 3. The First Secretary shall be appointed by the President, with the advice and consent of the House of Representatives, at the beginning of each Congress and shall serve for the duration of that Congress, unless removed as provided herein. The First Secretary must be a member of the House of Representatives at the time of appointment.
+Section 4. The President shall retain all executive authority vested in the office by this Constitution but shall delegate to the First Secretary the day-to-day administration of affairs through the Presidential cabinet. Upon the appointment of the first First Secretary, and unless otherwise limited by subsequent presidential directive, the First Secretary shall be delegated the full scope of delegable day-to-day administrative powers over policy, including but not limited to:
+(a) Implementation and enforcement of federal laws, except in war or national emergency;
+(b) Direction and oversight of federal agencies and departments as designated by law;
+(c) Execution of policy domestic and foreign on behalf of the President;
+(d) Management of federal personnel and resources, except during budget impasses, emergencies, or military engagements, where the President retains authority as provided by the Budget Continuity, Emergency Powers, and War Powers Amendments.
+Powers delegated to Executive Secretaries by the Executive Secretaries Amendment shall not be, and cannot be, delegated to the First Secretary.
+Section 5. The Presidential cabinet shall consist of the principal officers of the executive departments, and such other officers as Congress may by law designate as cabinet officials. The President shall nominate cabinet officials, subject to the advice and consent of the Senate and the First Secretary. The cabinet shall assist the First Secretary in administering affairs, including the leadership of the federal bureaucracy as provided in Amendment 21. Cabinet officials shall serve at the pleasure of the First Secretary, subject to Presidential oversight as defined in Section 4, and may be removed by the First Secretary or by the President with the consent of the Senate.
+Section 6. The First Secretary may be removed by the House of Representatives through a motion to vacate, which shall require:
+(a) A petition signed by at least one-third of the members of the House to initiate the motion;
+(b) A majority vote of the House to approve the motion, conducted no sooner than 30 days after the petition is filed, unless an emergency is declared by a two-thirds vote.
+Upon removal, the House shall consent to a new First Secretary within 60 days, during which the President shall resume direct administration, assisted by an interim cabinet of deputy secretaries or senior civil servants from existing departments, selected by the President based on merit and expertise, as defined by law. If a vacancy persists for 6 months after its occurrence, a special election shall be held to elect a new House of Representatives, which shall consent to a new First Secretary within 30 days of convening. If this vacancy persists for 30 days after its occurrence, the deputy with the longest tenure shall become the First Secretary until the next general election.
+Section 7. The President shall retain the authority to:
+(a) Nominate ambassadors, public ministers, consuls, and judges, subject to the advice and consent of the Senate, and, where applicable, the First Secretary;
+(b) Grant pardons and reprieves;
+(c) Veto legislation;
+(d) Command the armed forces as Commander in Chief, including the introduction of forces into hostilities as provided by the War Powers Amendment;
+(e) Declare and manage states of emergency under the Emergency Powers Amendment, adjust budgets during impasses as sanctioned under the Budget Continuity Amendment, and suspend labor rights in national security emergencies under the Collective Bargaining Amendment.
+These powers shall not be delegable to the First Secretary unless expressly authorized by law.
+Section 8. In the event of a conflict between the President and the First Secretary regarding delegated domestic authority, the matter shall be resolved by a joint committee of Congress, composed of five members of the House and five members of the Senate, appointed by their respective chambers. The committee’s decision, reached by a majority vote, shall be binding unless overridden by a two-thirds vote of both Houses.
+Section 9. As presiding officer, the First Secretary shall have the authority to:
+(a) Preside over all sessions of the House of Representatives, maintaining order and decorum;
+(b) Recognize members to speak, rule on points of order, and manage the legislative process in accordance with House rules;
+(c) Call votes and announce results, including votes on bills, motions, and overrides of presidential vetoes;
+(d) Preside over impeachment proceedings when required by this Constitution.
+When presiding, the First Secretary shall have no vote except to break a tie. The First Secretary may delegate these presiding duties to another member of the House, who shall serve as Acting Presiding Officer for a period specified by the First Secretary, not to exceed the duration of the current Congress. While serving as Acting Presiding Officer, the delegate shall have no vote except to break a tie, and the First Secretary shall resume full voting rights as a Representative. The First Secretary may replace or recall the Acting Presiding Officer at any time.
+Section 10. 
+(a) The President shall not exercise a pocket veto to prevent a bill from becoming law. If the President does not sign a bill into law within 10 days (Sundays excepted) after it is presented, and Congress is adjourned during that period, the bill shall be treated as if the President had returned it with objections, constituting a regular veto.
+(b) If Congress is adjourned when the 10-day period expires, the President shall transmit their objections to the bill to the First Secretary (as presiding officer of the House) and the President of the Senate (or their designated agents) within 5 days of the adjournment.
+(c) Congress shall reconvene within 30 days of receiving the veto message to consider the veto, unless already scheduled to reconvene sooner, and may override the veto with a two-thirds majority in both chambers, as provided in Article I, Section 7 of the Constitution.
+Section 11. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for the appointment and removal of the First Secretary, the delegation of presiding duties, the confirmation of cabinet officials and EOP officers, the resolution of conflicts, and the organization and funding of the Executive Office of the President.
+Section 12. This amendment shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
+
+
+22. “We The People” Amendment
+Purpose: Limits constitutional rights to natural persons and regulates corporate influence in elections, and to regulate campaign financing, limit corporate influence in elections, and ensure transparency and fairness in the electoral process.
+Section 1. The rights protected by the Constitution of the United States are the rights of natural persons only. Artificial entities, such as corporations, limited liability companies, and other entities established by law, shall have no rights under this Constitution and are subject to regulation by the People, through Federal, State, or local law. The privileges of artificial entities shall be determined by the People and shall not be construed as inherent or inalienable.
+Section 2. Federal, State, and local governments shall regulate, limit, or prohibit contributions and expenditures, including a candidate’s own contributions and expenditures, to ensure that all citizens, regardless of economic status, have equal access to the political process. No person or entity shall gain, as a result of their wealth, substantially more influence over the election of any candidate or the outcome of any ballot measure.
+Section 3. Contributions to candidates for federal office shall not exceed an amount set by Congress, adjusted for inflation. All contributions, including those from individuals, organizations, and political action committees, must be publicly disclosed within 48 hours. Congress shall establish a public financing system for federal elections to reduce dependency on private donations. Nothing in this amendment shall abridge the freedom of the press, the rights of labor organizations under the Collective Bargaining Amendment, or the political engagement of nonprofit organizations, provided they disclose funding sources as prescribed by law.
+Section 4. Congress, and the Secretary of State as established by the independent officers amendment, shall have the power to enforce this article by appropriate legislation.
+Section 5. Nothing in this amendment shall be construed to abridge the freedom of the press, the freedom to associate, or the right of the people to assemble and petition the government as exercised by natural persons.
+Section 6. This amendment shall take effect one year after its ratification.
+
+
+23. Legislative Marshals Service
+Purpose: Establishes the Legislative Marshals Service as a permanent institution within the legislative branch for security and enforcement.
+Section 1. The Legislative Marshals Service is hereby established as a permanent institution within the legislative branch, responsible for protecting the Capitol Complex, Congress, its members, staff, and visitors, and enforcing congressional directives.
+Section 2. The Legislative Marshals Service shall be led by the Grand Marshal of Congress, who shall also serve as the Sergeant at Arms of the House of Representatives, elected by the House with Senate consent. The Grand Marshal shall serve a six-year term and may be removed by a two-thirds vote of the House for cause. If a vacancy persists for 60 days after its occurrence, the presiding officer of the House shall appoint an interim from experienced Marshals, who shall serve until a permanent replacement is chosen or for a maximum of one year, whichever occurs first.
+Section 3. The Legislative Marshals Service shall:
+(a) Protect the Capitol Complex, including the Capitol building, congressional offices, and related facilities.
+(b) Provide security for members of Congress, their staff, and visitors.
+(c) Enforce congressional subpoenas and legal processes if executive agencies fail to act within 30 days of a joint resolution, seeking judicial warrants if disputed.
+Section 4. The Service shall recruit, train, and manage its legislative marshals, subject to standards set by joint House-Senate committees. It may deputize individuals with committee approval, granting equivalent powers while acting officially.
+Section 5. The Legislative Marshals Service shall operate under joint House-Senate oversight, with committees designated by each chamber setting policy and resolving disputes. Annual reports shall be submitted to Congress.
+Section 6. Congress shall fund the Legislative Marshals Service and enact laws governing its operations, ensuring its ceremonial and security roles reflect legislative needs.
+Section 7. This amendment shall take effect one year post-ratification, transitioning the existing United States Capitol Police into the Legislative Marshal Service under the Grand Marshal of Congress.
+
+
+24. Privacy Amendment
+Purpose: To affirm and protect the right of individuals to privacy in their personal lives and data, ensuring security against unreasonable intrusion by government or private entities, with limited exceptions for public safety and national security.
+Section 1. The right of the people to privacy in their persons, homes, papers, electronic data, communications, and effects shall not be violated by unreasonable intrusion, surveillance, or disclosure by the United States, any State, or private entities. This right includes autonomy over personal decisions regarding family, health, and information, free from undue interference.
+Section 2. No law, regulation, or action shall infringe upon this right except when necessary to address a national security emergency or imminent threat to public safety, as explicitly authorized by law. Any such exception must:
+(a) Be supported by credible evidence of a specific and immediate danger;
+(b) Be narrowly tailored to address only that danger;
+(c) Use the least restrictive means available; and
+(d) Be subject to judicial review within 30 days of initiation.
+Section 3. The collection, storage, use, or dissemination of personal data—including digital, biometric, or other identifiable information—by the government or private entities shall require the informed, affirmative consent of the individual, except as provided in Section 2. Individuals shall have the right to:
+(a) Access and review their personal data held by any entity;
+(b) Correct inaccuracies in such data; and
+(c) Request deletion of such data, subject to legal retention requirements defined by law.
+Section 4. Congress and the States shall have the power to enforce this article by appropriate legislation, including:
+(a) Establishing standards for data protection and consent;
+(b) Regulating government and private surveillance practices;
+(c) Providing penalties for violations; and
+(d) Ensuring transparency in the use of exceptions under Section 2.
+Section 5. Individuals whose privacy rights under this article are violated shall have the right to seek legal redress in a court of law, including injunctive relief, damages, and restoration of their data or autonomy, as applicable.
+Section 6. This amendment shall take effect one year after its ratification, allowing time for Congress and the States to enact necessary legislation and implement compliance measures
+
+
+25. War Powers Amendment
+Purpose: Clarifies the authority of the President and Congress in matters of war and military engagements, ensuring democratic accountability through Congressional oversight, preserving the First Secretary’s administration of foreign and domestic policy, and enabling the President to respond decisively to attacks or imminent threats while limiting executive power to emergency actions consistent with a representational role.
+Section 1. The Congress shall have the power to declare war, and no offensive military engagement by the United States shall commence without a formal declaration of war or specific statutory authorization by Congress, except in cases of a national emergency created by an attack or imminent threat to the United States, its territories or possessions, or its armed forces.
+Section 2. In the absence of a declaration of war, the President may introduce the Armed Forces of the United States into hostilities or situations where imminent involvement in hostilities is clearly indicated by the circumstances only pursuant to:
+(a) A specific statutory authorization enacted by Congress; or
+(b) A national emergency created by an attack or imminent threat to the United States, its territories or possessions, or its armed forces, as determined by credible evidence of intent and capability to inflict significant harm.
+Section 3. In every instance where the Armed Forces are introduced into hostilities or imminent hostilities without a declaration of war, the President shall, within forty-eight hours, submit to the First Secretary and the President pro tempore of the Senate a report in writing setting forth:
+(a) The circumstances necessitating the introduction of the Armed Forces;
+(b) The constitutional and legislative authority under which such introduction took place; and
+(c) The estimated scope and duration of the hostilities or involvement.
+The President shall consult the First Secretary prior to introducing forces under Section 2(b) where feasible, but such consultation shall not delay actions necessary to preserve the element of surprise or protect national security.
+Section 4. Within sixty calendar days after the submission of a report pursuant to Section 3, the President shall terminate the use of the Armed Forces, unless Congress:
+(a) Has declared war or enacted specific statutory authorization for such use;
+(b) Has extended the sixty-day period by law for a specific period not to exceed thirty days; or
+(c) Is physically unable to meet as a result of an armed attack upon the United States.
+During such hostilities, the First Secretary shall retain authority over the day-to-day administration of foreign and domestic policy unless overridden by the President’s emergency powers as provided in Amendment 29, Section 7(d). 
+Section 5. Notwithstanding Section 4, the President shall terminate the use of the Armed Forces at any time if the House of Representatives so directs by resolution, following the Senate’s advisory review as provided by the Advisory Senate Amendment, which shall not be subject to presidential veto.
+Section 6. The constitutional court shall have jurisdiction to review the legality of military actions initiated under this amendment, upon petition by any member of Congress or affected citizen, to ensure compliance with this Constitution. Judicial review shall not delay the execution of emergency actions under Section 2(b) but may address the continuation of hostilities beyond sixty days.
+Section 7. Congress shall have the power to enforce this article by appropriate legislation.
+Section 8. Nothing in this article shall be construed to alter the constitutional authority of the President as Commander in Chief or the inherent right of the United States to self-defense.
+Section 9. This article shall take effect one year after the date of its ratification.
+
+
+26. Constitutional Review Amendment
+Purpose: To create a mechanism for periodic review of the Constitution, with any proposed amendments subject to the updated amendment process in Article V as modified by the Amendment Amendment.
+Section 1. Every 30 years, a Constitutional Review Commission shall convene to assess the Constitution’s effectiveness and propose amendments as needed. The first review shall occur 30 years after this amendment’s ratification.
+Section 2. The Commission shall include legal scholars, historians, representatives from each branch of the federal government, and public members chosen through a nonpartisan process.
+Section 3. The Commission shall conduct public hearings and gather input from citizens to ensure transparency and broad participation. All proposed amendments shall be submitted to Congress for review.
+Section 4. Any amendments proposed by the Commission must be approved by a two-thirds vote of each House of Congress. If approved, they shall be submitted to a nationwide referendum for ratification, following the process outlined in the Amendment Amendment.
+Section 5. Congress shall enact legislation to enforce this amendment, including laws to define the Commission’s composition, procedures, and funding, and to ensure public access to its work.
+Section 6. This amendment shall take effect immediately upon ratification.
+
+
+27. House of Representatives Amendment
+Section 1. Article 1, Section 2, Clause 3 of this Constitution is hereby repealed. Representatives shall be apportioned among the several states shall be determined by applying the cube root of the total population of the United States, as ascertained by the most recent decennial census, rounded to the nearest whole number, with the enumerations happening within three years of every cen. Each State shall be apportioned its share of Representatives according to its population, using the method of equal proportions as Congress shall by law direct. Each state shall have at least one representative, and for every state that is granted one representative where they would otherwise have none, one representative shall be subtracted from the total number of seats when apportioning representatives by equal proportions.
+Section 2. The Electors in each congressional district shall elect one singular Representative by the method of Instant Runoff Voting, whereby each Elector shall rank the candidates in order of preference. If no candidate shall attain a majority of first-preference votes, the candidate with the fewest such votes shall be eliminated, and the votes cast for that candidate shall be redistributed according to the next preference indicated on each ballot. This process shall continue until one candidate shall have secured a majority of the votes then remaining.
+Section 3. The determination of the number of Representatives as provided in Section 1 shall take effect for the first Congress chosen following the next decennial census conducted after the ratification of this article. The method of election by Instant Runoff Voting shall be implemented in all States for the first election of Representatives following such ratification. Congress shall have power to enforce this article by appropriate legislation, including the establishment of uniform procedures for the conduct of such elections and the provision of necessary resources to the States for the adoption thereof. All provisions of this Constitution or laws of the United States inconsistent with this article are hereby amended to the extent necessary to give effect to these requirements.
+
+
+28. Emergency Powers Amendment
+Purpose: To define and limit the executive’s emergency powers, ensuring accountability and preventing abuse.
+Section 1. The President may declare a state of emergency only in response to a national crisis, such as a natural disaster, pandemic, or attack on the United States, its territories, or its armed forces, except in cases of military engagements, which shall be governed by the War Powers Amendment. Such declarations must be specific in scope and duration.
+Section 2. Any emergency declaration must be submitted to Congress within 48 hours. Congress shall have the power to approve, modify, or terminate the declaration by a majority vote of the House of Representatives, following the Senate’s advisory review as provided by the Advisory Senate Amendment, within 30 days.
+Section 3. Emergency powers shall be limited to actions necessary and proportional to the crisis. No emergency measure shall suspend constitutional rights or freedoms, except as provided by law and subject to judicial review.
+Section 4. If Congress is unable to convene due to catastrophe, natural disaster, or technological failure within thirty days of an emergency declaration, the President may extend emergency powers in fourteen-day increments, provided that a majority of available Members of each House, able to communicate their vote by any means, approve within ten days of each extension. Such extensions shall cease when Congress reconvenes or after ninety days, whichever comes first, unless the Constitutional Court rules otherwise. For the purposes of this section, the Senate shall retain its voting authority, as this action does not constitute the passage of a bill or resolution under the Advisory Senate Amendment.
+Section 5. The Constitutional Court, if established, or otherwise the Supreme Court, shall have the authority to review emergency declarations and measures to ensure they comply with this Constitution. Individuals or entities affected by emergency actions may petition the courts for relief.
+Section 6. All emergency declarations in effect at the time of this amendment’s ratification, including those under existing statutes such as the National Emergencies Act, shall be brought into compliance as follows:
+(a) Within 60 days of ratification, the President shall submit to Congress a report detailing each existing declaration, including its scope, duration, legal basis, and ongoing necessity;
+(b) Congress shall review each declaration and, by majority vote of both Houses within 60 days of receiving the report, approve, modify, or terminate it. Declarations not approved or modified within this period shall expire;
+(c) Any emergency measure tied to an existing declaration that suspends constitutional rights or exceeds the scope of this amendment shall be suspended pending Congressional review, unless the President certifies its immediate necessity to the Constitutional Court or, if not yet established, the Supreme Court, which shall rule within 30 days;
+(d) Congress may extend the review period for complex declarations by a two-thirds vote of both Houses, not to exceed an additional 60 days.
+Section 7. Congress shall have the power to enforce this article by appropriate legislation, including laws to define the scope of emergency powers, establish oversight mechanisms, and regulate the transition of existing declarations into compliance.
+Section 8. This amendment shall take effect immediately upon its ratification, with the compliance process for existing declarations commencing concurrently.
+
+
+29. Citizenship and Residency Amendment
+Purpose: To clarify the rights and responsibilities of lawful permanent residents and temporary residents, the exclusive rights and privileges of citizens, and the responsibilities of citizens, while preserving equal protection under the law for all persons.
+Section 1. Lawful permanent residents, legally admitted to reside permanently, and temporary residents, legally admitted to reside for a defined period under federal law, shall have rights to reside, work, own property, and access due process, subject to law. Their status may be revoked only by judicial process for cause, consistent with their respective admission terms.
+Section 2. Citizens alone shall have exclusive rights to vote in federal elections, hold federal office, serve on federal juries, and receive consular protection abroad, with responsibilities to pay taxes and serve in drafts as required by law.
+Section 3. The right to equitable access to economic support programs established by law shall extend only to citizens and lawful permanent residents. 
+Section 4. All persons within U.S. jurisdiction, regardless of residency status, shall enjoy the equal protection of this Constitution, except as modified by this amendment. 
+Section 5. Congress shall enforce this article by legislation defining status, rights, and responsibilities, consistent with this amendment.
+Section 6. This amendment shall take effect immediately upon its ratification.
+
+
+30. Property Rights Amendment
+Purpose: To affirm and protect the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference while balancing public needs.
+Section 1. Every natural person within the jurisdiction of the United States shall have the right to acquire, own, use, and dispose of private property, including real and personal property, as a fundamental aspect of liberty and economic security.
+Section 2. No person shall be deprived of their property by the United States or the states without due process of law. Private property shall not be taken for public use by the government without just compensation. These protections shall not be abridged except by laws necessary to protect public health, safety, or welfare, and such laws must be narrowly tailored to achieve their purpose.
+Section 3. The United States and the states shall not impose unreasonable restrictions on the ownership or use of property, including excessive taxation, arbitrary zoning, or discriminatory regulations, that undermine the exercise of this right.
+Section 4. Congress and the states shall have the power to enforce this article by appropriate legislation to regulate property use for the public good, provided such regulations respect the core protections of this article and do not arbitrarily disproportionately burden any individual or group. Such legislation may define the scope of just compensation, establish procedures for property disputes, and ensure equitable application of this right.
+Section 5. Individuals whose property rights under this article are violated shall have the right to seek legal redress, including injunctive relief and damages, in a court of law.
+Section 6. This amendment shall not be construed to limit the rights of Indian tribes to manage their lands as provided by the Indian Amendment.
+Section 7. This amendment shall take effect immediately upon its ratification.
+
+
+31. Sovereign Accountability Amendment 
+Purpose: To limit sovereign immunity, ensure accountability of the United States and its officers for violations of rights, duties, and torts, and regulate Presidential pardons, enhancing justice and transparency.
+Section 1. The United States and its agencies shall not enjoy absolute immunity from suit in federal or state courts. Sovereign immunity is hereby waived for:
+(a) Violations of rights guaranteed by this Constitution or its amendments;
+(b) Breaches of statutory duties imposed by federal law;
+(c) Tortious acts or omissions by federal officers, employees, or agents acting within the scope of their duties, with liability attaching to the United States, equivalent to state tort law for private entities.
+Section 2. This waiver shall not apply to:
+(a) Acts of war or military operations;
+(b) Discretionary policy decisions, unless they violate explicit constitutional or statutory mandates;
+(c) Matters of national security.
+Section 3. No suit against the United States or its agencies shall proceed unless:
+(a) The claimant demonstrates specific harm, including denial of rights or benefits guaranteed by this Constitution, tied to a constitutional right, statutory duty, or tortious act;
+(b) Administrative remedies, as prescribed by law, are exhausted within 180 days of the alleged injury, unless waived by a court for good cause;
+(c) The action is filed within two years of the injury or its discovery, whichever is later.
+Section 4. During their term, the President and First Secretary shall be subject only to impeachment for alleged violations under this amendment, with civil or criminal suits deferred until post-tenure. The President shall enjoy absolute immunity from civil liability for actions taken in the exercise of constitutional duties, unless impeached and removed by Congress.
+Section 5. Congress shall establish a Federal Claims Court, subordinate to the Constitutional Court (Amendment 7), with jurisdiction over suits under this amendment. Decisions may award damages, injunctive relief, or other remedies, subject to review by the Constitutional Court or, if not established, the Supreme Court. Claims below a threshold set by law may be resolved through an administrative process overseen by said court.
+Section 6. The President’s power to grant reprieves and pardons under Article II, Section 2, Clause 1 shall not extend to:
+(a) Pardoning themselves or any person for offenses directly related to their own impeachment, conviction, or post-office prosecution;
+(b) Pardoning any person for offenses committed in concert with the President or First Secretary that involve abuse of office, obstruction of justice, or violation of this Constitution, as determined by a federal court upon challenge within 60 days of the pardon’s issuance;
+(c) Pardoning close family members, defined as spouses, parents, siblings, children, or grandchildren, for any offense, unless approved by a two-thirds vote of the Senate within 30 days of the pardon’s issuance.
+Section 7. Pardons issued in violation of Section 6 shall be null and void. The Constitutional Court, or if not yet established, the Supreme Court, shall have jurisdiction to review and invalidate such pardons upon petition by Congress, a state, or an affected party within 60 days of issuance.
+Section 8. Congress shall have the power to enforce this article by appropriate legislation, including laws to define administrative remedies, regulate post-tenure legal actions, coordinate with impeachment processes, set damage caps, and protect the public interest.
+Section 9. This amendment shall take effect one year after its ratification, allowing time for Congress to enact implementing legislation and establish the Federal Claims Court.
+
+
+32. Congressional Vacancies Amendment
+Purpose: Clarifies and standardizes the process for filling vacancies in Congress, ensuring continuity and representation without ambiguity.
+Section 1. Whenever a vacancy occurs in the House of Representatives, the executive authority of the affected state shall issue a writ of election to fill such vacancy within 90 days, unless the vacancy occurs within 120 days of the next general election, in which case it may remain vacant until that election.
+Section 2. Whenever a vacancy occurs in the Senate, the legislature of the affected state, if in session, shall appoint a replacement within 30 days to serve until the next general election for that seat. If the legislature is not in session, the governor may make a temporary appointment until the legislature reconvenes or the next general election, whichever comes first. If the legislature fails to appoint within 30 days while in session, the governor shall appoint a temporary replacement within 15 days, serving until the legislature acts or the next general election.
+Section 3. Congress shall have the power to enforce this article by appropriate legislation, including laws to ensure uniform procedures and timelines for filling vacancies.
+Section 4. This amendment shall take effect one year after its ratification, allowing states to align election laws within six months.
+
+
+33. Succession Clarity Amendment
+Purpose: Resolves ambiguities in the presidential line of succession beyond the Vice President, ensuring a clear chain of command without gaps.
+Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the First Secretary, if established under the Parliamentary Amendment, shall serve as Acting President. If no First Secretary exists or if the Parliamentary Amendment has not yet taken effect, the Speaker of the House, or if that office is abolished and no replacement appointed, the President pro tempore of the Senate, shall serve as Acting President.
+Section 2. Upon assuming the role of Acting President, the First Secretary, Speaker of the House, or President pro tempore shall vacate their prior office. 
+Section 3. Congress shall by law designate the order of other officials in the line of succession to serve as Acting President if the above officers are unavailable, ensuring continuity of executive authority. Congress may revise this order as needed, reflecting national priorities and departmental roles. Any such officer shall vacate their cabinet position upon assuming the role of Acting President, with the vacancy filled as provided by law.
+Section 4. Any officer serving as Acting President under this article shall exercise the powers and duties of the President but shall not assume the office of President or Vice President. Their service shall continue only until a President or Vice President is elected by special election, as provided by law, or the disability of either is removed, as provided by the Twenty-Fifth Amendment.
+Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance.
+Section 6. This amendment shall take effect one year after its ratification, with succession laws updated within six months.
+34. Treaty Enforcement Amendment
+Purpose: Clarifies the status and enforcement of treaties, ensuring consistency with domestic law and tribal obligations under the Indian Amendment.
+Section 1. All treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land, equal in force to this Constitution and federal statutes, and shall be binding on the United States and the several states.
+Section 2. Congress shall have the power to enact laws to implement and enforce treaties, including those with Indian tribes as affirmed by the Indian Amendment, resolving conflicts with state laws or prior statutes through legislation or judicial review.
+Section 3. No treaty shall be abrogated or modified without the consent of the United States, expressed through congressional action, and, where applicable, the other parties to the treaty, except as provided by the treaty’s terms.
+Section 4. The Constitutional Court, or if not yet established, the Supreme Court, shall have jurisdiction to resolve disputes arising from treaty enforcement or conflicts with domestic law.
+Section 5. This amendment shall take effect one year after its ratification, with Congress reviewing existing treaties within six months.
+
+
+35. Municipalization Amendment
+Purpose: To empower municipalities to own, operate, and manage public services, ensuring democratic control, affordability, and equitable access to essential utilities and infrastructure, while balancing federal and state oversight to protect the public interest.
+Section 1. The United States and the several States shall recognize the right of municipalities to establish, acquire, own, operate, and manage public services, including but not limited to water, electricity, natural gas, public transportation, broadband internet, and waste management, as a means of promoting the general welfare, economic security, and democratic governance within their jurisdictions.
+Section 2. Municipalities may exercise the authority granted under Section 1 through democratic processes, including voter referendums or resolutions by duly elected local governing bodies, provided that such actions:
+(a) Ensure affordability, accessibility, reliability, and quality of service for all residents, without discrimination on any basis outlined in the Voting Rights and Civil Rights Amendment;
+(b) Comply with federal and state standards for safety, environmental protection, fiscal responsibility, and interoperability, as established by law;
+(c) Provide just compensation to private entities if services or infrastructure are acquired through eminent domain, in accordance with the Property Rights Amendment.
+Section 3. No law or regulation of the United States or any State shall unduly restrict the right of municipalities to municipalize public services, except where necessary to protect public health, safety, or interstate commerce. Any such restriction shall be narrowly tailored, use the least restrictive means, and be subject to judicial review by the Constitutional Court, or, if not yet established, the Supreme Court, upon petition by an affected municipality or its residents.
+Section 4. Congress and the several States shall have the power to support the municipalization of public services through:
+(a) The provision of funding, technical assistance, and training to municipalities for the establishment, acquisition, or operation of public services;
+(b) The establishment of national standards to ensure equitable access, affordability, and interoperability of services, particularly for those affecting interstate commerce, such as broadband internet and transportation;
+(c) The enactment of regulations to prevent monopolistic practices by private entities that undermine municipal control of public services, consistent with the principles of the "We The People" Amendment.
+Section 5. The United States shall facilitate the transition of public services to municipal control by providing grants, loans, or tax incentives to municipalities, with priority given to underserved, rural, or economically disadvantaged communities within the several States, to prevent disparities in service access across regions.
+Section 6. Individuals or communities denied equitable access to municipalized public services due to governmental failure or discrimination may seek legal redress in the courts of the United States or the several States. Such redress may include injunctive relief, damages, or orders to ensure compliance with this article, as provided by law.
+Section 7. Nothing in this article shall be construed to limit the rights of Indian tribes to manage their lands and resources, as provided by the Indian Amendment, nor to abridge the environmental protections established by the Environmental Rights Amendment.
+Section 8. Congress shall have the power to enforce this article by appropriate legislation, including laws to:
+(a) Establish funding mechanisms and national standards for municipalized public services;
+(b) Define procedures for the transition of services from private to municipal control;
+(c) Ensure transparency and public participation in the municipalization process;
+(d) Provide remedies for violations of the rights and duties established herein.
+Section 9. This amendment shall take effect one year after its ratification, allowing time for Congress and the several States to enact necessary legislation, establish funding mechanisms, and prepare municipalities for implementation.
+
+
+36. Firearm Amendment
+Purpose: To clarify the respective roles of the United States and the several states in regulating firearms, affirming that gun control is primarily a state issue with limited federal authority, while ensuring the Second Amendment rights of individuals are protected and balanced with public safety.
+Section 1. The several states shall have the primary authority to regulate the manufacture, sale, purchase, possession, transfer, and use of firearms and ammunition within their jurisdictions, consistent with the Second Amendment to this Constitution. Such regulations may include, but are not limited to:
+(a) Background checks, waiting periods, and licensing requirements for firearm purchases;
+(b) Restrictions on the types of firearms or ammunition available for civilian use;
+(c) Limitations on carrying firearms in public spaces;
+(d) Red flag laws or other measures to prevent access by individuals deemed a danger to themselves or others, as determined by state law.
+Section 2. The United States shall have the authority to regulate firearms and ammunition only in the following areas:
+(a) Interstate and international commerce in firearms and ammunition, to prevent trafficking and ensure compliance with state laws;
+(b) Firearms on federal lands, as defined by the Federal Lands Amendment (Amendment 15), consistent with the right to roam responsibly under the Environmental Rights Amendment (Amendment 12);
+(c) Background checks for interstate firearm transfers, to establish a national standard for identifying prohibited persons (e.g., felons, domestic abusers), as defined by federal law;
+(d) National security emergencies, as defined by the Emergency Powers Amendment (Amendment 30), where Congress may temporarily impose restrictions, subject to judicial review by the Constitutional Court or Supreme Court within 30 days of initiation.
+Any federal regulation beyond these areas shall be deemed an infringement on state authority, unless explicitly authorized by a three-fourths majority vote of both Houses of Congress and subject to review by the Constitutional Court, if established under the Judicial System Amendment (Amendment 7), or otherwise the Supreme Court.
+Section 3. The right of the people to keep and bear arms, as guaranteed by the Second Amendment, shall not be infringed by the United States or any state. No regulation under this article shall be construed to deny law-abiding citizens the ability to possess firearms for self-defense, hunting, or other lawful purposes, as determined by state law and judicial interpretation consistent with this Constitution.
+Section 4. No state or federal law regulating firearms shall discriminate against any individual on account of sex, race, ethnicity, religion, or other protected characteristics as defined by the Voting Rights and Civil Rights Amendment. Regulations shall be applied equitably and shall not disproportionately burden any group without a compelling public safety justification, subject to strict judicial scrutiny by the Constitutional Court, if established, or otherwise the Supreme Court.
+Section 5.
+(a) Congress and the several states shall have the power to enforce this article by appropriate legislation, including laws to establish standards for interstate firearm transfers, ensure compliance with the Second Amendment, and provide remedies for violations of this article.
+(b) Individuals or entities whose rights under this article are violated may seek legal redress in the courts of the United States or the several states, including injunctive relief, damages, or other remedies as provided by law.
+(c) The Constitutional Court, if established under the Judicial System Amendment (Amendment 7), or otherwise the Supreme Court, shall have jurisdiction to resolve disputes arising from this article, including conflicts between federal and state authority or challenges to the constitutionality of firearm regulations.
+Section 6. Within one year of this amendment’s ratification, Congress shall review all existing federal laws regulating firearms, including but not limited to the National Firearms Act, the Gun Control Act of 1968, the Brady Handgun Violence Prevention Act, and the Bipartisan Safer Communities Act of 2022. Provisions consistent with Section 2 of this article (e.g., regulations on interstate commerce, background checks for interstate transfers) shall remain in effect. Provisions exceeding federal authority under Section 2 (e.g., nationwide bans on specific firearms or ammunition) shall be repealed or modified to comply with this amendment, unless reauthorized by a three-fourths majority vote of both Houses of Congress within two years of ratification. The several states shall have one year from the effective date of this amendment to enact or adjust their own firearm regulations to align with this article, ensuring compliance with the Second Amendment and public safety needs as determined by state law.
+Section 7. Nothing in this article shall be construed to limit the rights of Indian tribes to regulate firearms on their lands.
+Section 8. This amendment shall take effect one year after its ratification, allowing time for Congress and the several states to review and adjust existing laws, establish interstate standards, and prepare for implementation.
+
+
+37. Executive Secretaries Amendment
+Purpose: To establish key federal positions as executive secretaries by the provisions of this constitution.
+Section 1. 
+(a) An Executive Secretary is a senior federal officer within the Executive Office of the President, part of the federal bureaucracy under the Federal Bureaucracy Amendment (Amendment 15), delegated with exclusive administrative powers, such as cross-branch coordination and emergency directives within their designated domains, beyond the delegated authority of independent agencies under Amendment 15, insulated from direct executive or partisan interference, and accountable directly to the Senate and the President. The First Secretary, if established, shall nominally be an executive secretary, but their title shall not be defined by the terms of this amendment, being unique in purpose and function.
+(b) The following offices are hereby established as Executive Secretaries within the Executive Office of the President:
+(i) The Attorney General of the United States, chief legal advisor to the President, responsible for enforcing federal laws and overseeing the Department of Justice;
+(ii) The Treasurer of the United States, chief economic advisor to the President, responsible for managing federal finances, revenue collection, debt issuance, the minting of currency, and fiscal transparency;
+(iii) The Inspector General of the United States, responsible for investigating waste, fraud, and abuse in the federal government and overseeing the federal bureaucracy;
+(iv) The Comptroller General of the United States, responsible for auditing federal finances, tracking expenditures, and ensuring budgetary accountability;
+(v) The Secretary of State of the United States, chief advisor to the Vice President, responsible for administering federal elections, managing federal records, ensuring civic transparency, and overseeing citizen initiatives;
+(vi) The Chief Statistician of the United States, responsible for providing the public with accurate data free of manipulation.
+(vii) The Public Health Commissioner of the United States, responsible for overseeing federal public health administration and education.
+(c) Congress may, by law enacted with a two-thirds majority vote of both Houses, establish additional Executive Secretaries within the Executive Office of the President to address critical administrative functions not adequately served by existing officers, provided such roles align with the definition in Section 1(a) and are accompanied by specific duties, qualifications, and funding mechanisms defined in the enacting legislation.
+Section 2. Each executive secretary shall be appointed by the President, with the advice and consent of two-thirds of the Senate, for a renewable term lasting six years.
+Section 3. Each officer may be removed only for cause (e.g., malfeasance, gross misconduct, or inability to perform duties) by a two-thirds vote of the House of Representatives, followed by a trial and two-thirds vote of conviction by the Senate, mirroring the impeachment process for other federal officers.
+Section 4. Secretaries shall report to the President for coordination and the Senate for oversight, managing their departments independent of First Secretary control unless specified by law. They shall operate under the President’s nominal purview for high-level coordination with national policy objectives, including submitting annual reports to the President and consulting on matters of national importance as requested, but such coordination shall not impair their authority to execute their core duties as defined by law or this Constitution. They shall also submit annual reports to Congress and the public to ensure transparency. The Attorney General, Treasurer, Inspector General, Secretary of State, and Comptroller General shall collectively serve as the Ethics Commission, as provided by the Code of Conduct Amendment, with the Inspector General chairing the Commission.
+Section 5.
+(a) The Attorney General shall be the chief law enforcement officer and prosecutor of the United States, to hold executive responsibility for all criminal prosecutions and federal law enforcement, oversee the Department of Justice, appoint U.S. Attorneys (subject to Senate confirmation), and investigate government officials without fear of reprisal, in coordination with other Executive Secretaries. Disputes over enforcement jurisdiction with other Secretaries shall be resolved by the President, subject to Senate review within 30 days.
+(b) The Treasurer shall collect federal revenues, manage the public debt, oversee the U.S. Mint and Bureau of Engraving and Printing, and ensure fiscal transparency, providing annual reports to Congress, the President, and the public as required by the Fiscal Responsibility Amendment (Amendment 11).
+(c) The Inspector General shall investigate waste, fraud, and abuse across all federal departments, oversee the federal bureaucracy, and coordinate the activities of all departmental Inspectors General, who shall serve under the same terms and protections as Executive Secretaries—six-year terms, removable only by impeachment. Departmental Inspectors General shall report to the Inspector General of the United States and operate independently of the First Secretary’s administrative authority, subject to oversight by the Ethics Commission and judicial review.
+(d) The Comptroller General shall audit federal financial accounts, track expenditures, analyze budget compliance, and provide independent fiscal reports to Congress, the President, and the public, ensuring accountability in the use of public funds. 
+(e) The Secretary of State shall:
+(i) Administer federal elections, ensure their integrity, transparency, prevent voter suppression and fraud, monitor lobbying and campaign finance disclosure in coordination with the Attorney General, issue writs of election, and certify election processes;
+(ii) Administer the citizen initiative process as provided by the Citizen Initiative Amendment, including the collection, verification, and certification of petition signatures, the preparation and presentation of qualified proposals for national ballots, and the certification of referendum results in coordination with the Electoral Court, if created;
+(iii) Keep the Great Seal of the United States;
+(iv) Ensure the lawful certification, publication and dissemination of federal laws, election results, regulations, budgets, censuses, proclamations, charters, and official documents as received from their respective authorities, without alteration of their content; 
+(v) Ensure the proper preservation and public access to federal records, historical documents, and government archives;
+(vi) Administer the naturalization process and oversee applications for lawful permanent residency and temporary residency, ensuring the lawful certification of citizenship and residency for eligible persons, revocation at judicial request, and maintenance of all related records;
+(vii) Create a platform that shall serve as an accessible comprehensive legislative tracking solution for the United States, allowing the public to easily follow legislation, regulations, petitions, and dialogues across the United States and to notify invested parties of updates;
+(viii) Certify the results of the Presidential election in the presence of the Senate and the House of Representatives on the behalf of the President of the Senate.
+The Secretary of State shall provide annual reports to Congress, the President, and the public on electoral integrity, record preservation, and transparency efforts.
+(f) The Chief Statistician shall oversee the census and the whole of the Federal Statistical System of the United States.
+(g) The Public Health Commissioner shall:
+(i) Coordinate federal, state, and local public health efforts, including disease prevention, health education, and administration of programs as directed by Congress under Amendment 4, in coordination with the First Secretary on cross-agency matters;
+(ii) Oversee federal public health agencies and initiatives, advising the President, Congress, and public on health matters;
+(iii) Ensure transparency and accountability, submitting annual reports to Congress, the President, and the public;
+(iv) Perform additional duties as prescribed by Congress, focused on execution and education, without authority to promulgate regulations.
+Section 6. The actions of each executive secretary, and any congressional legislation affecting their duties, shall be subject to judicial review by the Constitutional Court, if established under the Judicial System Amendment, or otherwise the Supreme Court, to ensure compliance with the Constitution and federal law. Congress may establish an independent oversight board for each office, composed of nonpartisan experts, to review their conduct and recommend removal proceedings if necessary. Each officer shall submit an annual report to Congress, the President, and the public on their activities, ensuring transparency. The Ethics Commission’s collective actions shall be reported annually as a unified document, detailing ethics investigations and recommendations, approved by a majority of its five members.
+Section 7. Upon ratification, the current Attorney General, Chief Statistician, Comptroller General, Archivist of the United States, Register of the Copyright Office, leadership of the Patent and Trademark Office, Treasurer, and other relevant posts shall serve until their successors are appointed under this amendment. The Inspector General’s office shall be established, and the Archivist of the United States’ Office shall be reestablished as the Secretary of State’s office, within one year of ratification. The Ethics Commission shall assume its duties under the Code of Conduct Amendment within one year, absorbing functions from existing congressional and judicial ethics bodies as directed by Congress. Congress shall enact legislation within one year to define qualifications, facilitate the transition of these offices to Executive Secretary status, and transfer all authorities necessary to their duties. All existing functions of relevant agencies shall continue uninterrupted during this transition.
+Section 8. Congress shall have the power to enforce this article by appropriate legislation, including laws to:
+(a) Regulate the appointment process and provide administrative support for each Executive Secretary’s duties as specified in this amendment;
+(b) Establish new Executive Secretaries as provided in Section 1(c);
+(c) Ensure their operational independence while facilitating coordination with the President;
+(d) Provide funding and resources for their offices.
+Section 9. This amendment shall take effect one year after its ratification, with the first appointments occurring within six months thereafter.

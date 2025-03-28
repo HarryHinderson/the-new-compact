@@ -1,0 +1,167 @@
+body {
+    background-color: #fdfaf5; /* Slight tan tint */
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background-color: #ba3232;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: relative;
+}
+nav {
+    background-color: #9b2929;
+    padding: 0.5em;
+    text-align: center;
+    position: relative;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+nav a:hover {
+    color: #f4eae2;
+}
+main {
+    margin-left: calc(5% + 270px); /* TOC width (250px) + padding (10px + 10px) + 5% offset */
+    padding: 20px;
+    max-width: 800px;
+}
+main a {
+    color: #ba3232; /* Matches TOC links */
+    text-decoration: none;
+    font-weight: bold;
+}
+main a:hover {
+    text-decoration: underline;
+    color: #9b2929; /* Darker red, like h3 */
+}
+.container {
+    display: block; /* Drop flex, simplify layout */
+    position: relative; /* Anchor for absolute TOC */
+    padding-top: 20px; /* Space after nav */
+}
+.toc {
+    position: absolute; /* Out of flow from start */
+    left: 5%; /* Your original offset */
+    top: 50px; /* Align with container top, adjust as needed */
+    background: #f4eae2;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    max-height: 70vh;
+    overflow-y: auto;
+    font-size: 0.95em;
+    line-height: 1.3;
+}
+.toc.fixed {
+    position: fixed;
+    top: 50px; /* Matches your design */
+    left: 5%; /* Stays consistent */
+}
+.toc h3 {
+    margin: 0 0 8px 0; /* Reduced from 10px */
+    font-size: 1.1em; /* Slightly smaller */
+    font-weight: bold;
+}
+.toc ul {
+    list-style-type: none;
+    padding: 0;
+}
+.toc li {
+    margin-bottom: 8px; /* Reduced from 10px for tighter spacing */
+}
+.toc .toc-section {
+    padding-left: 0;
+}
+.toc .toc-subsection {
+    margin-left: 15px;
+    font-size: 0.9em; /* Slightly smaller */
+    color: #7a1e1e;
+}
+.toc a {
+    color: #ba3232;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    padding: 1px 0; /* Reduced from 2px */
+}
+.toc a:hover {
+    text-decoration: underline;
+}
+.toc .amendment-title {
+    margin-bottom: 3px; /* Reduced from 5px */
+}
+.toc .amendment-title a {
+    color: #ba3232;
+    font-weight: bold;
+}
+.toc details {
+    margin: 0;
+}
+.toc summary {
+    cursor: pointer;
+    padding: 1px 0; /* Reduced from 2px */
+    font-weight: normal;
+    color: #9b2929;
+    font-size: 0.85em; /* Slightly smaller */
+}
+.toc details[open] summary {
+    color: #7a1e1e;
+}
+.toc details ul {
+    margin-top: 3px; /* Reduced from 5px */
+}
+footer {
+    background-color: #ba3232;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+.amendment {
+    margin-top: 50px;
+    border-bottom: 2px solid #ba3232;
+    padding-bottom: 10px;
+}
+h3 {
+    color: #9b2929;
+    margin-top: 20px;
+}
+p {
+    line-height: 1.6;
+}
+.back-to-top {
+    display: block;
+    margin-top: 10px;
+    color: #ba3232;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.back-to-top:hover {
+    text-decoration: underline;
+}
+@media (max-width: 1000px) {
+    .toc {
+        position: static; /* Back in flow on smaller screens */
+        width: 100%;
+        max-height: none;
+        margin: 20px auto;
+        padding: 15px;
+    }
+    .toc.fixed {
+        position: static; /* No fixing */
+    }
+    main {
+        margin-left: 0; /* Full width */
+    }
+}
