@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box; /* Padding/border included in width */
+}
 body {
     background-color: #fdfaf5; /* Slight tan tint */
     color: black;
@@ -159,11 +162,20 @@ p {
 }
 @media (max-width: 1000px) {
     .toc {
-        position: static; /* Back in flow on smaller screens */
+        position: static; /* Back in flow */
         width: 100%;
-        max-height: none;
-        margin: 20px auto;
+        max-width: 100%; /* Clamp to viewport */
+        margin: 20px 0;
         padding: 15px;
+        max-height: none;
+        overflow-x: hidden; /* Prevent horizontal scroll */
+    }
+    .toc.fixed {
+        position: static;
+    }
+    .toc ul, .toc li {
+        width: 100%; /* Force children to fit */
+        overflow-wrap: break-word; /* Break long words */
     }
     .toc.fixed {
         position: static; /* No fixing */
