@@ -61,8 +61,6 @@ main a:hover {
     padding: 10px;
     border-radius: 5px;
     width: 250px;
-    max-height: 70vh;
-    overflow-y: auto;
     font-size: 0.95em;
     line-height: 1.3;
 }
@@ -70,6 +68,19 @@ main a:hover {
     position: fixed;
     top: 50px; /* Matches your design */
     left: 5%; /* Stays consistent */
+}
+.toc-header {
+    position: sticky;
+    top: 0;
+    background: #f4eae2; /* Match .toc background */
+    padding: 10px;
+    border-bottom: 1px solid #ba3232; /* Separator */
+    z-index: 1; /* Ensure it stays above the list */
+}
+.toc-header h3 {
+    margin: 0;
+    font-size: 1.1em;
+    font-weight: bold;
 }
 .toc h3 {
     margin: 0 0 8px 0; /* Reduced from 10px */
@@ -82,6 +93,16 @@ main a:hover {
 }
 .toc li {
     margin-bottom: 8px; /* Reduced from 10px for tighter spacing */
+}
+.toc-list {
+    max-height: calc(70vh - 30px); /* Adjust for smaller header (~30px) */
+    overflow-y: auto;
+    padding: 5px 10px 10px 10px; /* Reduced top padding */
+}
+.toc-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 .toc .toc-section {
     padding-left: 0;
@@ -97,6 +118,10 @@ main a:hover {
     font-weight: bold;
     display: block;
     padding: 1px 0; /* Reduced from 2px */
+}
+.toc a.active {
+    font-weight: bolder;
+    color: #9b2929; /* Darker red for emphasis */
 }
 .toc a:hover {
     text-decoration: underline;
@@ -167,7 +192,6 @@ p {
         max-width: 100%; /* Clamp to viewport */
         margin: 20px 0;
         padding: 15px;
-        max-height: none;
         overflow-x: hidden; /* Prevent horizontal scroll */
     }
     .toc.fixed {
@@ -177,8 +201,14 @@ p {
         width: 100%; /* Force children to fit */
         overflow-wrap: break-word; /* Break long words */
     }
-    .toc.fixed {
-        position: static; /* No fixing */
+    .toc-header {
+        position: static; /* No sticky on mobile */
+        padding: 15px 15px 5px 15px; /* Adjust padding */
+        border-bottom: 1px solid #ba3232;
+    }
+    .toc-list {
+        max-height: none; /* Full height on mobile */
+        padding: 0 15px 15px 15px; /* Consistent padding */
     }
     main {
         margin-left: 0; /* Full width */

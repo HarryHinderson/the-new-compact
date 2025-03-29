@@ -19,8 +19,11 @@
     
     <div class="container">
         <div class="toc">
-            <h3>Table of Contents</h3>
-            <ul>
+            <div class="toc-header">
+                <h3>Table of Contents</h3>
+            </div>
+            <div class="toc-list">
+                <ul>
             <li class="toc-section">
                 <div class="amendment-title"><a href="#amendment1">1. The Amendment Amendment</a></div>
                 <details>
@@ -579,7 +582,8 @@
                     </ul>
                 </details>
             </li>
-            </ul>
+                </ul>
+            </div>
         </div>
         <main>
         <h2 class="amendment" id="amendment1">1. The Amendment Amendment</h2>
@@ -827,7 +831,7 @@
         <h3 id="amendment15-section4">Section 4</h3>
         <p>Congress shall have the power to establish, reorganize, or abolish administrative bodies and define their missions, powers, and responsibilities.</p>
         <h3 id="amendment15-section5">Section 5</h3>
-        <p>Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States. Such regulation shall:<br>(a) Set national standards where interstate or national interests require uniformity, as determined by law;<br>(b) Encourage State participation through consultation, concurrent authority, or supplemental regulation, as provided by law;<br>(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency, as defined by the Emergency Powers Amendment.</p>
+        <p>Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States. Such regulation shall:<br>(a) Set national standards where interstate or national interests require uniformity;<br>(b) Encourage State participation through consultation, concurrent authority, or supplemental regulation;<br>(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency, as defined by the Emergency Powers Amendment.</p>
         <h3 id="amendment15-section6">Section 6</h3>
         <p>Congress may delegate regulatory power to the federal bureaucracy, including the authority to promulgate rules after public notice and opportunity for comment, enforce laws, and adjudicate disputes with fair hearings, provided such delegation is accompanied by clear standards and guidelines specifying policy objectives, scope of authority, and annual reporting to Congress.</p>
         <h3 id="amendment15-section7">Section 7</h3>
@@ -878,7 +882,7 @@
         <h3 id="amendment18-section2">Section 2</h3>
         <p>The Senate shall not originate bills or resolutions. Upon receiving a bill passed by the House of Representatives, the Senate may, by majority vote, choose to review the bill. If rejected, it shall be sent back to the house with recommendations. The house may then pass the bill again by simple majority. The Senate shall have the power to review a bill twice, before passage by the House shall send the bill for Presidential approval without further Senate action.</p>
         <h3 id="amendment18-section3">Section 3</h3>
-        <p>State-selected Senators shall serve six-year terms, renewable at the discretion of their State’s selection process. Former Presidents shall serve as Senators for life, removable only by Senate impeachment under its own statutes. Presidents serving as Senators for life shall not count towards the quorum of the Senate, nor shall they raise the amount required for meeting a quorum.</p>
+        <p>State-selected Senators shall serve six-year terms, renewable at the discretion of their State’s selection process. Former Presidents shall serve as Senators for life, removable only by resignation and Senate impeachment under its own statutes. Presidents serving as Senators for life shall not count towards the quorum of the Senate, nor shall they raise the amount required for meeting a quorum. Living Presidents at the time this Amendment comes into effect shall not be granted the title of Senator for life.</p>
         <h3 id="amendment18-section4">Section 4</h3>
         <p>The Senate shall be a nonpartisan chamber. Senators shall not affiliate with political parties, campaign for office, or engage in partisan activities during their term, under penalty of removal by Congress or the Constitutional Court. The Senate may establish statutes governing its impeachment proceedings.</p>
         <h3 id="amendment18-section5">Section 5</h3>
@@ -1235,6 +1239,53 @@
             } else {
                 toc.classList.remove('fixed');
             }
+        });
+
+        const tocLinks = document.querySelectorAll('.toc-list a');
+        tocLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const amendmentId = this.getAttribute('href').substring(1);
+                const amendment = document.getElementById(amendmentId);
+                
+                amendment.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                
+                setTimeout(() => {
+                    this.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            });
+        });
+
+        const amendments = document.querySelectorAll('.amendment');
+        const observerOptions = {
+            root: null,
+            rootMargin: '-100px 0px -50% 0px',
+            threshold: 0.5
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            let topAmendment = null;
+            let minTop = Infinity;
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const rect = entry.boundingClientRect;
+                    if (rect.top < minTop) {
+                        minTop = rect.top;
+                        topAmendment = entry.target;
+                    }
+                }
+            });
+            if (topAmendment) {
+                const amendmentId = topAmendment.id;
+                const link = document.querySelector(`.toc-list a[href="#${amendmentId}"]`);
+                if (link) {
+                    link.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            }
+        }, observerOptions);
+
+        amendments.forEach(amendment => {
+            observer.observe(amendment);
         });
     </script>
 </body>

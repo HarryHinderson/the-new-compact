@@ -1,28 +1,23 @@
 import re
 
-# Read the input document
 with open('new_compact.txt', 'r', encoding='utf-8') as file:
-    content = file.read().replace('\ufeff', '')  # Remove BOM explicitly
+    content = file.read().replace('\ufeff', '')
 
-# Split content into amendment blocks
 amendment_blocks = re.split(r'\n(?=\d+\.\s+[^0-9\n])', content)
 amendment_blocks = [block.strip() for block in amendment_blocks if re.match(r'\d+\.\s+', block.strip())]
 
 amendment_data = []
 
 for block in amendment_blocks:
-    # Extract amendment number and title
     title_match = re.match(r'(\d+)\.\s+(.+)', block)
     if not title_match:
         continue
     number = title_match.group(1)
     title = title_match.group(2).strip()
     
-    # Extract Purpose
     purpose_match = re.search(r'Purpose:\s*(.+?)(?=\nSection \d+\.|$)', block, re.DOTALL)
     purpose = purpose_match.group(1).strip().replace('\n', ' ') if purpose_match else "No purpose specified."
     
-    # Extract sections
     section_pattern = r'Section (\d+)\.\s+(.+?)(?=\nSection \d+\.|$|\nPurpose:|\n\d+\.\s+)'
     sections = []
     section_matches = re.finditer(section_pattern, block, re.DOTALL)
@@ -31,7 +26,6 @@ for block in amendment_blocks:
         section_num = match.group(1)
         section_text = match.group(2).strip()
         
-        # Protect citations by temporarily replacing them with a placeholder
         citation_pattern = r'Section \d+\([a-z]+\)'
         citations = {}
         def protect_citation(match):
@@ -44,31 +38,26 @@ for block in amendment_blocks:
         subclause_text = ""
         continuation_text = ""
         
-        # Define pattern for subclause labels (e.g., (a), (b), (i), etc.)
         label_pattern = r'\([a-z]+\)|\([ivxlcdm]+\)'
         labels = list(re.finditer(label_pattern, protected_text))
         
         if labels:
-            # Check if this is a list: multiple labels or intro ends with list delimiter
             intro_end = labels[0].start()
             intro_text = protected_text[:intro_end].strip()
             is_list = len(labels) > 1 or (intro_text and intro_text[-1] in '.:;')
             
             if is_list:
-                # Introductory text for a list
                 if intro_text and intro_text[-1] in '.:;':
                     subclause_text += intro_text + '<br>'
                 else:
                     subclause_text += intro_text + ' '
                 
-                # Process all subclauses except the last one
                 for i in range(len(labels) - 1):
                     label = labels[i].group()
                     start = labels[i].end()
                     end = labels[i + 1].start()
                     text = protected_text[start:end].strip()
                     
-                    # Check for conjunctions
                     conjunction_match = re.match(r'(.*)\b(or|and)\s*$', text, re.DOTALL)
                     if conjunction_match:
                         text_before, conj = conjunction_match.groups()
@@ -76,12 +65,10 @@ for block in amendment_blocks:
                     else:
                         subclause_text += f"{label} {text}<br>"
                 
-                # Handle the last subclause
                 last_label = labels[-1].group()
                 last_start = labels[-1].end()
                 last_text = protected_text[last_start:].strip()
                 
-                # Check for continuation text
                 continuation_match = re.match(r'([^.;:]+[.;:]\s*)(.*)', last_text, re.DOTALL)
                 if continuation_match:
                     subclause_part, continuation_part = continuation_match.groups()
@@ -91,23 +78,18 @@ for block in amendment_blocks:
                 else:
                     subclause_text += f"{last_label} {last_text}"
             else:
-                # Not a list, treat as plain text
                 subclause_text = protected_text
         else:
-            # No labels, treat as plain text
             subclause_text = protected_text
         
-        # Restore citations
         for placeholder, citation in citations.items():
             subclause_text = subclause_text.replace(placeholder, citation)
             if continuation_text:
                 continuation_text = continuation_text.replace(placeholder, citation)
         
-        # Replace newlines with spaces for consistency within paragraphs
         subclause_text = subclause_text.replace('\n', ' ').strip()
         continuation_text = continuation_text.replace('\n', ' ').strip() if continuation_text else ""
         
-        # Combine into section content
         section_content = []
         if subclause_text:
             section_content.append(subclause_text)
@@ -119,7 +101,6 @@ for block in amendment_blocks:
     if sections:
         amendment_data.append((number, title, purpose, sections))
 
-# HTML template
 html_template = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,10 +122,14 @@ html_template = """<!DOCTYPE html>
     
     <div class="container">
         <div class="toc">
-            <h3>Table of Contents</h3>
-            <ul>
+            <div class="toc-header">
+                <h3>Table of Contents</h3>
+            </div>
+            <div class="toc-list">
+                <ul>
 {TOC}
-            </ul>
+                </ul>
+            </div>
         </div>
         <main>
 {MAIN}
@@ -167,11 +152,57 @@ html_template = """<!DOCTYPE html>
                 toc.classList.remove('fixed');
             }}
         }});
+
+        const tocLinks = document.querySelectorAll('.toc-list a');
+        tocLinks.forEach(link => {{
+            link.addEventListener('click', function(e) {{
+                e.preventDefault();
+                const amendmentId = this.getAttribute('href').substring(1);
+                const amendment = document.getElementById(amendmentId);
+                
+                amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                
+                setTimeout(() => {{
+                    this.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                }}, 100);
+            }});
+        }});
+
+        const amendments = document.querySelectorAll('.amendment');
+        const observerOptions = {{
+            root: null,
+            rootMargin: '-100px 0px -50% 0px',
+            threshold: 0.5
+        }};
+
+        const observer = new IntersectionObserver((entries) => {{
+            let topAmendment = null;
+            let minTop = Infinity;
+            entries.forEach(entry => {{
+                if (entry.isIntersecting) {{
+                    const rect = entry.boundingClientRect;
+                    if (rect.top < minTop) {{
+                        minTop = rect.top;
+                        topAmendment = entry.target;
+                    }}
+                }}
+            }});
+            if (topAmendment) {{
+                const amendmentId = topAmendment.id;
+                const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
+                if (link) {{
+                    link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                }}
+            }}
+        }}, observerOptions);
+
+        amendments.forEach(amendment => {{
+            observer.observe(amendment);
+        }});
     </script>
 </body>
 </html>"""
 
-# Generate TOC and Main content
 toc_entries = []
 main_entries = []
 
@@ -202,12 +233,10 @@ for number, title, purpose, sections in amendment_data:
         <a href="#top" class="back-to-top">Back to Top</a>"""
     main_entries.append(main_entry)
 
-# Combine into full HTML
 toc_content = '\n'.join(toc_entries)
 main_content = '\n'.join(main_entries)
 final_html = html_template.format(TOC=toc_content, MAIN=main_content)
 
-# Write to file
 with open('amendments.html', 'w', encoding='utf-8') as file:
     file.write(final_html)
 
