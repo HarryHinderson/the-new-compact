@@ -185,11 +185,11 @@ Purpose: Grants self-governance and representation to the District of Columbia.
 Section 1. The District of Columbia, constituting the seat of the Government of the United States, commonly known as Washington, D.C., is hereby recognized as a self-governing entity. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this amendment.
 Section 2. The residents of the District of Columbia shall be represented in Congress by a non-voting delegate, and shall not be represented in the Senate.
 Section 3. Excepting Section 2, the residents of the District of Columbia shall be entitled to all fundamental rights, privileges, and protections guaranteed by this Constitution.
-Section 4. The District of Columbia shall have the authority to govern itself, including the power to:
+Section 4. Pursuant to Section 3, the District of Columbia shall have the authority to govern itself, including the power to:
 (a) Enact laws for the administration of the District.
 (b) Establish and maintain local government institutions, including a mayor and council, to manage the day-to-day affairs of the District.
-(c) Levy taxes, regulate commerce, and exercise all other powers of a State, except as otherwise provided in this article.
-Section 5. Congress shall have the power to admit the District of Columbia as a State, subject to the consent of its residents through a free and fair referendum. Upon admission as a State:
+(c) Levy taxes, regulate commerce, and exercise all other powers of a State, except as otherwise provided by this article.
+Section 5. Congress shall have the power to admit the District of Columbia as a State. Upon admission as a State:
 (a) The new State shall consist of the territory described in Section 1 of this article, except for such areas as Congress may designate to remain under federal jurisdiction as the seat of the Government of the United States.
 (b) The new State shall assume all powers and responsibilities of a State under this Constitution.
 Section 6. No change to the status or boundaries of the District of Columbia shall be made without the consent of its residents, expressed through a free and fair referendum.
@@ -270,25 +270,26 @@ Section 7. This amendment shall take effect the next Congress three years after 
 Purpose: Establishes the framework for the governance of U.S. territories and their relationship with the federal government.
 Section 1. The Congress shall have the power to organize and govern territories of the United States, which may be acquired through treaty, conquest, or other lawful means. Territories shall be classified as either incorporated or unincorporated, based on the intent of Congress and the consent of the territory’s residents.
 Section 2. Incorporated territories are those in which the Constitution of the United States applies in full, and whose residents are entitled to all rights, privileges, and protections guaranteed by this Constitution. Incorporated territories shall be governed as integral parts of the United States, with a clear path to statehood, as provided by law.
-Section 3. Unincorporated territories are those in which only the following fundamental rights and protections shall apply: the right to due process of law, the right to equal protection under the law, the right to be free from unreasonable searches and surveillance, the right to freedom of speech, and the right to peaceably assemble. Residents of unincorporated territories shall be entitled to these rights, as provided by law. Congress may by law extend additional constitutional rights to such territories, in whole or in part, as it deems appropriate.
-Section 4. Within five years of this amendment’s ratification, Congress shall review or establish, by law, the fundamental law for each permanently inhabited territory, to be renewed by Congress every twenty years thereafter. Such frameworks shall:
+Section 3. Unincorporated territories are those in which only the following fundamental rights and protections shall apply: the right to due process of law, the right to equal protection under the law, the right to be free from unreasonable searches and surveillance, the right to freedom of speech, the right to freely associate, and the right to peaceably assemble. Congress may by law extend or retract additional constitutional rights to such territories, in whole or in part, as it deems appropriate.
+Section 4. Within five years of this amendment’s ratification, Congress shall review or establish, by law, the fundamental law of each permanently inhabited territory, to be renewed by Congress every twenty years thereafter. Such frameworks shall:
 (a) Classify the territory as incorporated or unincorporated and define the powers and responsibilities of its government accordingly.
 (b) Ensure residents’ rights and protections align with Sections 2 and 3 of this article, with public input from the territory.
 (c) Provide mechanisms for economic and social development, consistent with available federal resources.
 (d) Outline a process, if applicable, for the territory to pursue statehood, independence, or free association, subject to Section 9’s referendum requirement.
-Section 5. Free association shall be defined as a voluntary relationship between a sovereign country and the United States, established by mutual agreement. Under such an agreement:
+Section 5. All persons born or naturalized in the territories of the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the territory wherein they reside.
+Section 6. The residents of each territory shall be entitled to representation in the House of Representatives by a non-voting delegate.
+Section 7. Residents of territories shall not participate in the election of the President and Vice President unless Congress, by law, provides otherwise.
+Section 8. Congress shall have the power to enact laws governing the administration of territories, including laws to:
+(a) Define the powers and responsibilities of territorial governments;
+(b) Provide for the economic and social development of territories;
+(c) Ensure the protection of civil rights and liberties in territories;
+(d) Determine the political status of each territory, provided no territory is deprived of its status or rights without the consent of its residents, expressed through a free and fair referendum.
+Section 9. Free association shall be defined as a voluntary relationship between a sovereign country and the United States, established by mutual agreement. Under such an agreement:
 (a) The country shall assume full sovereignty over its internal affairs, including the authority to govern itself, enact laws, and manage its economy.
 (b) The country may delegate certain specified powers to the United States, such as defense and foreign relations, as agreed upon by both parties.
 (c) The country shall have access to certain services, programs, and benefits provided by the United States government, as specified in the agreement.
 (d) The terms of free association, including the delegation of powers and access to services, shall be subject to periodic review and renewal by mutual consent.
-Section 6. The residents of each territory shall be entitled to representation in the House of Representatives by a non-voting delegate.
-Section 7. Residents of territories shall not participate in the election of the President and Vice President unless Congress, by law, provides otherwise.
-Section 8. Congress shall have the power to enact laws governing the administration of territories, including laws to:
-(a) Define the powers and responsibilities of territorial governments.
-(b) Provide for the economic and social development of territories.
-(c) Ensure the protection of civil rights and liberties in territories.
-Section 9. Congress shall have the power to determine the political status of each territory, but no territory shall be deprived of its status or rights without the consent of its residents, expressed through a free and fair referendum.
-Section 10. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for referenda, define the rights and responsibilities of territorial governments, and ensure compliance with the provisions of this article.
+Section 10. Congress shall have the power to enforce this article by appropriate legislation.
 Section 11. This amendment shall take effect one year after its ratification, with all relevant laws being brought into compliance within that time.
 
 
@@ -442,10 +443,10 @@ Section 8. This amendment shall take effect immediately upon its ratification, w
 29. Citizenship and Residency Amendment
 Purpose: Clarifies the rights and responsibilities of lawful permanent residents and temporary residents, the exclusive rights and privileges of citizens, and the responsibilities of citizens, while preserving equal protection under the law for all persons.
 Section 1. Lawful permanent residents, legally admitted to reside permanently, and temporary residents, legally admitted to reside for a defined period under federal law, shall have rights to reside, work, own property, and access due process, subject to law. Their status may be revoked only by judicial process for cause, consistent with their respective admission terms.
-Section 2. Citizens alone shall have exclusive rights to vote in federal elections, hold federal office, serve on federal juries, and receive consular protection abroad, with responsibilities to pay taxes and serve in drafts as required by law.
+Section 2. Citizens alone shall have exclusive rights to vote in federal and state elections, hold federal office, serve on federal juries, and receive consular protection abroad, with responsibilities to pay taxes and serve in drafts as required by law.
 Section 3. The right to equitable access to economic support programs established by law shall extend only to citizens and lawful permanent residents. 
 Section 4. All persons within U.S. jurisdiction, regardless of residency status, shall enjoy the equal protection of this Constitution, except as modified by this amendment. 
-Section 5. Congress shall enforce this article by legislation defining status, rights, and responsibilities, consistent with this amendment.
+Section 5. Congress shall have the power to enforce this article by appropriate legislation defining status, rights, and responsibilities, consistent with this amendment.
 Section 6. This amendment shall take effect immediately upon its ratification.
 
 
