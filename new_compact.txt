@@ -399,7 +399,6 @@ Section 4. Within sixty calendar days after the submission of a report pursuant 
 (a) Has declared war or enacted specific statutory authorization for such use;
 (b) Has extended the sixty-day period by law for a specific period not to exceed thirty days; or
 (c) Is physically unable to meet as a result of an armed attack upon the United States.
-During such hostilities, the First Secretary shall retain authority over the day-to-day administration of foreign and domestic policy unless overridden by the President’s emergency powers as provided in Amendment 29, Section 7(d). 
 Section 5. Notwithstanding Section 4, the President shall terminate the use of the Armed Forces at any time if the House of Representatives so directs by resolution, following the Senate’s advisory review as provided by the Advisory Senate Amendment, which shall not be subject to presidential veto.
 Section 6. The appropriate judicial authority shall have jurisdiction to review the legality of military actions initiated under this amendment, upon petition by any member of Congress or affected citizen, to ensure compliance with this Constitution. Judicial review shall not delay the execution of emergency actions under Section 2(b) but may address the continuation of hostilities beyond sixty days.
 Section 7. Congress shall have the power to enforce this article by appropriate legislation.
