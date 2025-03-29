@@ -351,13 +351,13 @@ Section 6. This amendment shall take effect one year after its ratification.
 
 
 23. Legislative Marshals Service
-Purpose: Establishes the Legislative Marshals Service as a permanent institution within the legislative branch for security and enforcement.
+Purpose: Establishes the Legislative Marshals Service as a permanent institution within the legislative branch for security and last resort enforcement of Congressional subpoenas.
 Section 1. The Legislative Marshals Service is hereby established as a permanent institution within the legislative branch, responsible for protecting the Capitol Complex, Congress, its members, staff, and visitors, and enforcing congressional directives.
 Section 2. The Legislative Marshals Service shall be led by the Grand Marshal of Congress, who shall also serve as the Sergeant at Arms of the House of Representatives, elected by the House with Senate consent. The Grand Marshal shall serve a six-year term and may be removed by a two-thirds vote of the House for cause. If a vacancy persists for 60 days after its occurrence, the presiding officer of the House shall appoint an interim from experienced Marshals, who shall serve until a permanent replacement is chosen or for a maximum of one year, whichever occurs first.
 Section 3. The Legislative Marshals Service shall:
 (a) Protect the Capitol Complex, including the Capitol building, congressional offices, and related facilities.
 (b) Provide security for members of Congress, their staff, and visitors.
-(c) Enforce congressional subpoenas and legal processes if executive agencies fail to act within 30 days of a joint resolution, seeking judicial warrants if disputed.
+(c) Enforce congressional subpoenas and legal processes if the proper authorities fail to act within 30 days of a joint resolution, seeking judicial warrants if disputed.
 Section 4. The Service shall recruit, train, and manage its legislative marshals, subject to standards set by joint House-Senate committees. It may deputize individuals with committee approval, granting equivalent powers while acting officially.
 Section 5. The Legislative Marshals Service shall operate under joint House-Senate oversight, with committees designated by each chamber setting policy and resolving disputes. Annual reports shall be submitted to Congress.
 Section 6. Congress shall fund the Legislative Marshals Service and enact laws governing its operations, ensuring its ceremonial and security roles reflect legislative needs.
