@@ -1,8 +1,10 @@
 import re
 
+# Read the input document
 with open('new_compact.txt', 'r', encoding='utf-8') as file:
     content = file.read().replace('\ufeff', '')
 
+# Split content into amendment blocks
 amendment_blocks = re.split(r'\n(?=\d+\.\s+[^0-9\n])', content)
 amendment_blocks = [block.strip() for block in amendment_blocks if re.match(r'\d+\.\s+', block.strip())]
 
@@ -141,6 +143,7 @@ html_template = """<!DOCTYPE html>
         Contact: <a href="mailto:thedankmlgmemes@gmail.com" style="color: white;">thedankmlgmemes@gmail.com</a>
     </footer>
     <script>
+        // Fix TOC position
         window.addEventListener('scroll', function() {{
             const toc = document.querySelector('.toc');
             const header = document.querySelector('header');
@@ -153,47 +156,48 @@ html_template = """<!DOCTYPE html>
             }}
         }});
 
+        // Smooth TOC scrolling on click
         const tocLinks = document.querySelectorAll('.toc-list a');
+        let justClicked = false;
         tocLinks.forEach(link => {{
             link.addEventListener('click', function(e) {{
                 e.preventDefault();
+                justClicked = true;
                 const amendmentId = this.getAttribute('href').substring(1);
                 const amendment = document.getElementById(amendmentId);
                 
-                amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                
+                // Ensure page scrolls even from top
+                window.scrollTo({{ top: 0, behavior: 'smooth' }}); // Reset to top first
                 setTimeout(() => {{
+                    amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                }}, 50);
+                
+                requestAnimationFrame(() => {{
                     this.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                }}, 100);
+                    setTimeout(() => {{ justClicked = false; }}, 500);
+                }});
             }});
         }});
 
+        // TOC scrolling on user scroll
         const amendments = document.querySelectorAll('.amendment');
         const observerOptions = {{
             root: null,
-            rootMargin: '-100px 0px -50% 0px',
-            threshold: 0.5
+            rootMargin: '0px 0px -50% 0px',
+            threshold: 0.1
         }};
 
         const observer = new IntersectionObserver((entries) => {{
-            let topAmendment = null;
-            let minTop = Infinity;
+            if (justClicked) return;
             entries.forEach(entry => {{
                 if (entry.isIntersecting) {{
-                    const rect = entry.boundingClientRect;
-                    if (rect.top < minTop) {{
-                        minTop = rect.top;
-                        topAmendment = entry.target;
+                    const amendmentId = entry.target.id;
+                    const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
+                    if (link) {{
+                        link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
                     }}
                 }}
             }});
-            if (topAmendment) {{
-                const amendmentId = topAmendment.id;
-                const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
-                if (link) {{
-                    link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                }}
-            }}
         }}, observerOptions);
 
         amendments.forEach(amendment => {{
