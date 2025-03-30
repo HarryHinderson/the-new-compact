@@ -182,19 +182,20 @@ Section 8. This amendment shall take effect one year after ratification.
 
 13. Washington D.C. Amendment
 Purpose: Grants self-governance and representation to the District of Columbia.
-Section 1. The District of Columbia, constituting the seat of the Government of the United States, commonly known as Washington, D.C., is hereby recognized as a self-governing entity. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this amendment.
-Section 2. The residents of the District of Columbia shall be represented in Congress by a non-voting delegate, and shall not be represented in the Senate.
-Section 3. Excepting Section 2, the residents of the District of Columbia shall be entitled to all fundamental rights, privileges, and protections guaranteed by this Constitution.
-Section 4. Pursuant to Section 3, the District of Columbia shall have the authority to govern itself, including the power to:
+Section 1. Article I, Section 8, Clause 17 of this Constitution is hereby repealed.
+Section 2. The District of Columbia, constituting the seat of the Government of the United States, commonly known as Washington, D.C., is hereby recognized as a self-governing Federal District. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this amendment.
+Section 3. The residents of the District of Columbia shall be represented in Congress by a non-voting delegate, and shall not be represented in the Senate.
+Section 4. Excepting Section 2, the residents of the District of Columbia shall be entitled to all fundamental rights, privileges, and protections guaranteed by this Constitution.
+Section 5. Pursuant to Section 3, the District of Columbia shall have the authority to govern itself, including the power to:
 (a) Enact laws for the administration of the District.
 (b) Establish and maintain local government institutions, including a mayor and council, to manage the day-to-day affairs of the District.
 (c) Levy taxes, regulate commerce, and exercise all other powers of a State, except as otherwise provided by this article.
-Section 5. Congress shall have the power to admit the District of Columbia as a State. Upon admission as a State:
+Section 6. Congress shall have the power to admit the District of Columbia as a State. Upon admission as a State:
 (a) The new State shall consist of the territory described in Section 1 of this article, except for such areas as Congress may designate to remain under federal jurisdiction as the seat of the Government of the United States.
 (b) The new State shall assume all powers and responsibilities of a State under this Constitution.
-Section 6. No change to the status or boundaries of the District of Columbia shall be made without the consent of its residents, expressed through a free and fair referendum.
-Section 7. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for referenda, define the powers and responsibilities of local government institutions, and ensure compliance with the provisions of this article.
-Section 8. This amendment shall take one year after ratification, with all relevant laws being brought into compliance with this amendment within that time.
+Section 7. No change to the status or boundaries of the District of Columbia shall be made without the consent of its residents, expressed through a free and fair referendum.
+Section 8. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for referenda and ensure compliance with the provisions of this article.
+Section 9. This amendment shall take one year after ratification, with all relevant laws being brought into compliance with this amendment within that time.
 
 
 14. Federal Lands Amendment
