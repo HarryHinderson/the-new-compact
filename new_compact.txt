@@ -226,7 +226,7 @@ Section 4. Congress shall have the power to establish, reorganize, or abolish ad
 Section 5. Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States. Such regulation shall:
 (a) Set national standards where interstate or national interests require uniformity;
 (b) Encourage State participation through consultation, concurrent authority, or supplemental regulation;
-(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency, as defined by the Emergency Powers Amendment.
+(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency.
 Section 6. Congress may delegate regulatory power to the federal bureaucracy, including the authority to promulgate rules after public notice and opportunity for comment, enforce laws, and adjudicate disputes with fair hearings, provided such delegation is accompanied by clear standards and guidelines specifying policy objectives, scope of authority, and annual reporting to Congress. 
 Section 7. Independent agencies may be insulated from the control of the First Secretary by being placed within the Executive Office of the President. Such agencies may operate free of the authority of any executive officer, as designated by Congress. This includes, but is not limited to, the offices established by the Independent Officers Amendment.
 Section 8. Congress shall have the power to oversee, modify, or revoke delegated authority, ensuring agencies operate within their mandates and in the public interest.
@@ -323,7 +323,7 @@ Section 7. The President shall retain the authority to:
 (b) Grant pardons and reprieves;
 (c) Veto legislation;
 (d) Command the armed forces as Commander in Chief, including the introduction of forces into hostilities;
-(e) Declare and manage states of emergency under the Emergency Powers Amendment, adjust budgets during impasses as sanctioned under the Budget Continuity Amendment, and suspend labor rights in national security emergencies under the Collective Bargaining Amendment.
+(e) Declare and manage states of emergency, adjust budgets during impasses as sanctioned by this Constitution, and suspend labor rights in national security emergencies as sanctioned by this Constitution.
 These powers shall not be delegable to the First Secretary.
 Section 8. In the event of a conflict between the President and the First Secretary regarding delegated domestic authority, the matter shall be resolved by a joint committee of Congress, composed of five members of the House and five members of the Senate, appointed by their respective chambers. The committee’s decision, reached by a majority vote, shall be binding unless overridden by a two-thirds vote of both Houses.
 Section 9. As presiding officer, the First Secretary shall have the authority to:
@@ -562,7 +562,7 @@ Section 8. This amendment shall take effect one year after its ratification, all
 37. Executive Secretaries Amendment
 Purpose: Establishes key federal positions as executive secretaries, independent positions directly accountable to the Senate and delegated exclusive executive powers.
 Section 1. 
-(a) An Executive Secretary is a senior federal officer within the Executive Office of the President, part of the federal bureaucracy under the Federal Bureaucracy Amendment (Amendment 15), delegated with exclusive administrative powers, such as cross-branch coordination and emergency directives within their designated domains, beyond the delegated authority of independent agencies under Amendment 15, insulated from direct executive or partisan interference, and accountable directly to the Senate and the President. The First Secretary, if established, shall nominally be an executive secretary, but their title shall not be defined by the terms of this amendment, being unique in purpose and function.
+(a) An Executive Secretary is a senior federal officer within the Executive Office of the President, part of the federal bureaucracy under the Federal Bureaucracy Amendment (Amendment 15), delegated with exclusive administrative powers beyond the delegated authority of independent agencies under Amendment 15, insulated from direct executive or partisan interference except where prescribed by law, and accountable directly to the Senate and the President. The First Secretary, if established, shall nominally be an executive secretary, but their title shall not be defined by the terms of this amendment, being unique in purpose and function.
 (b) The following offices are hereby established as Executive Secretaries within the Executive Office of the President:
 (i) The Attorney General of the United States, chief legal advisor to the President, responsible for enforcing federal laws and overseeing the Department of Justice;
 (ii) The Treasurer of the United States, chief economic advisor to the President, responsible for managing federal finances, revenue collection, debt issuance, the minting of currency, and fiscal transparency;
@@ -592,8 +592,8 @@ Section 5.
 The Secretary of State shall provide annual reports to Congress, the President, and the public on electoral integrity, record preservation, and transparency efforts.
 (f) The Chief Statistician shall oversee the census and the whole of the Federal Statistical System of the United States.
 (g) The Public Health Commissioner shall:
-(i) Coordinate federal, state, and local public health efforts, including disease prevention, health education, and administration of programs as directed by Congress under Amendment 4, in coordination with the First Secretary on cross-agency matters;
-(ii) Oversee federal public health agencies and initiatives, advising the President, Congress, and public on health matters;
+(i) Coordinate federal, state, and local public health efforts, including disease prevention, health education, and administration of programs as directed by Congress, in coordination with the First Secretary on cross-agency matters;
+(ii) Oversee federal public health agencies and initiatives faithfully as prescribed by law, advising the President, Congress, and public on health matters;
 (iii) Ensure transparency and accountability, submitting annual reports to Congress, the President, and the public;
 (iv) Perform additional duties as prescribed by Congress, focused on execution and education, without authority to promulgate regulations.
 Section 6. The actions of each executive secretary, and any congressional legislation affecting their duties, shall be subject to judicial review by the appropriate judicial authority to ensure compliance with the Constitution and federal law. Congress may establish an independent oversight board for each office, composed of nonpartisan experts, to review their conduct and recommend removal proceedings if necessary. Each officer shall submit an annual report to Congress, the President, and the public on their activities, ensuring transparency. The Ethics Commission’s collective actions shall be reported annually as a unified document, detailing ethics investigations and recommendations, approved by a majority of its five members.
