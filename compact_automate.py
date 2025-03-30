@@ -165,15 +165,13 @@ html_template = """<!DOCTYPE html>
                 justClicked = true;
                 const amendmentId = this.getAttribute('href').substring(1);
                 const amendment = document.getElementById(amendmentId);
+                const tocList = document.querySelector('.toc-list');
                 
-                // Ensure page scrolls even from top
-                window.scrollTo({{ top: 0, behavior: 'smooth' }}); // Reset to top first
-                setTimeout(() => {{
-                    amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                }}, 50);
+                amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
                 
                 requestAnimationFrame(() => {{
-                    this.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                    const linkPosition = this.offsetTop - tocList.offsetTop;
+                    tocList.scrollTo({{ top: linkPosition, behavior: 'smooth' }});
                     setTimeout(() => {{ justClicked = false; }}, 500);
                 }});
             }});
@@ -181,6 +179,7 @@ html_template = """<!DOCTYPE html>
 
         // TOC scrolling on user scroll
         const amendments = document.querySelectorAll('.amendment');
+        let hasScrolled = false;
         const observerOptions = {{
             root: null,
             rootMargin: '0px 0px -50% 0px',
@@ -188,7 +187,7 @@ html_template = """<!DOCTYPE html>
         }};
 
         const observer = new IntersectionObserver((entries) => {{
-            if (justClicked) return;
+            if (!hasScrolled || justClicked) return;
             entries.forEach(entry => {{
                 if (entry.isIntersecting) {{
                     const amendmentId = entry.target.id;
@@ -203,6 +202,10 @@ html_template = """<!DOCTYPE html>
         amendments.forEach(amendment => {{
             observer.observe(amendment);
         }});
+
+        window.addEventListener('scroll', () => {{
+            hasScrolled = true;
+        }}, {{ once: true }});
     </script>
 </body>
 </html>"""
