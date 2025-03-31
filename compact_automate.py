@@ -102,7 +102,6 @@ for block in amendment_blocks:
     
     if sections:
         amendment_data.append((number, title, purpose, sections))
-
 html_template = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,20 +142,22 @@ html_template = """<!DOCTYPE html>
         Contact: <a href="mailto:contact@newcompact.org" style="color: white;">contact@newcompact.org</a>
     </footer>
     <script>
-        // Fix TOC position
+        // TOC fixed position (desktop only)
         window.addEventListener('scroll', function() {{
-            const toc = document.querySelector('.toc');
-            const header = document.querySelector('header');
-            const nav = document.querySelector('nav');
-            const triggerPoint = header.offsetHeight + nav.offsetHeight;
-            if (window.scrollY >= triggerPoint) {{
-                toc.classList.add('fixed');
-            }} else {{
-                toc.classList.remove('fixed');
+            if (window.innerWidth > 1000) {{
+                const toc = document.querySelector('.toc');
+                const header = document.querySelector('header');
+                const nav = document.querySelector('nav');
+                const triggerPoint = header.offsetHeight + nav.offsetHeight;
+                if (window.scrollY >= triggerPoint) {{
+                    toc.classList.add('fixed');
+                }} else {{
+                    toc.classList.remove('fixed');
+                }}
             }}
         }});
 
-        // Smooth TOC scrolling on click
+        // Enhanced TOC link clicks
         const tocLinks = document.querySelectorAll('.toc-list a');
         let justClicked = false;
         tocLinks.forEach(link => {{
@@ -169,43 +170,62 @@ html_template = """<!DOCTYPE html>
                 
                 amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
                 
-                requestAnimationFrame(() => {{
-                    const linkPosition = this.offsetTop - tocList.offsetTop;
-                    tocList.scrollTo({{ top: linkPosition, behavior: 'smooth' }});
-                    setTimeout(() => {{ justClicked = false; }}, 500);
-                }});
-            }});
-        }});
-
-        // TOC scrolling on user scroll
-        const amendments = document.querySelectorAll('.amendment');
-        let hasScrolled = false;
-        const observerOptions = {{
-            root: null,
-            rootMargin: '0px 0px -50% 0px',
-            threshold: 0.1
-        }};
-
-        const observer = new IntersectionObserver((entries) => {{
-            if (!hasScrolled || justClicked) return;
-            entries.forEach(entry => {{
-                if (entry.isIntersecting) {{
-                    const amendmentId = entry.target.id;
-                    const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
-                    if (link) {{
-                        link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                    }}
+                if (window.innerWidth > 1000) {{ // Desktop only
+                    requestAnimationFrame(() => {{
+                        const linkPosition = this.offsetTop - tocList.offsetTop;
+                        tocList.scrollTo({{ top: linkPosition, behavior: 'smooth' }});
+                        setTimeout(() => {{ justClicked = false; }}, 500);
+                    }});
+                }} else {{
+                    setTimeout(() => {{ justClicked = false; }}, 500); // Mobile: reset flag
                 }}
             }});
-        }}, observerOptions);
-
-        amendments.forEach(amendment => {{
-            observer.observe(amendment);
         }});
 
-        window.addEventListener('scroll', () => {{
-            hasScrolled = true;
-        }}, {{ once: true }});
+        // TOC highlighting (desktop only, dynamic check)
+        const mediaQuery = window.matchMedia('(min-width: 1001px)');
+        let observer;
+        function setupObserver() {{
+            if (mediaQuery.matches) {{
+                const amendments = document.querySelectorAll('.amendment');
+                let hasScrolled = false;
+                const observerOptions = {{
+                    root: null,
+                    rootMargin: '0px 0px -50% 0px',
+                    threshold: 0.1
+                }};
+
+                observer = new IntersectionObserver((entries) => {{
+                    if (!hasScrolled || justClicked || !mediaQuery.matches) return;
+                    entries.forEach(entry => {{
+                        if (entry.isIntersecting) {{
+                            const amendmentId = entry.target.id;
+                            const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
+                            if (link) {{
+                                link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+                            }}
+                        }}
+                    }});
+                }}, observerOptions);
+
+                amendments.forEach(amendment => {{
+                    observer.observe(amendment);
+                }});
+
+                window.addEventListener('scroll', () => {{
+                    hasScrolled = true;
+                }}, {{ once: true }});
+            }}
+        }}
+
+        setupObserver();
+        mediaQuery.addEventListener('change', (e) => {{
+            if (!e.matches && observer) {{
+                observer.disconnect(); // Kill observer on mobile
+            }} else if (e.matches && !observer) {{
+                setupObserver(); // Restart on desktop
+            }}
+        }});
     </script>
 </body>
 </html>"""
