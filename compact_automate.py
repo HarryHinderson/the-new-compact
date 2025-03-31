@@ -143,22 +143,20 @@ html_template = """<!DOCTYPE html>
         Contact: <a href="mailto:contact@newcompact.org" style="color: white;">contact@newcompact.org</a>
     </footer>
     <script>
-        // TOC fixed position (desktop only)
+        // Fix TOC position
         window.addEventListener('scroll', function() {{
-            if (window.innerWidth > 1000) {{
-                const toc = document.querySelector('.toc');
-                const header = document.querySelector('header');
-                const nav = document.querySelector('nav');
-                const triggerPoint = header.offsetHeight + nav.offsetHeight;
-                if (window.scrollY >= triggerPoint) {{
-                    toc.classList.add('fixed');
-                }} else {{
-                    toc.classList.remove('fixed');
-                }}
+            const toc = document.querySelector('.toc');
+            const header = document.querySelector('header');
+            const nav = document.querySelector('nav');
+            const triggerPoint = header.offsetHeight + nav.offsetHeight;
+            if (window.scrollY >= triggerPoint) {{
+                toc.classList.add('fixed');
+            }} else {{
+                toc.classList.remove('fixed');
             }}
         }});
 
-        // TOC link clicks (mobile-safe)
+        // Smooth TOC scrolling on click
         const tocLinks = document.querySelectorAll('.toc-list a');
         let justClicked = false;
         tocLinks.forEach(link => {{
@@ -167,69 +165,47 @@ html_template = """<!DOCTYPE html>
                 justClicked = true;
                 const amendmentId = this.getAttribute('href').substring(1);
                 const amendment = document.getElementById(amendmentId);
+                const tocList = document.querySelector('.toc-list');
+                
                 amendment.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
                 
-                if (window.innerWidth > 1000) {{
-                    const tocList = document.querySelector('.toc-list');
-                    requestAnimationFrame(() => {{
-                        const linkPosition = this.offsetTop - tocList.offsetTop;
-                        tocList.scrollTo({{ top: linkPosition, behavior: 'smooth' }});
-                    }});
-                }}
-                setTimeout(() => {{ justClicked = false; }}, 500);
-            }});
-            // Prevent scroll-triggered jumps on mobile
-            link.addEventListener('touchmove', function(e) {{
-                if (window.innerWidth <= 1000) {{
-                    e.stopPropagation();
-                }}
+                requestAnimationFrame(() => {{
+                    const linkPosition = this.offsetTop - tocList.offsetTop;
+                    tocList.scrollTo({{ top: linkPosition, behavior: 'smooth' }});
+                    setTimeout(() => {{ justClicked = false; }}, 500);
+                }});
             }});
         }});
 
-        // TOC auto-highlighting (desktop only, strict check)
-        if (window.matchMedia('(min-width: 1001px)').matches) {{
-            const amendments = document.querySelectorAll('.amendment');
-            let hasScrolled = false;
-            const observerOptions = {{
-                root: null,
-                rootMargin: '0px 0px -50% 0px',
-                threshold: 0.1
-            }};
+        // TOC scrolling on user scroll
+        const amendments = document.querySelectorAll('.amendment');
+        let hasScrolled = false;
+        const observerOptions = {{
+            root: null,
+            rootMargin: '0px 0px -50% 0px',
+            threshold: 0.1
+        }};
 
-            const observer = new IntersectionObserver((entries) => {{
-                if (!hasScrolled || justClicked) return;
-                entries.forEach(entry => {{
-                    if (entry.isIntersecting) {{
-                        const amendmentId = entry.target.id;
-                        const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
-                        if (link) {{
-                            link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-                            tocLinks.forEach(l => l.classList.remove('active'));
-                            link.classList.add('active');
-                        }}
+        const observer = new IntersectionObserver((entries) => {{
+            if (!hasScrolled || justClicked) return;
+            entries.forEach(entry => {{
+                if (entry.isIntersecting) {{
+                    const amendmentId = entry.target.id;
+                    const link = document.querySelector(`.toc-list a[href="#${{amendmentId}}"]`);
+                    if (link) {{
+                        link.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
                     }}
-                }});
-            }}, observerOptions);
-
-            amendments.forEach(amendment => {{
-                observer.observe(amendment);
-            }});
-
-            window.addEventListener('scroll', () => {{
-                hasScrolled = true;
-            }}, {{ once: true }});
-        }}
-
-        // Prevent overscroll jumps on mobile
-        document.body.addEventListener('touchmove', function(e) {{
-            if (window.innerWidth <= 1000) {{
-                const toc = document.querySelector('.toc');
-                const tocBottom = toc.offsetTop + toc.offsetHeight;
-                if (window.scrollY > tocBottom) {{
-                    e.stopPropagation(); // Avoid bounce triggering #top
                 }}
-            }}
-        }}, {{ passive: true }});
+            }});
+        }}, observerOptions);
+
+        amendments.forEach(amendment => {{
+            observer.observe(amendment);
+        }});
+
+        window.addEventListener('scroll', () => {{
+            hasScrolled = true;
+        }}, {{ once: true }});
     </script>
 </body>
 </html>"""

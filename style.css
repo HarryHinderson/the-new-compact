@@ -167,9 +167,6 @@ footer {
     line-height: 1.4; /* Slightly tighter than p’s 1.6 */
     font-style: italic;
 }
-html, body {
-    overscroll-behavior-y: none; /* Stop pull-to-refresh or bounce jumps */
-}
 h3 {
     color: #9b2929;
     margin-top: 20px;
