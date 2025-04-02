@@ -586,9 +586,8 @@ Section 5.
 (iv) Ensure the lawful certification, publication and dissemination of federal laws, election results, regulations, budgets, censuses, proclamations, charters, and official documents as received from their respective authorities, without alteration of their content; 
 (v) Ensure the proper preservation and public access to federal records, historical documents, and government archives;
 (vi) Administer the naturalization process and oversee applications for lawful permanent residency, ensuring the lawful certification of citizenship and residency for eligible persons, revocation at judicial request, and maintenance of all related records;
-(vii) Oversee a Federal Election Commission, which shall perform duties related to the regulation and coordination of federal elections delegated by Congress;
-(viii) Create a platform that shall serve as an accessible comprehensive legislative tracking solution for the United States, allowing the public to easily follow legislation, regulations, petitions, and dialogues across the United States and to notify invested parties of updates;
-(ix) Certify the results of the Presidential election in the presence of the Senate and the House of Representatives on the behalf of the President of the Senate.
+(vii) Create a platform that shall serve as an accessible comprehensive legislative tracking solution for the United States, allowing the public to easily follow legislation, regulations, petitions, and dialogues across the United States and to notify invested parties of updates;
+(viii) Certify the results of the Presidential election in the presence of the Senate and the House of Representatives on the behalf of the President of the Senate.
 The Secretary of State shall provide annual reports to Congress, the President, and the public on electoral integrity, record preservation, and transparency efforts.
 (f) The Chief Statistician shall oversee the census and the whole of the Federal Statistical System of the United States.
 (g) The Public Health Commissioner shall:
