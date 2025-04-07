@@ -226,10 +226,7 @@ Section 1. The federal bureaucracy, consisting of executive departments, indepen
 Section 2. The Federal Bureaucracy shall be staffed by qualified individuals selected on the basis of merit, experience, and competence.
 Section 3. The Federal Bureaucracy shall conduct operations openly, providing public access to decisions, policies, and records upon request, except where disclosure would harm their function or national security, with denials subject to judicial review.
 Section 4. Congress shall have the power to establish, reorganize, or abolish administrative bodies and define their missions, powers, and responsibilities.
-Section 5. Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States. Such regulation shall:
-(a) Set national standards where interstate or national interests require uniformity;
-(b) Encourage State participation through consultation, concurrent authority, or supplemental regulation;
-(c) Respect concurrent State authority in these domains, limiting federal preemption to cases of clear interstate necessity or national emergency.
+Section 5. Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, national security, public health, safety, welfare, and the environment, in partnership with the several States.
 Section 6. Congress may delegate regulatory power to the federal bureaucracy, including the authority to promulgate rules after public notice and opportunity for comment, enforce laws, and adjudicate disputes with fair hearings, provided such delegation is accompanied by clear standards and guidelines specifying policy objectives, scope of authority, and annual reporting to Congress. 
 Section 7. Independent agencies may be insulated from the control of the First Secretary by being placed within the Executive Office of the President. Such agencies may operate free of the authority of any executive officer, as designated by Congress. This includes, but is not limited to, the offices established by the Independent Officers Amendment.
 Section 8. Congress shall have the power to oversee, modify, or revoke delegated authority, ensuring agencies operate within their mandates and in the public interest.
@@ -251,7 +248,7 @@ Section 7. This amendment shall take effect immediately upon its ratification.
 
 17. VP Loophole Amendment
 Purpose: Prevents individuals who have served two terms as President from holding any office in the presidential line of succession.
-Section 1. No person who has served two terms as President of the United States shall be eligible for election or appointment to any office in the Presidential line of succession.
+Section 1. No person Constitutionally ineligible to be elected President of the United States shall be eligible for election or appointment to any office in the Presidential line of succession.
 Section 2. This prohibition shall apply to the offices of Vice President, Speaker of the House of Representatives, President pro tempore of the Senate, and all other positions in the line of succession to the Presidency.
 Section 3. Congress shall have the power to enforce this article by appropriate legislation, including laws to ensure compliance and to address any ambiguities in the application of this provision.
 Section 4. This amendment shall take effect immediately upon its ratification.
@@ -305,15 +302,15 @@ Section 5. This amendment shall take effect for the first federal election occur
 
 
 21. Parliamentary Amendment
-Purpose: Makes the Speaker of the House the First Secretary, who heads the Presidential cabinet within the Executive Office of the President, presides over the House, and is delegated authority over the day-to-day administration of the state.
-Section 1. Article I, Section 2, Clause 5 of this Constitution is amended to read as follows: "The House of Representatives shall have the sole power of Impeachment." The Speaker of the House of Representatives shall be the First Secretary, who shall be appointed by the President with the advice and consent of the House of Representatives. The First Secretary shall serve as the head of the Presidential cabinet within the Executive Office of the President, the principal advisor to the President of the United States, and the presiding officer of the House of Representatives.
+Purpose: Makes the office of the First Secretary, who heads the Presidential cabinet within the Executive Office of the President, presides over the House, and is delegated authority over the day-to-day administration of the state.
+Section 1. There shall be a First Secretary, who shall be appointed by the President with the advice and consent of the House of Representatives. The First Secretary shall serve as the head of the Presidential cabinet within the Executive Office of the President, and the principal advisor to the President of the United States.
 Section 2. The Executive Office of the President is hereby established as an institution under the direction of the President. The EOP shall consist of the Presidential cabinet and such other officers Congress may designate to assist in the faithful execution of the laws. The President shall oversee the EOP and ensure its alignment with the policies and priorities of the United States. The President may create, reorganize, or abolish offices or councils within the Executive Office of the President to assist in their duties, provided such actions do not infringe on powers or independence established by this Constitution or law.
 Section 3. The First Secretary shall be appointed by the President, with the advice and consent of the House of Representatives, at the beginning of each Congress and shall serve for the duration of that Congress, unless removed as provided herein. The First Secretary must be a member of the House of Representatives at the time of appointment.
 Section 4. The President shall retain all executive authority vested in the office by this Constitution but shall delegate to the First Secretary the day-to-day administration of affairs through the Presidential cabinet. Upon the appointment of the first First Secretary, and unless otherwise limited by subsequent presidential directive, the First Secretary shall be delegated the full scope of delegable day-to-day administrative powers over policy, including but not limited to:
 (a) Implementation and enforcement of federal laws, except in war or national emergency;
 (b) Direction and oversight of federal agencies and departments as designated by law;
 (c) Execution of policy domestic and foreign on behalf of the President;
-(d) Management of federal personnel and resources, except during budget impasses, emergencies, or military engagements, where the President retains authority as provided by the Budget Continuity, Emergency Powers, and War Powers Amendments.
+(d) Management of federal personnel and resources, except where provided by law.
 Powers delegated to Executive Secretaries by the Executive Secretaries Amendment shall not be, and cannot be, delegated to the First Secretary.
 Section 5. The Presidential cabinet shall consist of the principal officers of the executive departments, and such other officers as Congress may by law designate as cabinet officials. The President shall nominate cabinet officials, subject to the advice and consent of the Senate and the First Secretary. The cabinet shall assist the First Secretary in administering affairs, including the leadership of the federal bureaucracy as provided in Amendment 21. Cabinet officials shall serve at the pleasure of the First Secretary, subject to Presidential oversight as defined in Section 4, and may be removed by the First Secretary or by the President with the consent of the Senate.
 Section 6. The House of Representatives may revoke their consent of the First Secretary through a motion to vacate, thereby requiring the First Secretary to resign. A motion to vacate shall require:
@@ -328,18 +325,12 @@ Section 7. The President shall retain the authority to:
 (e) Declare and manage states of emergency and adjust budgets during impasses as sanctioned by this Constitution.
 These powers shall not be delegable to the First Secretary.
 Section 8. In the event of a conflict between the President and the First Secretary regarding delegated domestic authority, the matter shall be resolved by a joint committee of Congress, composed of five members of the House and five members of the Senate, appointed by their respective chambers. The committee’s decision, reached by a majority vote, shall be binding unless overridden by a two-thirds vote of both Houses.
-Section 9. As presiding officer, the First Secretary shall have the authority to:
-(a) Preside over all sessions of the House of Representatives, maintaining order and decorum;
-(b) Recognize members to speak, rule on points of order, and manage the legislative process in accordance with House rules;
-(c) Call votes and announce results, including votes on bills, motions, and overrides of presidential vetoes;
-(d) Preside over impeachment proceedings when required by this Constitution.
-When presiding, the First Secretary shall have no vote except to break a tie. The First Secretary may delegate these presiding duties to another member of the House, who shall serve as Acting Presiding Officer for a period not to exceed the duration of the current Congress. While serving as Acting Presiding Officer, the delegate shall have no vote except to break a tie, and the First Secretary shall resume full voting rights as a Representative. The First Secretary may replace or recall the Acting Presiding Officer at any time.
-Section 10. 
+Section 9. 
 (a) The President shall not exercise a pocket veto to prevent a bill from becoming law. If the President does not sign a bill into law within 10 days (Sundays excepted) after it is presented, and Congress is adjourned during that period, the bill shall be treated as if the President had returned it with objections, constituting a regular veto.
 (b) If Congress is adjourned when the 10-day period expires, the President shall transmit their objections to the bill to the First Secretary (as presiding officer of the House) and the President of the Senate (or their designated agents) within 5 days of the adjournment.
 (c) Congress shall reconvene within 30 days of receiving the veto message to consider the veto, unless already scheduled to reconvene sooner, and may override the veto with a two-thirds majority in both chambers, as provided in Article I, Section 7 of the Constitution.
-Section 11. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for the appointment and removal of the First Secretary, the delegation of presiding duties, the confirmation of cabinet officials and EOP officers, the resolution of conflicts, and the organization and funding of the Executive Office of the President.
-Section 12. This amendment shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
+Section 10. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for the appointment and removal of the First Secretary, the delegation of presiding duties, the confirmation of cabinet officials and EOP officers, the resolution of conflicts, and the organization and funding of the Executive Office of the President.
+Section 11. This amendment shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
 
 
 22. “We The People” Amendment
@@ -355,7 +346,7 @@ Section 6. This amendment shall take effect one year after its ratification.
 
 23. Legislative Marshals Service
 Purpose: Establishes the Legislative Marshals Service as a permanent institution within the legislative branch for security and last resort enforcement of Congressional subpoenas.
-Section 1. The Legislative Marshals Service is hereby established as a permanent institution within the legislative branch, responsible for protecting the Capitol Complex, Congress, its members, staff, and visitors, and enforcing congressional directives.
+Section 1. The Legislative Marshals Service is hereby established as an institution within the legislative branch, responsible for protecting the Capitol Complex, Congress, its members, staff, and visitors, and enforcing congressional directives.
 Section 2. The Legislative Marshals Service shall be led by the Grand Marshal of Congress, who shall also serve as the Sergeant at Arms of the House of Representatives, elected by the House with Senate consent. The Grand Marshal shall serve a six-year term and may be removed by a two-thirds vote of the House for cause. If a vacancy persists for 60 days after its occurrence, the presiding officer of the House shall appoint an interim from experienced Marshals, who shall serve until a permanent replacement is chosen or for a maximum of one year, whichever occurs first.
 Section 3. The Legislative Marshals Service shall:
 (a) Protect the Capitol Complex, including the Capitol building, congressional offices, and related facilities.
@@ -394,7 +385,7 @@ Section 1. The Congress shall have the power to declare war, and no offensive mi
 Section 2. In the absence of a declaration of war, the President may introduce the Armed Forces of the United States into hostilities or situations where imminent involvement in hostilities is clearly indicated by the circumstances only pursuant to:
 (a) A specific statutory authorization enacted by Congress; or
 (b) A national emergency created by an attack or imminent threat to the United States, its territories or possessions, or its armed forces, as determined by credible evidence of intent and capability to inflict significant harm.
-Section 3. In every instance where the Armed Forces are introduced into hostilities or imminent hostilities without a declaration of war, the President shall, within forty-eight hours, submit to the First Secretary and the President pro tempore of the Senate a report in writing setting forth:
+Section 3. In every instance where the Armed Forces are introduced into hostilities or imminent hostilities without a declaration of war, the President shall, within forty-eight hours, submit to the Congress a report in writing setting forth:
 (a) The circumstances necessitating the introduction of the Armed Forces;
 (b) The constitutional and legislative authority under which such introduction took place; and
 (c) The estimated scope and duration of the hostilities or involvement.
@@ -403,7 +394,7 @@ Section 4. Within sixty calendar days after the submission of a report pursuant 
 (a) Has declared war or enacted specific statutory authorization for such use;
 (b) Has extended the sixty-day period by law for a specific period not to exceed thirty days; or
 (c) Is physically unable to meet as a result of an armed attack upon the United States.
-Section 5. Notwithstanding Section 4, the President shall terminate the use of the Armed Forces at any time if the House of Representatives so directs by resolution, following the Senate’s advisory review as provided by the Advisory Senate Amendment, which shall not be subject to presidential veto.
+Section 5. Notwithstanding Section 4, the President shall terminate the use of the Armed Forces at any time if Congress so directs by resolution, which shall not be subject to presidential veto.
 Section 6. The appropriate judicial authority shall have jurisdiction to review the legality of military actions initiated under this amendment, upon petition by any member of Congress or affected citizen, to ensure compliance with this Constitution. Judicial review shall not delay the execution of emergency actions under Section 2(b) but may address the continuation of hostilities beyond sixty days.
 Section 7. Congress shall have the power to enforce this article by appropriate legislation.
 Section 8. Nothing in this article shall be construed to alter the constitutional authority of the President as Commander in Chief or the inherent right of the United States to self-defense.
@@ -500,8 +491,8 @@ Section 4. This amendment shall take effect one year after its ratification, all
 
 33. Succession Clarity Amendment
 Purpose: Resolves ambiguities in the presidential line of succession beyond the Vice President, ensuring a clear chain of command without gaps.
-Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the Speaker of the House shall serve as acting President. In case of the vacancy or inability of the Speaker of the House, the President pro tempore of the Senate shall serve as Acting President.
-Section 2. Upon assuming the role of Acting President, the Speaker of the House or President pro tempore shall vacate their prior office. 
+Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the First Secretary shall serve as acting President. In case of the vacancy or inability of the First Secretary, the Speaker of the House shall serve as acting President. In case of the vacancy or inability of the Speaker of the House, the President pro tempore of the Senate shall serve as Acting President.
+Section 2. Upon assuming the role of Acting President, the First Secretary, Speaker of the House or President pro tempore shall vacate their prior office. 
 Section 3. Congress shall by law designate the order of other officials in the line of succession to serve as Acting President if the above officers are unavailable, ensuring continuity of executive authority. Congress may revise this order as needed, reflecting national priorities and departmental roles. Any such officer shall vacate their cabinet position upon assuming the role of Acting President, with the vacancy filled as provided by law.
 Section 4. Any officer serving as Acting President under this article shall exercise the powers and duties of the President but shall not assume the office of President or Vice President. Their service shall continue only until a President or Vice President is elected by special election, as provided by law, or the disability of either is removed, as provided by the Twenty-Fifth Amendment.
 Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance.
@@ -571,7 +562,7 @@ Section 1.
 (iv) The Comptroller General of the United States, responsible for auditing federal finances, tracking expenditures, and ensuring budgetary accountability;
 (v) The Secretary of State of the United States, chief advisor to the Vice President, responsible for administering federal elections, managing federal records, ensuring civic transparency, and overseeing citizen initiatives;
 (vi) The Chief Statistician of the United States, responsible for providing the public with accurate data free of manipulation.
-(vii) The Public Health Commissioner of the United States, responsible for overseeing federal public health administration and education.
+(vii) The Surgeon General of the United States, responsible for overseeing federal public health administration and education.
 (c) Congress may, by law enacted with a two-thirds majority vote of both Houses, establish additional Executive Secretaries within the Executive Office of the President to address critical administrative functions not adequately served by existing officers, provided such roles align with the definition in Section 1(a) and are accompanied by specific duties, qualifications, and funding mechanisms defined in the enacting legislation.
 Section 2. Each executive secretary shall be appointed by the President, with the advice and consent of two-thirds of the Senate, for a renewable term lasting six years.
 Section 3. Each officer may be removed only for cause (e.g., malfeasance, gross misconduct, or inability to perform duties) by a two-thirds vote of the House of Representatives, followed by a trial and two-thirds vote of conviction by the Senate, mirroring the impeachment process for other federal officers.
@@ -592,7 +583,7 @@ Section 5.
 (viii) Certify the results of the Presidential election in the presence of the Senate and the House of Representatives on the behalf of the President of the Senate.
 The Secretary of State shall provide annual reports to Congress, the President, and the public on electoral integrity, record preservation, and transparency efforts.
 (f) The Chief Statistician shall oversee the census and the whole of the Federal Statistical System of the United States.
-(g) The Public Health Commissioner shall:
+(g) The Surgeon General shall:
 (i) Coordinate federal, state, and local public health efforts, including disease prevention, health education, and administration of programs as directed by Congress, in coordination with the First Secretary on cross-agency matters;
 (ii) Oversee federal public health agencies and initiatives faithfully as prescribed by law, advising the President, Congress, and public on health matters;
 (iii) Ensure transparency and accountability, submitting annual reports to Congress, the President, and the public;
