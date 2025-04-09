@@ -9,32 +9,37 @@
 
 <url>
   <loc>https://newcompact.org/</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://newcompact.org/amendments</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://newcompact.org/faq</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://newcompact.org/implementation</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://newcompact.org/summary</loc>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://newcompact.org/new_compact.txt</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://newcompact.org/docs/universal_id_act_2025.pdf</loc>
-  <lastmod>2025-03-29T01:27:58+00:00</lastmod>
+  <lastmod>2025-04-09T22:16:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
