@@ -119,6 +119,7 @@ html_template = """<!DOCTYPE html>
         <a href="/amendments">Amendments</a>
         <a href="/faq">FAQ</a>
         <a href="/implementation">Implementation</a>
+        <a href="/summary">Summary</a>
     </nav>
     
     <div class="container">
