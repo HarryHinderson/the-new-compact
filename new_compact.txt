@@ -26,9 +26,9 @@ Section 2. Districts shall be drawn to comply with the following principles:
 (a) Districts shall be compact and composed of contiguous territory.
 (b) Districts shall minimize division of political subdivisions unless necessary for equal population or compactness.
 (c) Districts shall not be drawn with the intent or effect of diluting the voting strength of any group of voters based on race, ethnicity, language, or political affiliation.
-Section 3. An independent redistricting commission shall be established in each State to oversee the drawing of districts. Commissioners shall be appointed in a sufficiently nonpartisan manner. No commissioner shall have held elective office, served as an officer of a political party, or been a candidate for federal or state office within the previous five years.
+Section 3. An independent redistricting commission shall be established in each State to oversee the drawing of districts. Commissioners shall be appointed in a sufficiently nonpartisan manner. No commissioner shall have held elective office, served as an officer of a political party, or been a candidate for federal or state office within the previous five years. Congress shall, by law, establish additional standards for the uniform creation of redistricting commissions. This shall be considered Organic Law.
 Section 4. The redistricting process shall be transparent, with opportunities for public input and review. Proposed district maps, along with the data and criteria used to create them, shall be made available to the public for comment at least 3 months before final adoption.
-Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish standards for redistricting, ensure the independence of redistricting commissions, and provide remedies for violations of this article.
+Section 5. Congress shall have the power to enforce this article by appropriate legislation.
 Section 6. This amendment shall take effect immediately upon its ratification and shall apply to all redistricting processes occurring after its ratification.
 
 
@@ -99,12 +99,8 @@ Section 12.
 (c) All actions of the Judicial Conference, including disciplinary decisions, shall be subject to review by the Constitutional Court, if established, or otherwise the Supreme Court, upon appeal within 30 days.
 Section 13. No judge serving in the Federal judiciary may serve beyond the age of 80 unless they are on the Constitutional or Electoral court and their term extends past that age, in which case they may complete it.
 Section 14. All changes to the structure, jurisdiction, and proceedures of the Courts of the United States following a period lasting five years after the ratification of this article shall be classified as Organic Law. The number and composition of inferior courts shall not be classified as Organic Law.
-Section 15. Congress shall have the power to enforce this article by appropriate legislation, including laws to:
-(a) Define procedures for judicial appointments, term transitions, and the nonpartisan selection process for Constitutional Court judges;
-(b) Ensure the independence of the Supreme Court, Constitutional Court, and Electoral Court from undue political influence;
-(c) Provide funding and administrative support for the Supreme Court, Constitutional Court, and the Electoral Court;
-(d) Regulate the transition of existing judicial personnel into the structure established by this article.
-Section 16. This article shall take effect three years after its ratification, allowing time for Congress to enact necessary legislation and establish the Constitutional Court and Electoral Court.
+Section 15. Congress shall have the power to enforce this article by appropriate legislation.
+Section 16. This article shall take effect five years after its ratification, allowing time for Congress to enact necessary legislation and establish the Constitutional Court, Electoral Court, and Administrative Courts.
 
 
 8. Referenda Amendment
@@ -179,7 +175,7 @@ Section 9. This article shall take effect one year after ratification.
 13. Washington D.C. Amendment
 Purpose: Grants self-governance and representation to the District of Columbia.
 Section 1. Article I, Section 8, Clause 17 of this Constitution is hereby repealed.
-Section 2. The District of Columbia, constituting the seat of the Government of the United States, commonly known as Washington, D.C., is hereby recognized as a self-governing Federal District. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this article.
+Section 2. The District of Columbia, constituting the seat of the Government of the United States is hereby recognized as a self-governing Federal District. The boundaries of the District shall consist of the territory currently under its jurisdiction as of the date of ratification of this article.
 Section 3. The residents of the District of Columbia shall be represented in Congress by a non-voting delegate, and shall not be represented in the Senate.
 Section 4. Excepting Section 2, the residents of the District of Columbia shall be entitled to all fundamental rights, privileges, and protections guaranteed by this Constitution.
 Section 5. Pursuant to Section 3, the District of Columbia shall have the authority to govern itself, including the power to:
@@ -210,7 +206,7 @@ Section 4. Congress shall have power to:
 Section 5. States may:
 (a) Propose reclassification of federal lands within their borders to Congress;
 (b) Receive compensation, set by law, for permanent public lands exempt from state taxation.
-Section 6. Congress shall enforce this article by legislation defining classification, disposal procedures, and compensation. The Constitutional Court, if extant, may review disputes over land actions upon state or citizen petition. Otherwise, the Supreme Court shall have this power.
+Section 6. Congress shall enforce this article by legislation defining classification, disposal procedures, and compensation.
 Section 7. This article takes effect immediately upon ratification, with initial classification completed within one year.
 
 
@@ -222,7 +218,7 @@ Section 3. The Federal Bureaucracy shall conduct operations openly, providing pu
 Section 4. Congress shall have the power to establish, reorganize, or abolish administrative bodies and define their missions, powers, and responsibilities.
 Section 5. Provided they do not infringe upon rights secured by this Constitution, Congress shall have the power to regulate matters affecting interstate commerce, consumer protection, banking, national security, public health, safety, welfare, communications, labor, and the environment, in partnership with the several States.
 Section 6. Congress may delegate regulatory power to the federal bureaucracy, including the authority to promulgate rules after public notice and opportunity for comment, and enforce laws, provided such delegation is accompanied by clear standards and guidelines specifying policy objectives, scope of authority, and at least annual reporting to Congress. 
-Section 7. Independent agencies may be insulated from the control of the President and the Presidential cabinet. Such agencies may operate free of the authority of any executive officer, as designated by Congress. This includes, but is not limited to, the offices established by the Independent Officers Amendment.
+Section 7. Independent agencies may be insulated from the control of the President and the Presidential cabinet. Such agencies may operate free of the authority of any executive officer, as designated by Congress. This includes, but is not limited to, offices under the control of senior officers of the Council of State.
 Section 8. Congress shall have the power to oversee, modify, or revoke delegated authority, ensuring agencies operate within their mandates and in the public interest.
 Section 9. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish standards for agency operations, protect independence, and ensure accountability.
 Section 10. This article shall take effect immediately upon its ratification.
@@ -231,7 +227,7 @@ Section 10. This article shall take effect immediately upon its ratification.
 16. Collective Bargaining Amendment
 Purpose: Protects the right of the people to freely associate, including the rights of workers to organize, bargain collectively, and strike.
 Section 1. Pursuant to the maintenance of a fair and competitive economy, the right of the people to voluntarily associate to express, promote, or pursue common interests shall not be infringed.
-Section 2. The right to associate includes the right of workers to organize, form, join, and assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.
+Section 2. The freedom to associate includes the right of workers to organize, form, join, and assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.
 Section 3. No law, regulation, or action shall interfere with the right of workers to strike, peacefully picket, or otherwise advocate for their rights in the workplace, except as necessary to protect public safety, health, or national security in narrowly defined circumstances.
 Section 4. Employers shall recognize and bargain in good faith with the duly chosen representatives of workers, and shall not discriminate against any worker for exercising their rights under this article.
 Section 5. Forced labor, including coerced labor as punishment for a crime, is hereby prohibited. All work performed by individuals under the jurisdiction of the United States, including those incarcerated, shall be voluntary and fairly compensated. Congress shall provide for the equal protection of the law in the application of this section.
@@ -241,7 +237,7 @@ Section 7. This article shall take effect immediately upon its ratification.
 
 17. VP Loophole Amendment
 Purpose: Prevents individuals who have served two terms as President from holding any office in the presidential line of succession.
-Section 1. Excepting any requirement for the minimum age of the officeholder, no person Constitutionally ineligible to be elected President of the United States shall be eligible for election or appointment to any office in the Presidential line of succession.
+Section 1. Excepting any requirement for the minimum age of the President, no person Constitutionally ineligible to be elected President of the United States shall be eligible for election or appointment to any office in the Presidential line of succession.
 Section 2. Congress shall have the power to enforce this article by appropriate legislation, including laws to ensure compliance and to address any ambiguities in the application of this provision.
 Section 3. This article shall take effect immediately upon its ratification.
 
@@ -249,7 +245,7 @@ Section 3. This article shall take effect immediately upon its ratification.
 18. Senate Reform Amendment
 Purpose: Repeals the Seventeenth Amendment and reforms the Senate into a body of elder statesmen, including former Presidents, selected by states, with several selectively retained powers to provide a sobered check on the House and the Executive.
 Section 1. The Seventeenth Amendment is hereby repealed. The Senate shall be composed of two Senators from each State, selected by a method determined by the State legislature. Candidates must have resided in the State they represent for ten years. Presidents Emeritus of the United States shall automatically become Senators for life upon leaving office, representing their State of residence at the time of their first presidential inauguration, in addition to the two selected Senators. Congress may establish additional qualifications by law, and States shall ensure a transparent, nonpartisan process.
-Section 2. The Senate shall not originate bills or resolutions. Upon receiving a bill passed by the House of Representatives, the Senate may choose to review the bill. If rejected, it shall be sent back to the house with amendment or recommendation. The house may then pass the bill again by simple majority. The Senate shall have the power to review annual budget and taxation bills two times, and otherwise five times, before passage by the House shall send the bill for Presidential approval without further Senate action. If a bill is not rejected or passed within one hundred and twenty days of the first session of the Senate after said bill has been sent to the Senate, or sixty days in the case of annual appropriations and taxation bills, it shall count as having been passed by the Senate. The Senate shall retain full veto powers over amendments to this Constitution and Organic Law.
+Section 2. The Senate shall not originate bills or resolutions. Upon receiving a bill passed by the House of Representatives, the Senate may choose to review the bill. If rejected, it shall be sent back to the house with amendment or recommendation. The house may then pass the bill again by simple majority. The Senate shall have the power to review annual budget and taxation bills two times, and otherwise five times, before passage by the House shall send the bill for Presidential approval without further Senate action. If a bill is not rejected or passed within one hundred and twenty days of the first session of the Senate after said bill has been sent to the Senate, or sixty days in the case of annual appropriations and taxation bills, it shall count as having been passed by the Senate. If a bill has been Vetoed by the President, the Senate shall be granted the power to fully reject said bill. The Senate shall retain full rejection powers over amendments to this Constitution and Organic Law.
 Section 3. State-selected Senators shall serve six-year terms, renewable at the discretion of their State’s selection process. Presidents Emeritus shall serve as Senators for life, removable only by resignation and expulsion. Presidents serving as Senators for life shall not count towards the quorum of the Senate, nor shall they raise the amount required for meeting a quorum. Living Presidents at the time this article comes into effect shall not be granted the title of Senator for life.
 Section 4. Presidential appointment of ambassadors, consuls, other public ministers and consuls, and other officers of the United States whose appointments are not otherwise provided for shall require the consent of two-thirds of the Senate.
 Section 4. The Standing Rules of the Senate shall be classified as Organic Law, but shall require two-thirds consent of only the Senate to come into effect.
@@ -276,7 +272,7 @@ Section 8. Congress shall have the power to enact laws governing the administrat
 (c) Ensure the protection of civil rights and liberties in territories;
 (d) Determine the political status of each territory, provided no territory is deprived of its status or rights without the consent of its residents, expressed through a free and fair referendum.
 Section 9. Free association shall be defined as a voluntary relationship between a sovereign country and the United States, established by mutual agreement. Under such an agreement:
-(a) The country shall assume full sovereignty over its internal affairs, including the authority to govern itself, enact laws, and manage its economy.
+(a) The country shall assume full sovereignty over its internal affairs.
 (b) The country may delegate certain specified powers to the United States, such as defense and foreign relations, as agreed upon by both parties.
 (c) The country shall have access to certain services, programs, and benefits provided by the United States government, as specified in the agreement.
 (d) The terms of free association, including the delegation of powers and access to services, shall be subject to periodic review and renewal by mutual consent.
@@ -321,7 +317,7 @@ Section 9.
 (b) If Congress is adjourned when the ten day period expires, the President shall transmit their objections to the bill to the First Secretary (as presiding officer of the House) and the President of the Senate (or their designated agents) within 5 days of the adjournment.
 (c) Congress shall reconvene within thirty days of receiving the veto message to consider the veto, unless already scheduled to reconvene sooner, and may override the veto with a two-thirds majority in both chambers, as provided in Article I, Section 7 of the Constitution.
 Section 10. Article II, Section 2, Clause 3 of this Constitution is hereby repealed.
-Section 11. Congress shall have the power to enforce this article by appropriate legislation, including laws to establish procedures for the appointment and removal of the First Secretary, the delegation of presiding duties, the confirmation of cabinet officials and EOP officers, the resolution of conflicts, and the organization and funding of the Executive Office of the President.
+Section 11. Congress shall have the power to enforce this article by appropriate legislation. Regulations pertaining to this article shall be classified as Organic Law.
 Section 12. This article shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
 
 
@@ -337,7 +333,7 @@ Section 6. This article shall take effect one year after its ratification.
 
 
 23. Legislative Marshals Service
-Purpose: Establishes the Legislative Marshals Service as a permanent institution within the legislative branch for security and last resort enforcement of Congressional subpoenas.
+Purpose: Establishes the Legislative Marshals Service as an institution within the legislative branch for security and last resort enforcement of Congressional subpoenas.
 Section 1. The Legislative Marshals Service is hereby established as an institution within the legislative branch, responsible for protecting the Capitol Complex, Congress, its members, staff, and visitors, and enforcing congressional directives.
 Section 2. The Legislative Marshals Service shall be led by the Grand Marshal of Congress, who shall also serve as the Sergeant at Arms of the House of Representatives, elected by the House with Senate consent. The Grand Marshal shall serve a six-year term and may be removed by a two-thirds vote of the House for cause. If a vacancy persists for sixty days after its occurrence, the presiding officer of the House shall appoint an interim from experienced Marshals, who shall serve until a permanent replacement is chosen or for a maximum of one year, whichever occurs first.
 Section 3. The Legislative Marshals Service shall:
@@ -467,7 +463,7 @@ Section 3. No suit against the United States or its agencies shall proceed unles
 (a) The claimant demonstrates specific harm, including denial of rights or benefits guaranteed by this Constitution, tied to a constitutional right, statutory duty, or tortious act;
 (b) Administrative remedies, as prescribed by law, are exhausted within one hundred and eighty days of the alleged injury, unless waived by a court for good cause;
 (c) The action is filed within two years of the injury or its discovery, whichever is later.
-Section 4. During their term, the President and First Secretary shall be subject only to impeachment for alleged violations of the law, with civil or criminal suits deferred until post-tenure. The President shall enjoy absolute immunity from civil liability for actions taken in the exercise of constitutional duties, unless impeached and removed by Congress.
+Section 4. During their term, the President and First Secretary shall be subject only to impeachment for alleged violations of the law, with civil or criminal suits deferred until post-tenure. The President and Vice President shall enjoy absolute immunity from civil liability for actions taken in the exercise of constitutional duties, unless impeached and removed by Congress.
 Section 5. The President’s power to grant reprieves and pardons under Article II, Section 2, Clause 1 shall not extend to:
 (a) Pardoning themselves or any person for offenses directly related to their own impeachment, conviction, or post-office prosecution;
 (b) Pardoning any person for offenses committed in concert with the President or any of the officers of the Presidential Cabinet that involve abuse of office, obstruction of justice, or violation of this Constitution, as determined by a federal court upon challenge within sixty days of the pardon’s issuance;
@@ -499,8 +495,7 @@ Purpose: Clarifies the status and enforcement of treaties, ensuring consistency 
 Section 1. All treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land, equal in force to federal statutes, and shall be binding on the United States and the several states.
 Section 2. Congress shall have the power to enact laws to implement and enforce treaties, including those with Indian tribes, resolving conflicts with state laws or prior statutes through legislation or judicial review.
 Section 3. No treaty shall be abrogated or modified without the consent of the United States, expressed through congressional action, and, where applicable, the other parties to the treaty, except as provided by the treaty’s terms.
-Section 4. The Supreme Court shall have jurisdiction to resolve disputes arising from treaty enforcement or conflicts with domestic law.
-Section 5. This article shall take effect one year after its ratification, with Congress reviewing existing treaties within six months.
+Section 4. This article shall take effect one year after its ratification, with Congress reviewing existing treaties within six months.
 
 35. Municipalization Amendment
 Purpose: Empowers municipalities to own, operate, and manage public services.
