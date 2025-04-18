@@ -384,7 +384,11 @@ Section 4. Within sixty calendar days after the submission of a report pursuant 
 (c) Is physically unable to meet as a result of an armed attack upon the United States.
 Section 5. Notwithstanding Section 4, the President shall terminate the use of the Armed Forces at any time if Congress so directs by resolution, which shall not be subject to presidential veto.
 Section 6. The appropriate judicial authority shall have jurisdiction to review the legality of military actions initiated under this article, upon petition by any member of Congress or affected citizen, to ensure compliance with this Constitution. Judicial review shall not delay the execution of emergency actions under Section 2(b) but may address the continuation of hostilities beyond sixty days.
-Section 7. The United States, for the purposes of posse comitatus or otherwise, shall not employ the Armed forces, for the purposes of executing the laws, excepting the enforcement of maritime law and in such cases and under such circumstances that may be expressly authorized by the Constitution or by Congress.
+Section 7. The United States, for the purposes of posse comitatus or otherwise, shall not employ the Armed forces for the purposes of executing the laws, excepting the enforcement of maritime law and in such cases and under such circumstances that may be expressly authorized by the Constitution, and in the following scenarios:
+(a) Upon the request of the legislature, or executive if the legislature cannot be convened, of a State to address an insurrection against that State;
+(b) To address any obstructions, combinations, assemblages, or rebellions in any of the several States that make it impracticable to enforce the laws of the United States by the ordinary course of judicial proceedings;
+(c) To address any obstructions, combinations, assemblages, or rebellions that serve to deprive any class of people of a right, privilege, immunity, or protection named in this Constitution and secured by law, and the constituted authorities of said State are unable, fail, or refuse to provide that right, privilege, or protection.
+Within fourteen calendar days of the activation, the President shall terminate the use of the armed forces, unless Congress has approved of the use of the armed forces.
 Section 8. Congress shall have the power to enforce this article by appropriate legislation.
 Section 9. Nothing in this article shall be construed to alter the constitutional authority of the President as Commander in Chief or the inherent right of the United States to self-defense.
 Section 10. This article shall take effect one year after the date of its ratification.
@@ -439,14 +443,13 @@ Section 7. This article shall take effect immediately upon its ratification.
 
 
 30. Property Rights Amendment
-Purpose: Affirms and protects the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference while balancing public needs.
+Purpose: Affirms and protects the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference.
 Section 1. The right to acquire, own, use, and dispose of private property, including real and personal property, shall not be abridged.
-Section 2. No person shall be deprived of their property by the United States or the states without due process of law. Private property shall not be taken for public use by the government without just compensation. These protections shall not be abridged except by laws necessary to protect public health, safety, or welfare, and such laws must be narrowly tailored to achieve their purpose.
-Section 3. The United States and the states shall not impose unreasonable restrictions on the ownership or use of property, including excessive taxation, arbitrary zoning, or discriminatory regulations, that undermine the exercise of this right.
-Section 4. Congress and the states shall have the power to enforce this article by appropriate legislation to regulate property use for the public good, provided such regulations respect the core protections of this article and do not arbitrarily disproportionately burden any individual or group. Such legislation may define the scope of just compensation, establish procedures for property disputes, and ensure equitable application of this right.
-Section 5. Individuals whose property rights under this article are violated shall have the right to seek legal redress, including injunctive relief and damages, in a court of law.
-Section 6. This article shall not be construed to limit the rights of Indian tribes to manage their lands as provided by the Indian Amendment.
-Section 7. This article shall take effect immediately upon its ratification.
+Section 2. The United States and the states shall not impose unreasonable restrictions on the ownership or use of property, including excessive taxation, arbitrary zoning, or discriminatory regulations, that undermine the exercise of this right.
+Section 3. Congress and the states shall have the power to enforce this article by appropriate legislation to regulate property use for the public good, provided such regulations respect the core protections of this article and do not arbitrarily disproportionately burden any individual or group. Such legislation may define the scope of just compensation, establish procedures for property disputes, and ensure equitable application of this right.
+Section 4. Individuals whose property rights under this article are violated shall have the right to seek legal redress, including injunctive relief and damages, in a court of law.
+Section 5. This article shall not be construed to limit the rights of Indian tribes to manage their lands as provided by the Indian Amendment.
+Section 6. This article shall take effect immediately upon its ratification.
 
 
 31. Sovereign Accountability Amendment 
