@@ -265,7 +265,7 @@ Section 4. Within five years of the ratification of this article, Congress shall
 (d) Outline a process, if applicable, for the territory to pursue statehood, independence, or free association, subject to Section 9’s referendum requirement.
 Section 5. All persons born or naturalized in the territories of the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the territory wherein they reside.
 Section 6. The residents of each territory shall be entitled to representation in the House of Representatives by a non-voting delegate.
-Section 7. Residents of territories shall not participate in the election of the President and Vice President unless Congress, by law, provides otherwise.
+Section 7. Residents of territories shall not participate in the election of the President and Vice President unless Congress provides otherwise by law.
 Section 8. Congress shall have the power to enact laws governing the administration of territories, including laws to:
 (a) Define the powers and responsibilities of territorial governments;
 (b) Provide for the economic and social development of territories;
@@ -294,7 +294,7 @@ Purpose: Makes the office of the First Secretary, who oversees the Presidential 
 Section 1. The office of the First Secretary is hereby established. The First Secretary shall oversee the Presidential cabinet, which shall be the chief executive committee of the United States.
 Section 2. The First Secretary shall be appointed by the President, with the advice and consent of the House of Representatives, at the beginning of the first Congress after each election for the House of Representatives, and shall serve at the pleasure of the President, unless removed as provided herein.
 Section 3. The President shall retain all executive authority vested in the office by this Constitution but shall delegate to the Presidential Cabinet the day-to-day administration of affairs. Upon the appointment of the first First Secretary, and unless otherwise limited by statute, the Cabinet shall be delegated the full scope of delegable day-to-day administrative powers over policy, including but not limited to:
-(a) Implementation and enforcement of federal laws, except in war or national emergency;
+(a) Implementation and enforcement of federal laws, except as provided by statute in war or national emergency;
 (b) Direction and oversight of federal agencies and departments as designated by law;
 (c) Execution of policy domestic and foreign on behalf of the President;
 (d) Management of federal personnel and resources, except where provided by law.
@@ -303,22 +303,23 @@ Section 4. The Presidential cabinet shall consist of the principal officers of t
 Section 5. The Cabinet shall collectively command the confidence of and shall be directly responsible to the House of Representatives. The House of Representatives vote to revoke their confidence of any cabinet official, thereby requiring said cabinet official to resign. To be considered valid, a motion of no confidence shall require:
 (a) A petition signed by at least one-third of the members of the House to initiate the motion;
 (b) A majority vote of the House approving of the motion, and in the case of the motion being against the First Secretary, the simultaneous nomination and election of a new First Secretary within said motion, conducted no sooner than thirty days after the petition is filed, unless an emergency is declared by a two-thirds vote.
-Section 6. Congress shall, by law, establish an order in which cabinet officials shall assume the office of First Secretary in the case of the removal, death, or resignation of the First Secretary from office without a motion to vacate, or in which they shall assume the powers and duties of the First Secretary in case of the inability to discharge the powers and duties of said office, until the disability be removed. This shall be considered Organic Law.
-Section 7. The President shall retain the authority to:
+Section 6. No active officer of any of the branches of government shall simultaneously be an active officer of any other branch of government.
+Section 7. Congress shall, by law, establish an order in which cabinet officials shall assume the office of First Secretary in the case of the removal, death, or resignation of the First Secretary from office without a motion to vacate, or in which they shall assume the powers and duties of the First Secretary in case of the inability to discharge the powers and duties of said office, until the disability be removed. This shall be considered Organic Law.
+Section 8. The President shall retain the authority to:
 (a) Nominate ambassadors, public ministers, consuls, and judges, subject to the advice and consent of the Senate, and, where applicable, the First Secretary;
 (b) Grant pardons and reprieves;
 (c) Veto legislation;
 (d) Command the armed forces as Commander in Chief, including the introduction of forces into hostilities;
 (e) Declare and manage states of emergency and adjust budgets during impasses as sanctioned by this Constitution.
 These powers shall not be delegable to the Presidential Cabinet.
-Section 8. Congress shall, by law, establish a mechanism for solving disputes between the President and the Presidential Cabinet regarding delegated authority. 
-Section 9. 
+Section 9. Congress shall, by law, establish a mechanism for solving disputes between the President and the Presidential Cabinet regarding delegated authority. 
+Section 10. 
 (a) The President shall not exercise a pocket veto to prevent a bill from becoming law. If the President does not sign a bill into law within ten days (Sundays excepted) after it is presented, and Congress is adjourned during that period, the bill shall be treated as if the President had returned it with objections, constituting a regular veto.
 (b) If Congress is adjourned when the ten day period expires, the President shall transmit their objections to the bill to the First Secretary (as presiding officer of the House) and the President of the Senate (or their designated agents) within 5 days of the adjournment.
 (c) Congress shall reconvene within thirty days of receiving the veto message to consider the veto, unless already scheduled to reconvene sooner, and may override the veto with a two-thirds majority in both chambers, as provided in Article I, Section 7 of the Constitution.
-Section 10. Article II, Section 2, Clause 3 of this Constitution is hereby repealed.
-Section 11. Congress shall have the power to enforce this article by appropriate legislation. Regulations pertaining to this article shall be classified as Organic Law.
-Section 12. This article shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
+Section 11. Article II, Section 2, Clause 3 of this Constitution is hereby repealed.
+Section 12. Congress shall have the power to enforce this article by appropriate legislation. Regulations pertaining to this article shall be classified as Organic Law.
+Section 13. This article shall take effect for the first Congress convening more than three years after its ratification, allowing sufficient time for Congress to enact necessary legislation and establish transitional procedures. During the interim the existing Executive Office of the President shall operate under current law until reorganized under this article.
 
 
 22. “We The People” Amendment
@@ -466,7 +467,7 @@ Section 3. No suit against the United States or its agencies shall proceed unles
 (a) The claimant demonstrates specific harm, including denial of rights or benefits guaranteed by this Constitution, tied to a constitutional right, statutory duty, or tortious act;
 (b) Administrative remedies, as prescribed by law, are exhausted within one hundred and eighty days of the alleged injury, unless waived by a court for good cause;
 (c) The action is filed within two years of the injury or its discovery, whichever is later.
-Section 4. During their term, the President and First Secretary shall be subject only to impeachment for alleged violations of the law, with civil or criminal suits deferred until post-tenure. The President and Vice President shall enjoy absolute immunity from civil liability for actions taken in the exercise of constitutional duties, unless impeached and removed by Congress.
+Section 4. For the duration of their term, the President, Vice President, and senior officers of the council of state, if created, shall be subject only to impeachment and conviction by Congress for alleged violations of the law, with civil or criminal suits deferred until post-tenure. After the duration of their term, The President and Vice President shall enjoy absolute immunity from civil liability for actions taken in the exercise of constitutional duties, unless having been impeached and removed by Congress.
 Section 5. The President’s power to grant reprieves and pardons under Article II, Section 2, Clause 1 shall not extend to:
 (a) Pardoning themselves or any person for offenses directly related to their own impeachment, conviction, or post-office prosecution;
 (b) Pardoning any person for offenses committed in concert with the President or any of the officers of the Presidential Cabinet that involve abuse of office, obstruction of justice, or violation of this Constitution, as determined by a federal court upon challenge within sixty days of the pardon’s issuance;
@@ -486,12 +487,13 @@ Section 4. This article shall take effect one year after its ratification, allow
 
 33. Succession Clarity Amendment
 Purpose: Resolves ambiguities in the presidential line of succession beyond the Vice President, ensuring a clear chain of command without gaps.
-Section 1. In case of the removal, death, resignation, or inability of both the President and Vice President, the Secretary of State shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Attorney General shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Treasurer shall serve as Acting President.
+Section 1. In case of the death, resignation, or inability of both the President and Vice President, the Secretary of State shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Attorney General shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Treasurer shall serve as Acting President.
 Section 2. Upon assuming the role of Acting President, the new Acting President shall vacate any prior office. 
-Section 3. Congress shall by law designate the order of other officials in the line of succession to serve as Acting President if the above officers are unavailable, ensuring continuity of executive authority. Congress may revise this order as needed, reflecting national priorities and departmental roles. Any such officer shall vacate their position upon assuming the role of Acting President, with the vacancy filled as provided by law.
+Section 3. Congress shall by law designate the order of other officials in the line of succession to serve as Acting President if the above officers are unavailable, ensuring continuity of executive authority. Congress may revise this order as needed, reflecting national priorities and departmental roles.
 Section 4. Any officer serving as Acting President under this article shall exercise the powers and duties of the President but shall not assume the office of President or Vice President. Their service shall continue only until a President or Vice President is elected by special election, as provided by law, or the disability of either is removed, as provided by the Twenty-Fifth Amendment.
-Section 5. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance. Legislation pertaining to this article shall be classified as Organic Law.
-Section 6. This article shall take effect one year after its ratification, with succession laws updated within six months.
+Section 5. Upon the conviction of the President by the Senate following impeachment proceedings, the Senate shall have the power to further remove the Vice President by the concurrence of three-fifths of the members present.
+Section 6. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance. Legislation pertaining to this article shall be classified as Organic Law.
+Section 7. This article shall take effect one year after its ratification, with succession laws updated within six months.
 
 34. Treaty Enforcement Amendment
 Purpose: Clarifies the status and enforcement of treaties, ensuring consistency with domestic law and tribal obligations.
@@ -537,13 +539,13 @@ Section 2.
 (vii) The Surgeon General of the United States, responsible for overseeing federal public health administration and education.
 (c) Congress may, by law enacted with a two-thirds majority vote of both Houses, establish additional senior officers of the Council of State to address critical administrative functions not adequately served by existing officers, provided such roles align with the definition in Section 1(a) and are accompanied by specific duties, qualifications, and funding mechanisms defined in the enacting legislation.
 Section 2. Each Senior Officer of the Council of State shall be appointed by the President, with the advice and consent of two-thirds of the Senate, for a renewable term lasting six years.
-Section 3. Each Senior Officer may be removed only for cause (e.g., malfeasance, gross misconduct, or inability to perform duties) by a two-thirds vote of the House of Representatives, followed by a trial and two-thirds vote of conviction by the Senate, mirroring the impeachment process for other federal officers.
+Section 3. Each Senior Officer may be removed only for cause (e.g., malfeasance, gross misconduct, or inability to perform duties) by impeachment and conviction by Congress.
 Section 4. The Senior Officers of the Council of State shall report to the President for coordination and the Senate for oversight, managing their departments independent of the control of the Presidential Cabinet unless specified by law. They shall operate under the President’s nominal purview for high-level coordination with national policy objectives, including submitting annual reports to the President and consulting on matters of national importance as requested, but such coordination shall not impair their authority to execute their core duties as defined by law or this Constitution. They shall also submit annual reports to Congress and the public to ensure transparency. 
 Section 5. The Attorney General, Treasurer, Inspector General, Secretary of State, and Comptroller General shall collectively serve as the Ethics Committee, as provided by the Code of Conduct Amendment, with the Inspector General chairing the Committee. The Ethics Committee's collective actions shall be reported annually as a unified document, detailing ethics investigations and recommendations, approved by a majority of its five members.
 Section 6.
 (a) The Attorney General shall be the chief law enforcement officer and prosecutor of the United States, to hold executive responsibility for all criminal prosecutions, federal law enforcement, and the representation of the Federal Government in court. They shall oversee the Department of Justice, appoint and supervise U.S. Attorneys (subject to Senate confirmation), oversee the U.S. Marshals Service, and investigate government officials without fear of reprisal, in coordination with other officers of the Council of State.
 (b) The Treasurer shall collect federal revenues, manage the public debt, oversee the U.S. Mint and Bureau of Engraving and Printing, and ensure fiscal transparency, providing annual reports to Congress, the President, and the public as required by law.
-(c) The Inspector General shall investigate waste, fraud, and abuse across all federal departments, oversee the federal bureaucracy, and coordinate the activities of all departmental Inspectors General, who shall serve under six-year terms by Inspector General appointment with the advice and consent of two-thirds of the Senate, removable only by impeachment. Departmental Inspectors General shall report to the Inspector General of the United States and operate independently of the administrative authority of the Presidential Cabinet, subject to oversight by the Inspector General and judicial review.
+(c) The Inspector General shall investigate waste, fraud, and abuse across all federal departments, oversee the federal bureaucracy, and coordinate the activities of all departmental Inspectors General, who shall serve under six-year terms by Inspector General appointment with the advice and consent of two-thirds of the Senate, removable only by impeachment and conviction for cause. Departmental Inspectors General shall report to the Inspector General of the United States and operate independently of the administrative authority of the Presidential Cabinet, subject to oversight by the Inspector General and judicial review.
 (d) The Comptroller General shall audit federal financial accounts, track expenditures, analyze budget compliance, and provide independent fiscal reports to Congress, the President, and the public, ensuring accountability in the use of public funds. 
 (e) The Secretary of State shall:
 (i) Administer federal elections, ensure their integrity, transparency, prevent voter suppression and fraud, monitor lobbying and campaign finance disclosure in coordination with the Attorney General, issue writs of election, ensure the speedy and organized tallying of ballots, and certify election processes;
@@ -574,16 +576,18 @@ Section 11. This article shall take effect one year after its ratification, with
 
 38. Legal Procedures Amendment
 Purpose: Establishes additional legal rights.
-Section 1. Any person charged with a criminal offense in the United States shall be presumed innocent until proven guilty.
-Section 2. No person in the United States shall be coerced into pleading guilty or making other incriminating statements,
-Section 3. Any person unjustly convicted of a criminal offense or deprived of their liberty in the United States has the right to rehabilitation and compensation, and other rights provided by law.
-Section 4. Any person charged with a criminal offense in the United States shall have the free assistance of an interpreter if they cannot understand or speak the language used in court.
-Section 5. A sentence imposed as punishment for crime shall not be greater than a sentence mandated at the time the crime was committed.
-Section 6. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interest of morals, public order or national security, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
-Section 7. Congress shall have the power to enforce this article by appropriate legislation.
+Section 1. All persons in the United States, when acting in an official capacity to enforce the laws, have a positive duty and responsibility to defend the liberties of the public.
+Section 2. All persons charged with a criminal offense in the United States shall be presumed innocent until proven guilty.
+Section 3. No person in the United States shall be coerced into pleading guilty or making other incriminating statements.
+Section 4. Any person unjustly convicted of a criminal offense or deprived of their liberty in the United States has the right to rehabilitation and compensation, and other rights provided by law.
+Section 5. Any person charged with a criminal offense in the United States shall have the free assistance of an interpreter if they cannot understand or speak the language used in court.
+Section 6. A sentence imposed as punishment for crime shall not be greater than a sentence mandated at the time the crime was committed.
+Section 7. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interest of morals, public order or national security, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
+Section 8. The United States shall make no attempt to relieve itself of its Constitutional duties through the transfer of detainees protected by this Constitution to foreign jurisdictions.
+Section 9. Congress shall have the power to enforce this article by appropriate legislation.
 
 39. Collective Punishment Amendment
 Purpose: Protects against collective punishment and Federal discrimination against States.
 Section 1. No punishment for criminal activity levied in the United States may be levied on a group or community for acts committed by individuals within said group or community with no control over or direct association with the perpetuator.
-Section 2. The United States shall not construct or pursue policy intended to arbitrarily punish or otherwise discriminate against any State.
+Section 2. The United States shall not construct or pursue policy intended to punish or otherwise discriminate against any State for political affiliation or any other arbitrary purpose.
 Section 3. Congress shall have the power to enforce this article by appropriate legislation.
