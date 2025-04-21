@@ -503,14 +503,7 @@ Section 2. Congress shall have the power to enact laws to implement and enforce 
 Section 3. No treaty shall be abrogated or modified without the consent of the United States, expressed through congressional action, and, where applicable, the other parties to the treaty, except as provided by the treaty’s terms.
 Section 4. This article shall take effect one year after its ratification, with Congress reviewing existing treaties within six months.
 
-35. Municipalization Amendment
-Purpose: Empowers municipalities to own, operate, and manage public services.
-Section 1. The United States and the several States shall recognize the right of municipalities to establish, acquire, own, operate, and manage public services, including but not limited to water, electricity, natural gas, public transportation, broadband internet, and waste management, as a means of promoting the general welfare, economic security, and democratic governance within their jurisdictions.
-Section 2. No law or regulation of the United States or any State shall unduly restrict the right of municipalities to municipalize public services, except where necessary to protect public health, safety, or interstate commerce. Any such restriction shall be narrowly tailored, use the least restrictive means, and be subject to judicial review by the appropriate judicial authority upon petition by an affected municipality or its residents.
-Section 3. Nothing in this article shall be construed to limit the rights of Indian tribes to manage their lands and resources.
-Section 4. Congress shall have the power to enforce this article by appropriate legislation.
-
-36. Firearm Amendment
+35. Firearm Amendment
 Purpose: Clarifies the respective roles of the United States and the several states in regulating firearms, affirming that gun control is primarily a state issue with limited federal authority, while ensuring the Second Amendment rights of individuals are protected.
 Section 1. The several states shall have the primary authority to regulate the manufacture, sale, purchase, possession, transfer, and use of firearms and ammunition within their jurisdictions, consistent with the Second Amendment to this Constitution.
 Section 2. The United States shall have the authority to regulate firearms and ammunition only in the following areas:
@@ -525,11 +518,11 @@ Section 5. Within one year of the ratification of this article, Congress shall r
 Section 6. Nothing in this article shall be construed to limit the rights of Indian tribes to regulate firearms on their lands.
 Section 7. This article shall take effect one year after its ratification, allowing time for Congress and the several states to review and adjust existing laws, establish interstate standards, and prepare for implementation.
 
-37. Council of State Amendment
+36. Council of State Amendment
 Purpose: Establishes the Council of State, and certain key federal positions as senior officers of the Council of State, independent positions directly accountable to the Senate and delegated exclusive executive powers.
 Section 1. The Council of State is hereby established as the chief advisory body of the President of the United States. The Presidential Cabinet shall be the executive committee of the Council of State. Congress may, by law, establish additional offices and committees within the Council of State.
 Section 2. 
-(a) The Senior Officers of the Council of State are part of the federal bureaucracy, delegated with exclusive administrative powers beyond the delegated authority of independent agencies, insulated from direct executive or partisan interference except where prescribed by law, and accountable directly to the Senate and the President. The First Secretary, if established, shall be a member of the Council of State, but their title shall not be defined by the terms of this article, being unique in purpose and function.
+(a) The Senior Officers of the Council of State are part of the federal bureaucracy, delegated with exclusive administrative powers beyond the delegated authority of independent agencies, insulated from direct executive or partisan interference except where prescribed by law, and accountable directly to the Senate and the President. The Vice President and the First Secretary, if established, shall be a member of the Council of State, but their offices shall not be defined by the terms of this article, being unique in purpose and function.
 (b) The following offices are hereby established as Senior Officers of the Council of State:
 (i) The Attorney General of the United States, chief legal advisor to the President, responsible for enforcing federal laws and overseeing the Department of Justice;
 (ii) The Treasurer of the United States, chief economic advisor to the President, responsible for managing federal finances, revenue collection, debt issuance, the minting of currency, and fiscal transparency;
@@ -575,7 +568,7 @@ Section 10. Congress shall have the power to enforce this article by appropriate
 Regulations governing the appointment and duties of Senior Officers, as well as the establishment of additional Senior Offices of the Council of State, shall be classified as Organic Law.
 Section 11. This article shall take effect one year after its ratification, with the first appointments occurring within six months thereafter.
 
-38. Legal Procedures Amendment
+37. Legal Procedures Amendment
 Purpose: Establishes additional legal rights.
 Section 1. All persons in the United States, when acting in an official capacity to enforce the laws, have a positive duty and responsibility to defend the liberties of the public.
 Section 2. All persons charged with a criminal offense in the United States shall be presumed innocent until proven guilty.
@@ -587,7 +580,7 @@ Section 7. Judgment shall be pronounced publicly but the press and public may be
 Section 8. The United States shall make no attempt to relieve itself of its Constitutional duties through the transfer of detainees protected by this Constitution to foreign jurisdictions.
 Section 9. Congress shall have the power to enforce this article by appropriate legislation.
 
-39. Collective Punishment Amendment
+38. Collective Punishment Amendment
 Purpose: Protects against collective punishment and Federal discrimination against States.
 Section 1. No punishment for criminal activity levied in the United States may be levied on a group or community for acts committed by individuals within said group or community with no control over or direct association with the perpetuator.
 Section 2. The United States shall not construct or pursue policy intended to punish or otherwise discriminate against any State for political affiliation or any other arbitrary purpose.
