@@ -110,10 +110,11 @@ Section 1. Article I, Section 1 of this Constitution shall be amended to read as
 Section 2. The people shall have the power to propose laws by petition, and to enact or reject them by vote, independent of the Congress and the President, subject to the provisions of this article.
 Section 3. A petition bearing the signatures of at least seven percent of the voters in the last general election, with at least two thirds of the States having one-fifth of one percent of their population being signatories, shall qualify a citizen initiative proposal for a national ballot. The Secretary of State shall administer the petition process, including the collection, verification, and certification of signatures, in accordance with standards prescribed by Congress. Congress shall by law establish the time, manner, and procedures for such petitions, and may review and refine proposals for clarity and legality before ballot placement, with assistance from the Secretary of State.
 Section 4. Congress may, by law, refer proposed legislation to the people by placing them on the ballot, to be enacted or rejected via referenda in the same manner as citizen initiatives.
-Section 5. Referenda approved by a majority of voters in a national election, held concurrently with elections for the House of Representatives, shall become law provided they do not violate the rights guaranteed by this Constitution, as determined by the Constitutional Court. The Secretary of State shall oversee the inclusion of qualified proposals on the national ballot, ensure their fair presentation to voters, and certify the results after adjudication by the Electoral Court, if established.
+Section 5. Referenda approved by a majority of voters in a national election, held concurrently with elections for the House of Representatives, shall become law provided they do not violate the rights guaranteed by this Constitution, as determined by the Constitutional Court. The Secretary of State shall oversee the inclusion of qualified proposals on the national ballot and ensure their fair presentation to voters.
 Section 6. If a referendum is rejected by a majority of voters, legislation having the same effect may not be passed for a duration lasting five years.
-Section 7. If the Secretary of State as established by the Council of State Amendment does not exist, Congress shall instead create a National Referendum Administration to perform the duties described in this article apart from certification.
-Section 8. Congress shall have the power to enforce this article by appropriate legislation. Legislation pertaining to this article shall be classified as Organic Law.
+Section 7. Congress shall refer legislation on the creation of convene a Constitutional Review Commission shall convene to assess the Constitution’s effectiveness and propose amendments as needed every twenty years. The first Constitutional Review legislation shall be referred thirty years after the ratification of this amendment.
+Section 8. If the Secretary of State as established by the Council of State Amendment does not exist, Congress shall instead create a National Referendum Administration to perform the duties described in this article apart from certification.
+Section 9. Congress shall have the power to enforce this article by appropriate legislation. Legislation pertaining to this article shall be classified as Organic Law.
 
 
 9. Recall Amendment
@@ -395,18 +396,7 @@ Section 8. Congress shall have the power to enforce this article by appropriate 
 Section 9. Nothing in this article shall be construed to alter the constitutional authority of the President as Commander in Chief or the inherent right of the United States to self-defense.
 Section 10. This article shall take effect one year after the date of its ratification.
 
-
-26. Constitutional Review Amendment
-Purpose: Creates a mechanism for periodic review of the Constitution.
-Section 1. Every thirty years, a Constitutional Review Commission shall convene to assess the Constitution’s effectiveness and propose amendments as needed. The first review shall occur thirty years after the ratification of this article.
-Section 2. The Commission shall include legal scholars, historians, representatives from each branch of the government of the United States, and public members chosen through a nonpartisan process.
-Section 3. The Commission shall conduct public hearings and gather input from citizens to ensure transparency and broad participation. All proposed amendments shall be submitted to Congress for review.
-Section 4. Any amendments proposed by the Commission must be approved by the process outlined in this Constitution.
-Section 5. Congress shall enact legislation to enforce this article, including laws to define the Commission’s composition, procedures, and funding, and to ensure public access to its work. Legislation pertaining to this article shall be classified as Organic Law.
-Section 6. This article shall take effect immediately upon ratification.
-
-
-27. House of Representatives Amendment
+26. House of Representatives Amendment
 Purpose: Reapportions representatives by the cube root law to ensure adequate representation, and establishes Instant Runoff Voting as the electoral mechanism for congressional districts.
 Section 1. Representatives shall be apportioned among the several states shall be determined by applying the cube root of the total population of the United States, as ascertained by the most recent decennial census, rounded to the nearest whole number, with the enumerations happening within the first three years of every decade. Each State shall be apportioned its share of Representatives according to its population, using the method of equal proportions as Congress shall by law direct. Each state shall have at least one representative, and for every state that is granted one representative where they would otherwise have none, one representative shall be subtracted from the total number of seats when apportioning representatives by equal proportions.
 Section 2. The Electors in each congressional district shall elect one or multiple Representatives by the method of Ranked Choice Voting, whereby each Elector shall rank the candidates in order of preference. If no candidate shall attain a majority of first-preference votes, the candidate with the fewest such votes shall be eliminated, and the votes cast for that candidate shall be redistributed according to the next preference indicated on each ballot. This process shall continue until one candidate shall have secured a majority of the votes. If there are multiple representatives elected in one district, candidates must receive a quota of votes of votes representing a majority divided by the number of seats to be filled, after which point said candidate shall be treated as if they were eliminated. Upon the victory of a candidate within a congressional district with multiple representatives, votes exceeding the quota of votes required for victory shall be distributed to the next preference.
@@ -415,7 +405,7 @@ Section 4. The Standing Rules of the House of Representatives shall be classifie
 Section 5. The determination of the number of Representatives as provided in Section 1 shall take effect for the first Congress chosen following the next decennial census conducted after the ratification of this article. The method of election by Instant Runoff Voting shall be implemented in all States for the first election of Representatives following such ratification, and Section 3 shall be implemented in all subsequent elections. Congress shall have power to enforce this article by appropriate legislation, including the establishment of uniform procedures for the conduct of such elections and the provision of necessary resources to the States for the adoption thereof. All provisions of this Constitution or laws of the United States inconsistent with this article are hereby amended to the extent necessary to give effect to these requirements.
 
 
-28. Emergency Powers Amendment
+27. Emergency Powers Amendment
 Purpose: Defines and limits the executive’s emergency powers, ensuring accountability and preventing abuse.
 Section 1. Congress shall have the power to delegate extraordinary authority to the President, which may be activated upon the President's declaration of a state of emergency.
 Section 2. The President may declare a state of emergency only in response to a national crisis, such as a natural disaster, pandemic, threat to national security, or attack on the United States, its citizens, its allies, or its armed forces. Such declarations must be specific in scope and duration.
@@ -433,7 +423,7 @@ Section 9. After a period lasting five years after the ratification of this arti
 Section 10. This article shall take effect immediately upon its ratification, with the compliance process for existing declarations commencing concurrently.
 
 
-29. Citizenship and Residency Amendment
+28. Citizenship and Residency Amendment
 Purpose: Clarifies the rights and responsibilities of lawful permanent residents and temporary residents, the exclusive rights and privileges of citizens, and the responsibilities of citizens, while preserving equal protection under the law for all persons.
 Section 1. Lawful permanent residents, legally admitted to reside permanently, and temporary residents, legally admitted to reside for a defined period under federal law, shall have rights to reside, work, own property, and access due process, subject to law. Their status may be revoked only by judicial process for cause, consistent with their respective admission terms.
 Section 2. Citizens alone shall have exclusive rights to vote in federal and state elections, hold federal office, serve on federal juries, and receive consular protection abroad, with responsibilities to pay taxes and serve in drafts as required by law.
@@ -444,7 +434,7 @@ Section 6. Congress shall have the power to enforce this article by appropriate 
 Section 7. This article shall take effect immediately upon its ratification.
 
 
-30. Property Rights Amendment
+29. Property Rights Amendment
 Purpose: Affirms and protects the fundamental right of individuals to acquire, own, use, and dispose of private property, ensuring its security against arbitrary interference.
 Section 1. The right to acquire, own, use, and dispose of private property, including real and personal property, shall not be abridged.
 Section 2. The United States and the states shall not impose unreasonable restrictions on the ownership or use of property, including excessive taxation, arbitrary zoning, or discriminatory regulations, that undermine the exercise of this right.
@@ -454,7 +444,7 @@ Section 5. This article shall not be construed to limit the rights of Indian tri
 Section 6. This article shall take effect immediately upon its ratification.
 
 
-31. Sovereign Accountability Amendment 
+30. Sovereign Accountability Amendment 
 Purpose: Limits sovereign immunity, ensures accountability of the United States and its officers for violations of rights, duties, and torts, and regulates Presidential pardons, enhancing justice and transparency.
 Section 1. The United States and its agencies shall not enjoy absolute immunity from suit in federal or state courts. Sovereign immunity is hereby waived for:
 (a) Violations of rights guaranteed by this Constitution or its amendments;
@@ -478,7 +468,7 @@ Section 7. Congress shall have the power to enforce this article by appropriate 
 Section 8. This article shall take effect one year after its ratification, allowing time for Congress to enact implementing legislation.
 
 
-32. Congressional Vacancies Amendment
+31. Congressional Vacancies Amendment
 Purpose: Clarifies and standardizes the process for filling vacancies in Congress, ensuring continuity and representation without ambiguity.
 Section 1. Whenever a vacancy occurs in the House of Representatives, the executive authority of the affected state shall issue a writ of election to fill such vacancy within ninety days, unless the vacancy occurs within one hundred and twenty days of the next House of Representatives election, in which case it may remain vacant until that election.
 Section 2. Whenever a vacancy occurs in the Senate, the legislature of the affected state shall appoint a replacement within thirty days to serve until the next House of Representatives election for that seat. If the legislature is not in session within thirty days, the governor may make a temporary appointment until the legislature reconvenes or the next House of Representatives election, whichever comes first. If the legislature fails to appoint within thirty days while in session, the governor shall appoint a temporary replacement within 15 days, serving until the legislature acts or the next House of Representatives election.
@@ -486,7 +476,7 @@ Section 3. Congress shall have the power to enforce this article by appropriate 
 Section 4. This article shall take effect one year after its ratification, allowing states to align election laws within six months.
 
 
-33. Succession Clarity Amendment
+32. Succession Clarity Amendment
 Purpose: Resolves ambiguities in the presidential line of succession beyond the Vice President, ensuring a clear chain of command without gaps.
 Section 1. In case of the death, resignation, or inability of both the President and Vice President, the Secretary of State shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Attorney General shall serve as acting President. In case of the vacancy or inability of the Secretary of State, the Treasurer shall serve as Acting President.
 Section 2. Upon assuming the role of Acting President, the new Acting President shall vacate any prior office. 
@@ -496,14 +486,14 @@ Section 5. Upon the conviction of the President by the Senate following impeachm
 Section 6. Congress shall have the power to enforce this article by appropriate legislation, including laws to define procedures for succession, special elections, and temporary governance. Legislation pertaining to this article shall be classified as Organic Law.
 Section 7. This article shall take effect one year after its ratification, with succession laws updated within six months.
 
-34. Treaty Enforcement Amendment
+33. Treaty Enforcement Amendment
 Purpose: Clarifies the status and enforcement of treaties, ensuring consistency with domestic law and tribal obligations.
 Section 1. All treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land, equal in force to federal statutes, and shall be binding on the United States and the several states.
 Section 2. Congress shall have the power to enact laws to implement and enforce treaties, including those with Indian tribes, resolving conflicts with state laws or prior statutes through legislation or judicial review.
 Section 3. No treaty shall be abrogated or modified without the consent of the United States, expressed through congressional action, and, where applicable, the other parties to the treaty, except as provided by the treaty’s terms.
 Section 4. This article shall take effect one year after its ratification, with Congress reviewing existing treaties within six months.
 
-35. Firearm Amendment
+34. Firearm Amendment
 Purpose: Clarifies the respective roles of the United States and the several states in regulating firearms, affirming that gun control is primarily a state issue with limited federal authority, while ensuring the Second Amendment rights of individuals are protected.
 Section 1. The United States shall have the authority to regulate firearms and ammunition only in the following areas:
 (a) Interstate and international commerce in firearms and ammunition, to prevent trafficking and ensure compliance with state laws;
@@ -515,7 +505,7 @@ Section 4. Within one year of the ratification of this article, Congress shall r
 Section 5. Nothing in this article shall be construed to limit the rights of Indian tribes to regulate firearms on their lands.
 Section 6. This article shall take effect one year after its ratification, allowing time for Congress and the several states to review and adjust existing laws, establish interstate standards, and prepare for implementation.
 
-36. Council of State Amendment
+35. Council of State Amendment
 Purpose: Establishes the Council of State, and certain key federal positions as senior officers of the Council of State, independent positions directly accountable to the Senate and delegated exclusive executive powers.
 Section 1. The Council of State is hereby established as the chief advisory body of the President of the United States. The Presidential Cabinet shall be the executive committee of the Council of State. Congress may, by law, establish additional offices and committees within the Council of State.
 Section 2. 
@@ -565,7 +555,7 @@ Section 10. Congress shall have the power to enforce this article by appropriate
 Regulations governing the appointment and duties of Senior Officers, as well as the establishment of additional Senior Offices of the Council of State, shall be classified as Organic Law.
 Section 11. This article shall take effect one year after its ratification, with the first appointments occurring within six months thereafter.
 
-37. Legal Procedures Amendment
+36. Legal Procedures Amendment
 Purpose: Establishes additional legal rights.
 Section 1. All persons in the United States, when acting in an official capacity to enforce the laws, have a positive duty and responsibility to defend the liberties of the public.
 Section 2. All persons charged with a criminal offense in the United States shall be presumed innocent until proven guilty.
@@ -577,7 +567,7 @@ Section 7. Judgment shall be pronounced publicly but the press and public may be
 Section 8. The United States shall make no attempt to relieve itself of its Constitutional duties through the transfer of detainees protected by this Constitution to foreign jurisdictions.
 Section 9. Congress shall have the power to enforce this article by appropriate legislation.
 
-38. Collective Punishment Amendment
+37. Collective Punishment Amendment
 Purpose: Protects against collective punishment and Federal discrimination against States.
 Section 1. No punishment for criminal activity levied in the United States may be levied on a group or community for acts committed by individuals within said group or community with no control over or direct association with the perpetuator.
 Section 2. The United States shall not construct or pursue policy intended to punish or otherwise discriminate against any State for political affiliation or any other arbitrary purpose.
