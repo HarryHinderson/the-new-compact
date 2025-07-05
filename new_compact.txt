@@ -293,7 +293,7 @@ Section 6. This article shall take effect for the first federal election occurri
 
 
 21. Parliamentary Amendment
-Purpose: Makes the office of the First Secretary, who oversees the Presidential cabinet, presides over the House, and is delegated authority over the day-to-day administration of the state.
+Purpose: Makes the office of the First Secretary, who oversees the Presidential cabinet and is delegated authority over the day-to-day administration of the state.
 Section 1. The office of the First Secretary is hereby established. The First Secretary shall oversee the Presidential cabinet, which shall be the chief executive committee of the United States.
 Section 2. The First Secretary shall be appointed by the President, with the advice and consent of the House of Representatives, at the beginning of the first Congress after each election for the House of Representatives, and shall serve at the pleasure of the President, unless removed as provided herein.
 Section 3. The President shall retain all executive authority vested in the office by this Constitution but shall delegate to the Presidential Cabinet the day-to-day administration of affairs. Upon the appointment of the first First Secretary, and unless otherwise limited by statute, the Cabinet shall be delegated the full scope of delegable day-to-day administrative powers over policy, including but not limited to:
@@ -571,5 +571,4 @@ Section 9. Congress shall have the power to enforce this article by appropriate 
 37. Collective Punishment Amendment
 Purpose: Protects against collective punishment and Federal discrimination against States.
 Section 1. No punishment for criminal activity levied in the United States may be levied on a group or community for acts committed by individuals within said group or community with no control over or direct association with the perpetuator.
-Section 2. The United States shall not construct or pursue policy intended to punish or otherwise discriminate against any State for political affiliation or any other arbitrary purpose.
-Section 3. Congress shall have the power to enforce this article by appropriate legislation.
+Section 2. Congress shall have the power to enforce this article by appropriate legislation.
